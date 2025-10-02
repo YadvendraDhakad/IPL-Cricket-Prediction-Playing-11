@@ -1,0 +1,1025 @@
+id,city,date,player_of_match,venue,neutral_venue,team1,team2,toss_winner,toss_decision,winner,result,result_margin,eliminator,method,umpire1,umpire2
+335982.0,Bangalore,2008-04-18,BB McCullum,venue,0,Royal Challengers Bangalore,Kolkata Knight Riders,Royal Challengers Bangalore,field,Kolkata Knight Riders,runs,140.0,N,,Asad Rauf,RE Koertzen
+335983.0,Chandigarh,2008-04-19,MEK Hussey,venue,0,Kings XI Punjab,Chennai Super Kings,Chennai Super Kings,bat,Chennai Super Kings,runs,33.0,N,,MR Benson,SL Shastri
+335984.0,Delhi,2008-04-19,MF Maharoof,venue,0,Delhi Capitals,Rajasthan Royals,Rajasthan Royals,bat,Delhi Capitals,runs,9.0,N,,Aleem Dar,GA Pratapkumar
+335985.0,Mumbai,2008-04-20,MV Boucher,venue,0,Mumbai Indians,Royal Challengers Bangalore,Mumbai Indians,bat,Royal Challengers Bangalore,runs,5.0,N,,SJ Davis,DJ Harper
+335986.0,Kolkata,2008-04-20,DJ Hussey,venue,0,Kolkata Knight Riders,Deccan Chargers,Deccan Chargers,bat,Kolkata Knight Riders,runs,5.0,N,,BF Bowden,K Hariharan
+335987.0,Jaipur,2008-04-21,SR Watson,venue,0,Rajasthan Royals,Kings XI Punjab,Kings XI Punjab,bat,Rajasthan Royals,runs,6.0,N,,Aleem Dar,RB Tiffin
+335988.0,Hyderabad,2008-04-22,V Sehwag,venue,0,Deccan Chargers,Delhi Capitals,Deccan Chargers,bat,Delhi Capitals,runs,9.0,N,,IL Howell,AM Saheba
+335989.0,Chennai,2008-04-23,ML Hayden,venue,0,Chennai Super Kings,Mumbai Indians,Mumbai Indians,field,Chennai Super Kings,runs,6.0,N,,DJ Harper,GA Pratapkumar
+335990.0,Hyderabad,2008-04-24,YK Pathan,venue,0,Deccan Chargers,Rajasthan Royals,Rajasthan Royals,field,Rajasthan Royals,runs,3.0,N,,Asad Rauf,MR Benson
+335991.0,Chandigarh,2008-04-25,KC Sangakkara,venue,0,Kings XI Punjab,Mumbai Indians,Mumbai Indians,field,Kings XI Punjab,runs,66.0,N,,Aleem Dar,AM Saheba
+335992.0,Bangalore,2008-04-26,SR Watson,venue,0,Royal Challengers Bangalore,Rajasthan Royals,Rajasthan Royals,field,Rajasthan Royals,runs,7.0,N,,MR Benson,IL Howell
+335993.0,Chennai,2008-04-26,JDP Oram,venue,0,Chennai Super Kings,Kolkata Knight Riders,Kolkata Knight Riders,bat,Chennai Super Kings,runs,9.0,N,,BF Bowden,AV Jayaprakash
+335994.0,Mumbai,2008-04-27,AC Gilchrist,venue,0,Mumbai Indians,Deccan Chargers,Deccan Chargers,field,Deccan Chargers,runs,10.0,N,,Asad Rauf,SL Shastri
+335995.0,Chandigarh,2008-04-27,SM Katich,venue,0,Kings XI Punjab,Delhi Capitals,Delhi Daredevils,bat,Kings XI Punjab,runs,4.0,N,,RE Koertzen,I Shivram
+335996.0,Bangalore,2008-04-28,MS Dhoni,venue,0,Royal Challengers Bangalore,Chennai Super Kings,Chennai Super Kings,bat,Chennai Super Kings,runs,13.0,N,,BR Doctrove,RB Tiffin
+335997.0,Kolkata,2008-04-29,ST Jayasuriya,venue,0,Kolkata Knight Riders,Mumbai Indians,Kolkata Knight Riders,bat,Mumbai Indians,runs,7.0,N,,BF Bowden,AV Jayaprakash
+335998.0,Delhi,2008-04-30,GD McGrath,venue,0,Delhi Capitals,Royal Challengers Bangalore,Royal Challengers Bangalore,field,Delhi Capitals,runs,10.0,N,,Aleem Dar,I Shivram
+335999.0,Hyderabad,2008-05-01,SE Marsh,venue,0,Deccan Chargers,Kings XI Punjab,Kings XI Punjab,field,Kings XI Punjab,runs,7.0,N,,BR Doctrove,RB Tiffin
+336000.0,Jaipur,2008-05-01,SA Asnodkar,venue,0,Rajasthan Royals,Kolkata Knight Riders,Rajasthan Royals,bat,Rajasthan Royals,runs,45.0,N,,RE Koertzen,GA Pratapkumar
+336001.0,Chennai,2008-05-02,V Sehwag,venue,0,Chennai Super Kings,Delhi Capitals,Chennai Super Kings,bat,Delhi Capitals,runs,8.0,N,,BF Bowden,K Hariharan
+336002.0,Bangalore,2008-05-03,P Kumar,venue,0,Royal Challengers Bangalore,Deccan Chargers,Deccan Chargers,field,Royal Challengers Bangalore,runs,5.0,N,,BR Doctrove,RE Koertzen
+336003.0,Chandigarh,2008-05-03,IK Pathan,venue,0,Kings XI Punjab,Kolkata Knight Riders,Kings XI Punjab,bat,Kings XI Punjab,runs,9.0,N,,DJ Harper,I Shivram
+336004.0,Mumbai,2008-05-04,SM Pollock,venue,0,Mumbai Indians,Delhi Capitals,Delhi Daredevils,field,Mumbai Indians,runs,29.0,N,,IL Howell,RE Koertzen
+336005.0,Jaipur,2008-05-04,Sohail Tanvir,venue,0,Rajasthan Royals,Chennai Super Kings,Chennai Super Kings,bat,Rajasthan Royals,runs,8.0,N,,Asad Rauf,AV Jayaprakash
+336006.0,Bangalore,2008-05-05,S Sreesanth,venue,0,Royal Challengers Bangalore,Kings XI Punjab,Kings XI Punjab,field,Kings XI Punjab,runs,6.0,N,,SJ Davis,BR Doctrove
+336007.0,Chennai,2008-05-06,AC Gilchrist,venue,0,Chennai Super Kings,Deccan Chargers,Deccan Chargers,field,Deccan Chargers,runs,7.0,N,,MR Benson,RB Tiffin
+336008.0,Mumbai,2008-05-07,A Nehra,venue,0,Mumbai Indians,Rajasthan Royals,Mumbai Indians,field,Mumbai Indians,runs,7.0,N,,DJ Harper,RE Koertzen
+336009.0,Delhi,2008-05-08,MS Dhoni,venue,0,Delhi Capitals,Chennai Super Kings,Chennai Super Kings,field,Chennai Super Kings,runs,4.0,N,,Aleem Dar,RB Tiffin
+336010.0,Kolkata,2008-05-08,SC Ganguly,venue,0,Kolkata Knight Riders,Royal Challengers Bangalore,Kolkata Knight Riders,bat,Kolkata Knight Riders,runs,5.0,N,,Asad Rauf,IL Howell
+336011.0,Jaipur,2008-05-09,YK Pathan,venue,0,Rajasthan Royals,Deccan Chargers,Rajasthan Royals,field,Rajasthan Royals,runs,8.0,N,,MR Benson,AM Saheba
+336012.0,Chennai,2008-05-10,L Balaji,venue,0,Chennai Super Kings,Kings XI Punjab,Kings XI Punjab,field,Chennai Super Kings,runs,9.0,N,,AV Jayaprakash,AV Jayaprakash
+336013.0,Hyderabad,2008-05-11,SC Ganguly,venue,0,Deccan Chargers,Kolkata Knight Riders,Kolkata Knight Riders,bat,Kolkata Knight Riders,runs,18.0,N,,IL Howell,BG Jerling
+336014.0,Jaipur,2008-05-11,SR Watson,venue,0,Rajasthan Royals,Delhi Capitals,Rajasthan Royals,field,Rajasthan Royals,runs,23.0,N,,SJ Davis,AM Saheba
+336015.0,Chandigarh,2008-05-12,SE Marsh,venue,0,Kings XI Punjab,Royal Challengers Bangalore,Royal Challengers Bangalore,bat,Kings XI Punjab,runs,3.0,N,,BR Doctrove,RE Koertzen
+336016.0,Kolkata,2008-05-13,Shoaib Akhtar,venue,0,Kolkata Knight Riders,Delhi Capitals,Kolkata Knight Riders,bat,Kolkata Knight Riders,runs,9.0,N,,Asad Rauf,I Shivram
+336017.0,Mumbai,2008-05-14,ST Jayasuriya,venue,0,Mumbai Indians,Chennai Super Kings,Mumbai Indians,field,Mumbai Indians,runs,23.0,N,,BR Doctrove,IL Howell
+336018.0,Delhi,2008-05-15,A Mishra,venue,0,Delhi Capitals,Deccan Chargers,Deccan Chargers,field,Delhi Capitals,runs,9.0,N,,BG Jerling,AM Saheba
+336019.0,Mumbai,2008-05-16,SM Pollock,venue,0,Mumbai Indians,Kolkata Knight Riders,Mumbai Indians,field,Mumbai Indians,runs,41.0,N,,BR Doctrove,K Hariharan
+336020.0,Delhi,2008-05-17,DPMD Jayawardene,venue,0,Delhi Capitals,Kings XI Punjab,Delhi Daredevils,bat,Kings XI Punjab,runs,12.0,N,,AV Jayaprakash,GA Pratapkumar
+336021.0,Jaipur,2008-05-17,GC Smith,venue,0,Rajasthan Royals,Royal Challengers Bangalore,Royal Challengers Bangalore,field,Rajasthan Royals,runs,8.0,N,,BF Bowden,DJ Harper
+336022.0,Hyderabad,2008-05-18,DJ Bravo,venue,0,Deccan Chargers,Mumbai Indians,Deccan Chargers,field,Mumbai Indians,runs,6.0,N,D/L,BR Doctrove,RE Koertzen
+336023.0,Kolkata,2008-05-18,M Ntini,venue,0,Kolkata Knight Riders,Chennai Super Kings,Kolkata Knight Riders,bat,Chennai Super Kings,runs,65.0,N,,Asad Rauf,SL Shastri
+336024.0,Bangalore,2008-05-19,SP Goswami,venue,0,Royal Challengers Bangalore,Delhi Capitals,Delhi Daredevils,field,Delhi Capitals,runs,25.0,N,,SJ Davis,DJ Harper
+336025.0,Kolkata,2008-05-20,YK Pathan,venue,0,Kolkata Knight Riders,Rajasthan Royals,Rajasthan Royals,field,Rajasthan Royals,runs,3.0,N,D/L,BG Jerling,K Hariharan
+336026.0,Chennai,2008-05-21,A Kumble,venue,0,Chennai Super Kings,Royal Challengers Bangalore,Royal Challengers Bangalore,bat,Royal Challengers Bangalore,runs,5.0,N,,DJ Harper,GA Pratapkumar
+336027.0,Mumbai,2008-05-21,SE Marsh,venue,0,Mumbai Indians,Kings XI Punjab,Mumbai Indians,field,Kings XI Punjab,runs,6.0,N,,BF Bowden,RE Koertzen
+336028.0,Chandigarh,2008-05-23,SE Marsh,venue,0,Kings XI Punjab,Deccan Chargers,Kings XI Punjab,field,Kings XI Punjab,runs,1.0,N,,Asad Rauf,GA Pratapkumar
+336029.0,Delhi,2008-05-24,KD Karthik,venue,0,Delhi Capitals,Mumbai Indians,Delhi Daredevils,field,Delhi Capitals,runs,14.0,N,,BF Bowden,I Shivram
+336031.0,Chennai,2008-05-24,JA Morkel,venue,0,Chennai Super Kings,Rajasthan Royals,Rajasthan Royals,bat,Rajasthan Royals,runs,6.0,N,,DJ Harper,SJ Davis
+336032.0,Hyderabad,2008-05-25,R Vinay Kumar,venue,0,Deccan Chargers,Royal Challengers Bangalore,Deccan Chargers,bat,Royal Challengers Bangalore,runs,5.0,N,,Asad Rauf,K Hariharan
+336033.0,Kolkata,2008-05-25,Umar Gul,venue,0,Kolkata Knight Riders,Kings XI Punjab,Kings XI Punjab,bat,Kolkata Knight Riders,runs,10.0,N,,SJ Davis,SL Shastri
+336034.0,Jaipur,2008-05-26,Sohail Tanvir,venue,0,Rajasthan Royals,Mumbai Indians,Rajasthan Royals,field,Rajasthan Royals,runs,3.0,N,,BF Bowden,SL Shastri
+336035.0,Hyderabad,2008-05-27,SK Raina,venue,0,Deccan Chargers,Chennai Super Kings,Deccan Chargers,bat,Chennai Super Kings,runs,3.0,N,,BG Jerling,I Shivram
+336036.0,Bangalore,2008-05-28,CRD Fernando,venue,0,Royal Challengers Bangalore,Mumbai Indians,Mumbai Indians,field,Mumbai Indians,runs,5.0,N,,BF Bowden,K Hariharan
+336037.0,Chandigarh,2008-05-28,SE Marsh,venue,0,Kings XI Punjab,Rajasthan Royals,Rajasthan Royals,field,Kings XI Punjab,runs,7.0,N,,SJ Davis,AM Saheba
+336038.0,Mumbai,2008-05-30,SR Watson,venue,0,Delhi Capitals,Rajasthan Royals,Delhi Daredevils,field,Rajasthan Royals,runs,105.0,N,,BF Bowden,RE Koertzen
+336039.0,Mumbai,2008-05-31,M Ntini,venue,0,Chennai Super Kings,Kings XI Punjab,Kings XI Punjab,bat,Chennai Super Kings,runs,9.0,N,,Asad Rauf,DJ Harper
+336040.0,Mumbai,2008-06-01,YK Pathan,venue,0,Chennai Super Kings,Rajasthan Royals,Rajasthan Royals,field,Rajasthan Royals,runs,3.0,N,,BF Bowden,RE Koertzen
+392181.0,Cape Town,2009-04-18,SR Tendulkar,venue,1,Chennai Super Kings,Mumbai Indians,Chennai Super Kings,field,Mumbai Indians,runs,19.0,N,,BR Doctrove,K Hariharan
+392182.0,Cape Town,2009-04-18,R Dravid,venue,1,Royal Challengers Bangalore,Rajasthan Royals,Royal Challengers Bangalore,bat,Royal Challengers Bangalore,runs,75.0,N,,BR Doctrove,RB Tiffin
+392183.0,Cape Town,2009-04-19,DL Vettori,venue,1,Delhi Capitals,Kings XI Punjab,Delhi Daredevils,field,Delhi Capitals,runs,10.0,N,D/L,MR Benson,SD Ranade
+392184.0,Cape Town,2009-04-19,RP Singh,venue,1,Deccan Chargers,Kolkata Knight Riders,Kolkata Knight Riders,bat,Deccan Chargers,runs,8.0,N,,MR Benson,BR Doctrove
+392185.0,Port Elizabeth,2009-04-20,M Muralitharan,venue,1,Royal Challengers Bangalore,Chennai Super Kings,Chennai Super Kings,bat,Chennai Super Kings,runs,92.0,N,,BG Jerling,SJA Taufel
+392186.0,Durban,2009-04-21,CH Gayle,venue,1,Kings XI Punjab,Kolkata Knight Riders,Kolkata Knight Riders,field,Kolkata Knight Riders,runs,11.0,N,D/L,DJ Harper,SD Ranade
+392188.0,Cape Town,2009-04-22,AC Gilchrist,venue,1,Royal Challengers Bangalore,Deccan Chargers,Deccan Chargers,bat,Deccan Chargers,runs,24.0,N,,M Erasmus,AM Saheba
+392189.0,Cape Town,2009-04-23,YK Pathan,venue,1,Kolkata Knight Riders,Rajasthan Royals,Kolkata Knight Riders,field,,runs,9.0,N,,MR Benson,SJA Taufel
+392190.0,Durban,2009-04-23,AB de Villiers,venue,1,Chennai Super Kings,Delhi Capitals,Delhi Daredevils,bat,Delhi Capitals,runs,,Y,,BR Doctrove,M Erasmus
+392191.0,Durban,2009-04-24,RS Bopara,venue,1,Royal Challengers Bangalore,Kings XI Punjab,Royal Challengers Bangalore,bat,Kings XI Punjab,runs,7.0,N,,BR Doctrove,TH Wijewardene
+392192.0,Durban,2009-04-25,PP Ojha,venue,1,Deccan Chargers,Mumbai Indians,Deccan Chargers,bat,Deccan Chargers,runs,12.0,N,,HDPK Dharmasena,SJA Taufel
+392194.0,Port Elizabeth,2009-04-26,TM Dilshan,venue,1,Royal Challengers Bangalore,Delhi Capitals,Royal Challengers Bangalore,bat,Delhi Capitals,runs,6.0,N,,S Asnani,BG Jerling
+392195.0,Cape Town,2009-04-26,KC Sangakkara,venue,1,Kings XI Punjab,Rajasthan Royals,Kings XI Punjab,bat,Kings XI Punjab,runs,27.0,N,,M Erasmus,K Hariharan
+392196.0,Durban,2009-04-27,HH Gibbs,venue,1,Chennai Super Kings,Deccan Chargers,Deccan Chargers,field,Deccan Chargers,runs,6.0,N,,IL Howell,TH Wijewardene
+392197.0,Port Elizabeth,2009-04-27,SR Tendulkar,venue,1,Kolkata Knight Riders,Mumbai Indians,Mumbai Indians,bat,Mumbai Indians,runs,92.0,N,,BG Jerling,RB Tiffin
+392198.0,Centurion,2009-04-28,YK Pathan,venue,1,Delhi Capitals,Rajasthan Royals,Delhi Daredevils,bat,Rajasthan Royals,runs,5.0,N,,GAV Baxter,RE Koertzen
+392199.0,Durban,2009-04-29,MV Boucher,venue,1,Royal Challengers Bangalore,Kolkata Knight Riders,Kolkata Knight Riders,bat,Royal Challengers Bangalore,runs,5.0,N,,MR Benson,TH Wijewardene
+392200.0,Durban,2009-04-29,KC Sangakkara,venue,1,Kings XI Punjab,Mumbai Indians,Kings XI Punjab,bat,Kings XI Punjab,runs,3.0,N,,MR Benson,SL Shastri
+392201.0,Centurion,2009-04-30,DP Nannes,venue,1,Deccan Chargers,Delhi Capitals,Delhi Daredevils,field,Delhi Capitals,runs,6.0,N,,GAV Baxter,AM Saheba
+392202.0,Centurion,2009-04-30,SK Raina,venue,1,Chennai Super Kings,Rajasthan Royals,Rajasthan Royals,field,Chennai Super Kings,runs,38.0,N,,GAV Baxter,RE Koertzen
+392203.0,East London,2009-05-01,JP Duminy,venue,1,Kolkata Knight Riders,Mumbai Indians,Mumbai Indians,bat,Mumbai Indians,runs,9.0,N,,M Erasmus,SK Tarapore
+392204.0,Durban,2009-05-01,Yuvraj Singh,venue,1,Royal Challengers Bangalore,Kings XI Punjab,Royal Challengers Bangalore,bat,Royal Challengers Bangalore,runs,8.0,N,,HDPK Dharmasena,S Ravi
+392205.0,Johannesburg,2009-05-02,SB Jakati,venue,1,Chennai Super Kings,Delhi Capitals,Delhi Daredevils,field,Chennai Super Kings,runs,3.0,N,,DJ Harper,BG Jerling
+392206.0,Port Elizabeth,2009-05-02,YK Pathan,venue,1,Deccan Chargers,Rajasthan Royals,Deccan Chargers,bat,Rajasthan Royals,runs,18.0,N,,S Asnani,RE Koertzen
+392207.0,Johannesburg,2009-05-03,JH Kallis,venue,1,Royal Challengers Bangalore,Mumbai Indians,Mumbai Indians,bat,Royal Challengers Bangalore,runs,6.0,N,,RE Koertzen,MR Benson
+392208.0,Port Elizabeth,2009-05-03,DPMD Jayawardene,venue,1,Kings XI Punjab,Kolkata Knight Riders,Kolkata Knight Riders,bat,Kings XI Punjab,runs,9.0,N,,S Asnani,TH Wijewardene
+392209.0,East London,2009-05-04,MS Dhoni,venue,1,Chennai Super Kings,Deccan Chargers,Chennai Super Kings,bat,Chennai Super Kings,runs,78.0,N,,BR Doctrove,M Erasmus
+392210.0,Durban,2009-05-05,GC Smith,venue,1,Kings XI Punjab,Rajasthan Royals,Kings XI Punjab,field,Rajasthan Royals,runs,78.0,N,,SS Hazare,IL Howell
+392211.0,Durban,2009-05-05,G Gambhir,venue,1,Delhi Capitals,Kolkata Knight Riders,Kolkata Knight Riders,bat,Delhi Capitals,runs,9.0,N,,GAV Baxter,IL Howell
+392212.0,Centurion,2009-05-06,RG Sharma,venue,1,Deccan Chargers,Mumbai Indians,Deccan Chargers,bat,Deccan Chargers,runs,19.0,N,,MR Benson,HDPK Dharmasena
+392213.0,Centurion,2009-05-07,A Singh,venue,1,Royal Challengers Bangalore,Rajasthan Royals,Rajasthan Royals,field,Rajasthan Royals,runs,7.0,N,,K Hariharan,DJ Harper
+392214.0,Centurion,2009-05-07,ML Hayden,venue,1,Chennai Super Kings,Kings XI Punjab,Chennai Super Kings,bat,Chennai Super Kings,runs,12.0,N,D/L,DJ Harper,TH Wijewardene
+392215.0,East London,2009-05-08,A Nehra,venue,1,Delhi Capitals,Mumbai Indians,Mumbai Indians,bat,Delhi Capitals,runs,7.0,N,,M Erasmus,SK Tarapore
+392216.0,Kimberley,2009-05-09,DPMD Jayawardene,venue,1,Deccan Chargers,Kings XI Punjab,Kings XI Punjab,field,Kings XI Punjab,runs,3.0,N,,GAV Baxter,AM Saheba
+392217.0,Kimberley,2009-05-09,S Badrinath,venue,1,Chennai Super Kings,Rajasthan Royals,Rajasthan Royals,bat,Chennai Super Kings,runs,7.0,N,,GAV Baxter,HDPK Dharmasena
+392218.0,Port Elizabeth,2009-05-10,JP Duminy,venue,1,Royal Challengers Bangalore,Mumbai Indians,Mumbai Indians,bat,Mumbai Indians,runs,16.0,N,,BR Doctrove,BG Jerling
+392219.0,Johannesburg,2009-05-10,A Mishra,venue,1,Delhi Capitals,Kolkata Knight Riders,Delhi Daredevils,field,Delhi Capitals,runs,7.0,N,,SL Shastri,RB Tiffin
+392220.0,Kimberley,2009-05-11,DR Smith,venue,1,Deccan Chargers,Rajasthan Royals,Deccan Chargers,bat,Deccan Chargers,runs,53.0,N,,GAV Baxter,HDPK Dharmasena
+392221.0,Centurion,2009-05-12,Harbhajan Singh,venue,1,Kings XI Punjab,Mumbai Indians,Kings XI Punjab,bat,Mumbai Indians,runs,6.0,N,,SS Hazare,SS Hazare
+392222.0,Centurion,2009-05-12,LRPL Taylor,venue,1,Royal Challengers Bangalore,Kolkata Knight Riders,Royal Challengers Bangalore,field,Royal Challengers Bangalore,runs,8.0,N,,M Erasmus,RE Koertzen
+392223.0,Durban,2009-05-13,R Bhatia,venue,1,Deccan Chargers,Delhi Capitals,Deccan Chargers,field,Delhi Capitals,runs,12.0,N,,DJ Harper,SL Shastri
+392224.0,Durban,2009-05-14,LRPL Taylor,venue,1,Royal Challengers Bangalore,Chennai Super Kings,Chennai Super Kings,bat,Royal Challengers Bangalore,runs,2.0,N,,BR Doctrove,DJ Harper
+392225.0,Durban,2009-05-14,SK Warne,venue,1,Mumbai Indians,Rajasthan Royals,Rajasthan Royals,bat,Rajasthan Royals,runs,2.0,N,,BR Doctrove,DJ Harper
+392226.0,Bloemfontein,2009-05-15,B Lee,venue,1,Delhi Capitals,Kings XI Punjab,Kings XI Punjab,field,Kings XI Punjab,runs,6.0,N,,HDPK Dharmasena,IL Howell
+392227.0,Port Elizabeth,2009-05-16,ML Hayden,venue,1,Chennai Super Kings,Mumbai Indians,Mumbai Indians,bat,Chennai Super Kings,runs,7.0,N,,SK Tarapore,SJA Taufel
+392228.0,Johannesburg,2009-05-16,RG Sharma,venue,1,Deccan Chargers,Kolkata Knight Riders,Deccan Chargers,field,Deccan Chargers,runs,6.0,N,,RE Koertzen,S Ravi
+392229.0,Johannesburg,2009-05-17,Yuvraj Singh,venue,1,Deccan Chargers,Kings XI Punjab,Deccan Chargers,field,Kings XI Punjab,runs,1.0,N,,S Ravi,RB Tiffin
+392230.0,Bloemfontein,2009-05-17,AB de Villiers,venue,1,Delhi Capitals,Rajasthan Royals,Delhi Daredevils,bat,Delhi Capitals,runs,14.0,N,,SS Hazare,IL Howell
+392231.0,Centurion,2009-05-18,BJ Hodge,venue,1,Chennai Super Kings,Kolkata Knight Riders,Chennai Super Kings,bat,Kolkata Knight Riders,runs,7.0,N,,SJA Taufel,RB Tiffin
+392232.0,Johannesburg,2009-05-19,JH Kallis,venue,1,Royal Challengers Bangalore,Delhi Capitals,Delhi Daredevils,bat,Royal Challengers Bangalore,runs,7.0,N,,IL Howell,RB Tiffin
+392233.0,Durban,2009-05-20,LR Shukla,venue,1,Kolkata Knight Riders,Rajasthan Royals,Kolkata Knight Riders,field,Kolkata Knight Riders,runs,4.0,N,,BG Jerling,SJA Taufel
+392234.0,Durban,2009-05-20,M Muralitharan,venue,1,Chennai Super Kings,Kings XI Punjab,Chennai Super Kings,bat,Chennai Super Kings,runs,24.0,N,,BG Jerling,SJA Taufel
+392235.0,Centurion,2009-05-21,V Sehwag,venue,1,Delhi Capitals,Mumbai Indians,Delhi Daredevils,field,Delhi Capitals,runs,4.0,N,,IL Howell,S Ravi
+392236.0,Centurion,2009-05-21,MK Pandey,venue,1,Royal Challengers Bangalore,Deccan Chargers,Royal Challengers Bangalore,bat,Royal Challengers Bangalore,runs,12.0,N,,IL Howell,S Ravi
+392237.0,Centurion,2009-05-22,AC Gilchrist,venue,1,Delhi Capitals,Deccan Chargers,Deccan Chargers,field,Deccan Chargers,runs,6.0,N,,BR Doctrove,DJ Harper
+392238.0,Johannesburg,2009-05-23,MK Pandey,venue,1,Royal Challengers Bangalore,Chennai Super Kings,Royal Challengers Bangalore,field,Royal Challengers Bangalore,runs,6.0,N,,RE Koertzen,SJA Taufel
+392239.0,Johannesburg,2009-05-24,A Kumble,venue,1,Royal Challengers Bangalore,Deccan Chargers,Royal Challengers Bangalore,field,Deccan Chargers,runs,6.0,N,,RE Koertzen,SJA Taufel
+419106.0,Mumbai,2010-03-12,AD Mathews,venue,0,Deccan Chargers,Kolkata Knight Riders,Deccan Chargers,field,Kolkata Knight Riders,runs,11.0,N,,RE Koertzen,RB Tiffin
+419107.0,Mumbai,2010-03-13,YK Pathan,venue,0,Mumbai Indians,Rajasthan Royals,Mumbai Indians,bat,Mumbai Indians,runs,4.0,N,,RE Koertzen,RB Tiffin
+419108.0,Chandigarh,2010-03-13,G Gambhir,venue,0,Kings XI Punjab,Delhi Capitals,Delhi Daredevils,field,Delhi Capitals,runs,5.0,N,,BR Doctrove,S Ravi
+419109.0,Kolkata,2010-03-14,MK Tiwary,venue,0,Kolkata Knight Riders,Royal Challengers Bangalore,Kolkata Knight Riders,field,Kolkata Knight Riders,runs,7.0,N,,HDPK Dharmasena,AM Saheba
+419110.0,Chennai,2010-03-14,WPUJC Vaas,venue,0,Chennai Super Kings,Deccan Chargers,Deccan Chargers,bat,Deccan Chargers,runs,31.0,N,,K Hariharan,DJ Harper
+419111.0,Ahmedabad,2010-03-15,V Sehwag,venue,0,Rajasthan Royals,Delhi Capitals,Delhi Daredevils,field,Delhi Capitals,runs,6.0,N,,BG Jerling,RE Koertzen
+419112.0,Bangalore,2010-03-16,JH Kallis,venue,0,Royal Challengers Bangalore,Kings XI Punjab,Kings XI Punjab,bat,Royal Challengers Bangalore,runs,8.0,N,,S Das,DJ Harper
+419113.0,Kolkata,2010-03-16,MS Dhoni,venue,0,Kolkata Knight Riders,Chennai Super Kings,Chennai Super Kings,bat,Chennai Super Kings,runs,55.0,N,,HDPK Dharmasena,AM Saheba
+419114.0,Delhi,2010-03-17,SR Tendulkar,venue,0,Delhi Capitals,Mumbai Indians,Delhi Daredevils,field,Mumbai Indians,runs,98.0,N,,BR Doctrove,SK Tarapore
+419115.0,Bangalore,2010-03-18,JH Kallis,venue,0,Royal Challengers Bangalore,Rajasthan Royals,Royal Challengers Bangalore,field,Royal Challengers Bangalore,runs,10.0,N,,K Hariharan,DJ Harper
+419116.0,Delhi,2010-03-19,ML Hayden,venue,0,Delhi Capitals,Chennai Super Kings,Delhi Daredevils,bat,Chennai Super Kings,runs,5.0,N,,BR Doctrove,SK Tarapore
+419117.0,Cuttack,2010-03-19,A Symonds,venue,0,Deccan Chargers,Kings XI Punjab,Kings XI Punjab,field,Deccan Chargers,runs,6.0,N,,BF Bowden,M Erasmus
+419118.0,Ahmedabad,2010-03-20,AA Jhunjhunwala,venue,0,Rajasthan Royals,Kolkata Knight Riders,Rajasthan Royals,bat,Rajasthan Royals,runs,34.0,N,,RE Koertzen,RB Tiffin
+419119.0,Mumbai,2010-03-20,JH Kallis,venue,0,Mumbai Indians,Royal Challengers Bangalore,Mumbai Indians,bat,Royal Challengers Bangalore,runs,7.0,N,,HDPK Dharmasena,SS Hazare
+419120.0,Cuttack,2010-03-21,A Symonds,venue,0,Deccan Chargers,Delhi Capitals,Deccan Chargers,bat,Deccan Chargers,runs,10.0,N,,BF Bowden,M Erasmus
+419121.0,Chennai,2010-03-21,J Theron,venue,0,Chennai Super Kings,Kings XI Punjab,Chennai Super Kings,field,,runs,,Y,,K Hariharan,DJ Harper
+419122.0,Mumbai,2010-03-22,SR Tendulkar,venue,0,Mumbai Indians,Kolkata Knight Riders,Kolkata Knight Riders,bat,Mumbai Indians,runs,7.0,N,,SS Hazare,SJA Taufel
+419123.0,Bangalore,2010-03-23,RV Uthappa,venue,0,Royal Challengers Bangalore,Chennai Super Kings,Chennai Super Kings,field,Royal Challengers Bangalore,runs,36.0,N,,RE Koertzen,RB Tiffin
+419124.0,Chandigarh,2010-03-24,AC Voges,venue,0,Kings XI Punjab,Rajasthan Royals,Kings XI Punjab,field,Rajasthan Royals,runs,31.0,N,,BR Doctrove,SK Tarapore
+419125.0,Mumbai,2010-03-25,SR Tendulkar,venue,0,Chennai Super Kings,Mumbai Indians,Mumbai Indians,field,Mumbai Indians,runs,5.0,N,,AM Saheba,AM Saheba
+419126.0,Bangalore,2010-03-25,KM Jadhav,venue,0,Royal Challengers Bangalore,Delhi Capitals,Royal Challengers Bangalore,field,Delhi Capitals,runs,8.0,N,,BG Jerling,SJA Taufel
+419127.0,Ahmedabad,2010-03-26,YK Pathan,venue,0,Rajasthan Royals,Deccan Chargers,Deccan Chargers,bat,Rajasthan Royals,runs,39.0,N,,HDPK Dharmasena,S Ravi
+419128.0,Chandigarh,2010-03-27,MK Tiwary,venue,0,Kings XI Punjab,Kolkata Knight Riders,Kolkata Knight Riders,bat,Kolkata Knight Riders,runs,17.0,N,,BR Doctrove,RE Koertzen
+419129.0,Mumbai,2010-03-28,Harbhajan Singh,venue,0,Deccan Chargers,Mumbai Indians,Deccan Chargers,field,Mumbai Indians,runs,17.0,N,,S Das,SJA Taufel
+419130.0,Ahmedabad,2010-03-28,NV Ojha,venue,0,Rajasthan Royals,Chennai Super Kings,Rajasthan Royals,bat,Rajasthan Royals,runs,41.0,N,,SS Hazare,K Hariharan
+419131.0,Delhi,2010-03-29,DA Warner,venue,0,Delhi Capitals,Kolkata Knight Riders,Delhi Daredevils,bat,Delhi Capitals,runs,40.0,N,,SS Hazare,SJA Taufel
+419132.0,Mumbai,2010-03-30,SL Malinga,venue,0,Mumbai Indians,Kings XI Punjab,Mumbai Indians,field,Mumbai Indians,runs,4.0,N,,BR Doctrove,SK Tarapore
+419133.0,Delhi,2010-03-31,KD Karthik,venue,0,Delhi Capitals,Rajasthan Royals,Delhi Daredevils,bat,Delhi Capitals,runs,5.0,N,,HDPK Dharmasena,RE Koertzen
+419134.0,Chennai,2010-03-31,M Vijay,venue,0,Chennai Super Kings,Royal Challengers Bangalore,Royal Challengers Bangalore,bat,Chennai Super Kings,runs,67.0,N,,BG Jerling,SJA Taufel
+419135.0,Kolkata,2010-04-01,SC Ganguly,venue,0,Kolkata Knight Riders,Deccan Chargers,Kolkata Knight Riders,bat,Kolkata Knight Riders,runs,24.0,N,,K Hariharan,DJ Harper
+419136.0,Chandigarh,2010-04-02,KP Pietersen,venue,0,Kings XI Punjab,Royal Challengers Bangalore,Kings XI Punjab,bat,Royal Challengers Bangalore,runs,6.0,N,,BF Bowden,M Erasmus
+419137.0,Chennai,2010-04-03,M Vijay,venue,0,Chennai Super Kings,Rajasthan Royals,Chennai Super Kings,bat,Chennai Super Kings,runs,23.0,N,,RE Koertzen,RB Tiffin
+419138.0,Mumbai,2010-04-03,AT Rayudu,venue,0,Mumbai Indians,Deccan Chargers,Mumbai Indians,bat,Mumbai Indians,runs,63.0,N,,BR Doctrove,S Ravi
+419139.0,Delhi,2010-04-04,PD Collingwood,venue,0,Delhi Capitals,Royal Challengers Bangalore,Delhi Daredevils,bat,Delhi Capitals,runs,8.0,N,,BF Bowden,DJ Harper
+419140.0,Kolkata,2010-04-04,DPMD Jayawardene,venue,0,Kolkata Knight Riders,Kings XI Punjab,Kolkata Knight Riders,bat,Kings XI Punjab,runs,37.0,N,,S Asnani,M Erasmus
+419141.0,Nagpur,2010-04-05,SK Warne,venue,0,Deccan Chargers,Rajasthan Royals,Rajasthan Royals,bat,Rajasthan Royals,runs,2.0,N,,HDPK Dharmasena,SJA Taufel
+419142.0,Chennai,2010-04-06,SK Raina,venue,0,Chennai Super Kings,Mumbai Indians,Chennai Super Kings,bat,Chennai Super Kings,runs,24.0,N,,S Asnani,DJ Harper
+419143.0,Jaipur,2010-04-07,MJ Lumb,venue,0,Rajasthan Royals,Kings XI Punjab,Kings XI Punjab,bat,Rajasthan Royals,runs,9.0,N,,S Ravi,SK Tarapore
+419144.0,Kolkata,2010-04-07,SC Ganguly,venue,0,Kolkata Knight Riders,Delhi Capitals,Kolkata Knight Riders,bat,Kolkata Knight Riders,runs,14.0,N,,BG Jerling,RE Koertzen
+419145.0,Bangalore,2010-04-08,TL Suman,venue,0,Royal Challengers Bangalore,Deccan Chargers,Deccan Chargers,field,Deccan Chargers,runs,7.0,N,,S Asnani,DJ Harper
+419146.0,Chandigarh,2010-04-09,KC Sangakkara,venue,0,Kings XI Punjab,Mumbai Indians,Mumbai Indians,bat,Kings XI Punjab,runs,6.0,N,,M Erasmus,AM Saheba
+419147.0,Nagpur,2010-04-10,RJ Harris,venue,0,Deccan Chargers,Chennai Super Kings,Chennai Super Kings,bat,Deccan Chargers,runs,6.0,N,,HDPK Dharmasena,SJA Taufel
+419148.0,Bangalore,2010-04-10,R Vinay Kumar,venue,0,Royal Challengers Bangalore,Kolkata Knight Riders,Royal Challengers Bangalore,field,Royal Challengers Bangalore,runs,7.0,N,,K Hariharan,DJ Harper
+419149.0,Delhi,2010-04-11,PP Chawla,venue,0,Delhi Capitals,Kings XI Punjab,Delhi Daredevils,bat,Kings XI Punjab,runs,7.0,N,,BF Bowden,AM Saheba
+419150.0,Jaipur,2010-04-11,SR Tendulkar,venue,0,Rajasthan Royals,Mumbai Indians,Rajasthan Royals,field,Mumbai Indians,runs,37.0,N,,BR Doctrove,SK Tarapore
+419151.0,Nagpur,2010-04-12,Harmeet Singh,venue,0,Deccan Chargers,Royal Challengers Bangalore,Royal Challengers Bangalore,field,Deccan Chargers,runs,13.0,N,,RE Koertzen,RB Tiffin
+419152.0,Mumbai,2010-04-13,KA Pollard,venue,0,Mumbai Indians,Delhi Capitals,Mumbai Indians,bat,Mumbai Indians,runs,39.0,N,,S Asnani,DJ Harper
+419153.0,Chennai,2010-04-13,R Ashwin,venue,0,Chennai Super Kings,Kolkata Knight Riders,Kolkata Knight Riders,bat,Chennai Super Kings,runs,9.0,N,,SS Hazare,SJA Taufel
+419154.0,Jaipur,2010-04-14,KP Pietersen,venue,0,Rajasthan Royals,Royal Challengers Bangalore,Rajasthan Royals,bat,Royal Challengers Bangalore,runs,5.0,N,,BR Doctrove,S Ravi
+419155.0,Chennai,2010-04-15,G Gambhir,venue,0,Chennai Super Kings,Delhi Capitals,Chennai Super Kings,bat,Delhi Capitals,runs,6.0,N,,HDPK Dharmasena,SS Hazare
+419156.0,Dharamsala,2010-04-16,RG Sharma,venue,0,Kings XI Punjab,Deccan Chargers,Deccan Chargers,field,Deccan Chargers,runs,5.0,N,,M Erasmus,AM Saheba
+419157.0,Kolkata,2010-04-17,JD Unadkat,venue,0,Kolkata Knight Riders,Rajasthan Royals,Rajasthan Royals,bat,Kolkata Knight Riders,runs,57.0,N,,BG Jerling,SJA Taufel
+419158.0,Bangalore,2010-04-17,R McLaren,venue,0,Royal Challengers Bangalore,Mumbai Indians,Royal Challengers Bangalore,field,Mumbai Indians,runs,8.0,N,,HDPK Dharmasena,RB Tiffin
+419159.0,Dharamsala,2010-04-18,MS Dhoni,venue,0,Kings XI Punjab,Chennai Super Kings,Chennai Super Kings,field,Chennai Super Kings,runs,6.0,N,,BF Bowden,AM Saheba
+419160.0,Delhi,2010-04-18,A Symonds,venue,0,Delhi Capitals,Deccan Chargers,Deccan Chargers,bat,Deccan Chargers,runs,11.0,N,,BR Doctrove,SK Tarapore
+419161.0,Kolkata,2010-04-19,M Kartik,venue,0,Kolkata Knight Riders,Mumbai Indians,Mumbai Indians,bat,Kolkata Knight Riders,runs,9.0,N,,BG Jerling,RE Koertzen
+419162.0,Mumbai,2010-04-21,KA Pollard,venue,0,Royal Challengers Bangalore,Mumbai Indians,Mumbai Indians,bat,Mumbai Indians,runs,35.0,N,,BR Doctrove,RB Tiffin
+419163.0,Mumbai,2010-04-22,DE Bollinger,venue,0,Chennai Super Kings,Deccan Chargers,Chennai Super Kings,bat,Chennai Super Kings,runs,38.0,N,,BR Doctrove,RB Tiffin
+419164.0,Mumbai,2010-04-24,A Kumble,venue,0,Royal Challengers Bangalore,Deccan Chargers,Deccan Chargers,bat,Royal Challengers Bangalore,runs,9.0,N,,RE Koertzen,SJA Taufel
+419165.0,Mumbai,2010-04-25,SK Raina,venue,0,Chennai Super Kings,Mumbai Indians,Chennai Super Kings,bat,Chennai Super Kings,runs,22.0,N,,RE Koertzen,SJA Taufel
+501198.0,Chennai,2011-04-08,S Anirudha,venue,0,Chennai Super Kings,Kolkata Knight Riders,Chennai Super Kings,bat,Chennai Super Kings,runs,2.0,N,,BR Doctrove,PR Reiffel
+501199.0,Hyderabad,2011-04-09,SK Trivedi,venue,0,Deccan Chargers,Rajasthan Royals,Rajasthan Royals,field,Rajasthan Royals,runs,8.0,N,,RE Koertzen,SK Tarapore
+501200.0,Kochi,2011-04-09,AB de Villiers,venue,0,Kochi Tuskers Kerala,Royal Challengers Bangalore,Kochi Tuskers Kerala,bat,Royal Challengers Bangalore,runs,6.0,N,,HDPK Dharmasena,K Hariharan
+501201.0,Delhi,2011-04-10,SL Malinga,venue,0,Delhi Capitals,Mumbai Indians,Delhi Daredevils,bat,Mumbai Indians,runs,8.0,N,,AM Saheba,RB Tiffin
+501202.0,Mumbai,2011-04-10,SB Wagh,venue,0,Pune Warriors,Kings XI Punjab,Kings XI Punjab,bat,Pune Warriors,runs,7.0,N,,BR Doctrove,PR Reiffel
+501203.0,Kolkata,2011-04-11,JH Kallis,venue,0,Kolkata Knight Riders,Deccan Chargers,Kolkata Knight Riders,bat,Kolkata Knight Riders,runs,9.0,N,,RE Koertzen,SK Tarapore
+501204.0,Jaipur,2011-04-12,SK Warne,venue,0,Rajasthan Royals,Delhi Capitals,Delhi Daredevils,bat,Rajasthan Royals,runs,6.0,N,,Aleem Dar,RB Tiffin
+501205.0,Bangalore,2011-04-12,SR Tendulkar,venue,0,Royal Challengers Bangalore,Mumbai Indians,Mumbai Indians,field,Mumbai Indians,runs,9.0,N,,HDPK Dharmasena,AL Hill
+501206.0,Chandigarh,2011-04-13,PC Valthaty,venue,0,Kings XI Punjab,Chennai Super Kings,Kings XI Punjab,field,Kings XI Punjab,runs,6.0,N,,Asad Rauf,SL Shastri
+501207.0,Mumbai,2011-04-13,MD Mishra,venue,0,Pune Warriors,Kochi Tuskers Kerala,Kochi Tuskers Kerala,bat,Pune Warriors,runs,4.0,N,,S Asnani,PR Reiffel
+501208.0,Hyderabad,2011-04-14,DW Steyn,venue,0,Deccan Chargers,Royal Challengers Bangalore,Royal Challengers Bangalore,field,Deccan Chargers,runs,33.0,N,,RE Koertzen,S Ravi
+501209.0,Jaipur,2011-04-15,G Gambhir,venue,0,Rajasthan Royals,Kolkata Knight Riders,Kolkata Knight Riders,field,Kolkata Knight Riders,runs,9.0,N,,Aleem Dar,SS Hazare
+501210.0,Mumbai,2011-04-15,BB McCullum,venue,0,Mumbai Indians,Kochi Tuskers Kerala,Kochi Tuskers Kerala,field,Kochi Tuskers Kerala,runs,8.0,N,,BR Doctrove,PR Reiffel
+501211.0,Hyderabad,2011-04-16,PC Valthaty,venue,0,Deccan Chargers,Kings XI Punjab,Kings XI Punjab,field,Kings XI Punjab,runs,21.0,N,,RE Koertzen,AL Hill
+501212.0,Chennai,2011-04-16,MEK Hussey,venue,0,Chennai Super Kings,Royal Challengers Bangalore,Chennai Super Kings,bat,Chennai Super Kings,runs,8.0,N,,HDPK Dharmasena,S Ravi
+501213.0,Mumbai,2011-04-17,Yuvraj Singh,venue,0,Pune Warriors,Delhi Capitals,Delhi Daredevils,field,Delhi Capitals,runs,3.0,N,,Asad Rauf,AM Saheba
+501214.0,Kolkata,2011-04-17,L Balaji,venue,0,Kolkata Knight Riders,Rajasthan Royals,Kolkata Knight Riders,field,Kolkata Knight Riders,runs,8.0,N,,Aleem Dar,RB Tiffin
+501215.0,Kochi,2011-04-18,BB McCullum,venue,0,Kochi Tuskers Kerala,Chennai Super Kings,Kochi Tuskers Kerala,field,Kochi Tuskers Kerala,runs,7.0,N,D/L,K Hariharan,AL Hill
+501216.0,Delhi,2011-04-19,S Sohal,venue,0,Delhi Capitals,Deccan Chargers,Deccan Chargers,bat,Deccan Chargers,runs,16.0,N,,PR Reiffel,RJ Tucker
+501218.0,Mumbai,2011-04-20,MM Patel,venue,0,Mumbai Indians,Pune Warriors,Pune Warriors,bat,Mumbai Indians,runs,7.0,N,,Asad Rauf,AM Saheba
+501219.0,Kolkata,2011-04-20,DPMD Jayawardene,venue,0,Kolkata Knight Riders,Kochi Tuskers Kerala,Kolkata Knight Riders,field,Kochi Tuskers Kerala,runs,6.0,N,,Aleem Dar,RB Tiffin
+501220.0,Chandigarh,2011-04-21,SE Marsh,venue,0,Kings XI Punjab,Rajasthan Royals,Rajasthan Royals,field,Kings XI Punjab,runs,48.0,N,,S Asnani,PR Reiffel
+501221.0,Mumbai,2011-04-22,Harbhajan Singh,venue,0,Mumbai Indians,Chennai Super Kings,Chennai Super Kings,field,Mumbai Indians,runs,8.0,N,,Asad Rauf,AM Saheba
+501222.0,Kolkata,2011-04-22,CH Gayle,venue,0,Kolkata Knight Riders,Royal Challengers Bangalore,Royal Challengers Bangalore,field,Royal Challengers Bangalore,runs,9.0,N,,SS Hazare,RB Tiffin
+501223.0,Delhi,2011-04-23,DA Warner,venue,0,Delhi Capitals,Kings XI Punjab,Kings XI Punjab,field,Delhi Capitals,runs,29.0,N,,S Asnani,RE Koertzen
+501224.0,Hyderabad,2011-04-24,SL Malinga,venue,0,Deccan Chargers,Mumbai Indians,Deccan Chargers,field,Mumbai Indians,runs,37.0,N,,HDPK Dharmasena,AL Hill
+501225.0,Jaipur,2011-04-24,SK Warne,venue,0,Rajasthan Royals,Kochi Tuskers Kerala,Rajasthan Royals,field,Rajasthan Royals,runs,8.0,N,,BR Doctrove,SK Tarapore
+501226.0,Chennai,2011-04-25,MEK Hussey,venue,0,Chennai Super Kings,Pune Warriors,Pune Warriors,field,Chennai Super Kings,runs,25.0,N,,Aleem Dar,RB Tiffin
+501227.0,Delhi,2011-04-26,V Kohli,venue,0,Delhi Capitals,Royal Challengers Bangalore,Royal Challengers Bangalore,field,Royal Challengers Bangalore,runs,3.0,N,,S Asnani,RJ Tucker
+501228.0,Kochi,2011-04-27,I Sharma,venue,0,Kochi Tuskers Kerala,Deccan Chargers,Kochi Tuskers Kerala,field,Deccan Chargers,runs,8.0,N,,HDPK Dharmasena,SL Shastri
+501229.0,Mumbai,2011-04-27,DE Bollinger,venue,0,Pune Warriors,Chennai Super Kings,Pune Warriors,bat,Chennai Super Kings,runs,55.0,N,,Asad Rauf,AL Hill
+501230.0,Delhi,2011-04-28,MK Tiwary,venue,0,Delhi Capitals,Kolkata Knight Riders,Delhi Daredevils,field,Kolkata Knight Riders,runs,17.0,N,,PR Reiffel,RJ Tucker
+501231.0,Jaipur,2011-04-29,J Botha,venue,0,Rajasthan Royals,Mumbai Indians,Rajasthan Royals,field,Rajasthan Royals,runs,7.0,N,,Asad Rauf,SK Tarapore
+501232.0,Bangalore,2011-04-29,V Kohli,venue,0,Royal Challengers Bangalore,Pune Warriors,Pune Warriors,field,Royal Challengers Bangalore,runs,26.0,N,,Aleem Dar,SS Hazare
+501233.0,Kochi,2011-04-30,V Sehwag,venue,0,Kochi Tuskers Kerala,Delhi Capitals,Delhi Daredevils,bat,Delhi Capitals,runs,38.0,N,,HDPK Dharmasena,AL Hill
+501234.0,Kolkata,2011-04-30,Iqbal Abdulla,venue,0,Kolkata Knight Riders,Kings XI Punjab,Kolkata Knight Riders,field,Kolkata Knight Riders,runs,8.0,N,,AM Saheba,SL Shastri
+501235.0,Jaipur,2011-05-01,LRPL Taylor,venue,0,Rajasthan Royals,Pune Warriors,Rajasthan Royals,field,Rajasthan Royals,runs,6.0,N,,SK Tarapore,SJA Taufel
+501236.0,Chennai,2011-05-01,JA Morkel,venue,0,Chennai Super Kings,Deccan Chargers,Chennai Super Kings,bat,Chennai Super Kings,runs,19.0,N,,Aleem Dar,RB Tiffin
+501237.0,Delhi,2011-05-02,P Parameswaran,venue,0,Delhi Capitals,Kochi Tuskers Kerala,Kochi Tuskers Kerala,field,Kochi Tuskers Kerala,runs,23.0,N,,Asad Rauf,PR Reiffel
+501238.0,Mumbai,2011-05-02,KA Pollard,venue,0,Mumbai Indians,Kings XI Punjab,Kings XI Punjab,field,Mumbai Indians,runs,7.0,N,,HDPK Dharmasena,SL Shastri
+501239.0,Hyderabad,2011-05-03,YK Pathan,venue,0,Deccan Chargers,Kolkata Knight Riders,Deccan Chargers,field,Kolkata Knight Riders,runs,20.0,N,,S Asnani,RJ Tucker
+501240.0,Chennai,2011-05-04,MEK Hussey,venue,0,Chennai Super Kings,Rajasthan Royals,Rajasthan Royals,bat,Chennai Super Kings,runs,8.0,N,,SS Hazare,RB Tiffin
+501241.0,Mumbai,2011-05-04,R Sharma,venue,0,Pune Warriors,Mumbai Indians,Pune Warriors,field,Mumbai Indians,runs,21.0,N,,HDPK Dharmasena,SJA Taufel
+501242.0,Kochi,2011-05-05,BJ Hodge,venue,0,Kochi Tuskers Kerala,Kolkata Knight Riders,Kolkata Knight Riders,field,Kochi Tuskers Kerala,runs,17.0,N,,S Ravi,RJ Tucker
+501243.0,Hyderabad,2011-05-05,V Sehwag,venue,0,Deccan Chargers,Delhi Capitals,Delhi Daredevils,field,Delhi Capitals,runs,4.0,N,,Asad Rauf,AM Saheba
+501244.0,Bangalore,2011-05-06,CH Gayle,venue,0,Royal Challengers Bangalore,Kings XI Punjab,Kings XI Punjab,field,Royal Challengers Bangalore,runs,85.0,N,,Aleem Dar,RB Tiffin
+501245.0,Mumbai,2011-05-07,AT Rayudu,venue,0,Mumbai Indians,Delhi Capitals,Delhi Daredevils,field,Mumbai Indians,runs,10.0,N,D/L,K Hariharan,PR Reiffel
+501246.0,Kolkata,2011-05-07,Iqbal Abdulla,venue,0,Kolkata Knight Riders,Chennai Super Kings,Chennai Super Kings,bat,Kolkata Knight Riders,runs,32.0,N,,Asad Rauf,SJA Taufel
+501247.0,Chandigarh,2011-05-08,R Sharma,venue,0,Kings XI Punjab,Pune Warriors,Kings XI Punjab,bat,Pune Warriors,runs,9.0,N,,SK Tarapore,SS Hazare
+501248.0,Bangalore,2011-05-08,CH Gayle,venue,0,Royal Challengers Bangalore,Kochi Tuskers Kerala,Kochi Tuskers Kerala,bat,Royal Challengers Bangalore,runs,5.0,N,,Aleem Dar,RJ Tucker
+501249.0,Jaipur,2011-05-09,M Vijay,venue,0,Rajasthan Royals,Chennai Super Kings,Rajasthan Royals,field,Chennai Super Kings,runs,63.0,N,,K Hariharan,SJA Taufel
+501250.0,Hyderabad,2011-05-10,MR Marsh,venue,0,Deccan Chargers,Pune Warriors,Deccan Chargers,bat,Pune Warriors,runs,6.0,N,,Asad Rauf,AM Saheba
+501251.0,Chandigarh,2011-05-10,BA Bhatt,venue,0,Kings XI Punjab,Mumbai Indians,Mumbai Indians,field,Kings XI Punjab,runs,76.0,N,,SK Tarapore,RJ Tucker
+501252.0,Jaipur,2011-05-11,S Aravind,venue,0,Rajasthan Royals,Royal Challengers Bangalore,Royal Challengers Bangalore,field,Royal Challengers Bangalore,runs,9.0,N,,HDPK Dharmasena,K Hariharan
+501253.0,Chennai,2011-05-12,MS Dhoni,venue,0,Chennai Super Kings,Delhi Capitals,Chennai Super Kings,bat,Chennai Super Kings,runs,18.0,N,,AM Saheba,SL Shastri
+501254.0,Indore,2011-05-13,KD Karthik,venue,0,Kochi Tuskers Kerala,Kings XI Punjab,Kings XI Punjab,field,Kings XI Punjab,runs,6.0,N,,S Asnani,RJ Tucker
+501255.0,Bangalore,2011-05-14,CH Gayle,venue,0,Royal Challengers Bangalore,Kolkata Knight Riders,Royal Challengers Bangalore,field,Royal Challengers Bangalore,runs,4.0,N,D/L,RE Koertzen,RB Tiffin
+501256.0,Mumbai,2011-05-14,A Mishra,venue,0,Mumbai Indians,Deccan Chargers,Deccan Chargers,bat,Deccan Chargers,runs,10.0,N,,S Ravi,SK Tarapore
+501257.0,Dharamsala,2011-05-15,PP Chawla,venue,0,Kings XI Punjab,Delhi Capitals,Delhi Daredevils,field,Kings XI Punjab,runs,29.0,N,,Asad Rauf,SL Shastri
+501258.0,Indore,2011-05-15,BJ Hodge,venue,0,Kochi Tuskers Kerala,Rajasthan Royals,Kochi Tuskers Kerala,field,Kochi Tuskers Kerala,runs,8.0,N,,PR Reiffel,RJ Tucker
+501259.0,Mumbai,2011-05-16,A Mishra,venue,0,Pune Warriors,Deccan Chargers,Deccan Chargers,field,Deccan Chargers,runs,6.0,N,,S Ravi,SK Tarapore
+501260.0,Dharamsala,2011-05-17,AC Gilchrist,venue,0,Kings XI Punjab,Royal Challengers Bangalore,Kings XI Punjab,bat,Kings XI Punjab,runs,111.0,N,,Asad Rauf,AM Saheba
+501261.0,Chennai,2011-05-18,WP Saha,venue,0,Chennai Super Kings,Kochi Tuskers Kerala,Chennai Super Kings,bat,Chennai Super Kings,runs,11.0,N,,HDPK Dharmasena,RE Koertzen
+501262.0,Mumbai,2011-05-19,YK Pathan,venue,0,Pune Warriors,Kolkata Knight Riders,Kolkata Knight Riders,field,Kolkata Knight Riders,runs,7.0,N,,S Ravi,SJA Taufel
+501263.0,Mumbai,2011-05-20,SR Watson,venue,0,Mumbai Indians,Rajasthan Royals,Mumbai Indians,bat,Rajasthan Royals,runs,10.0,N,,RE Koertzen,PR Reiffel
+501264.0,Dharamsala,2011-05-21,S Dhawan,venue,0,Kings XI Punjab,Deccan Chargers,Kings XI Punjab,field,Deccan Chargers,runs,82.0,N,,Asad Rauf,AM Saheba
+501265.0,Delhi,2011-05-21,,venue,0,Delhi Capitals,Pune Warriors,Delhi Daredevils,bat,,runs,,,,SS Hazare,RJ Tucker
+501266.0,Bangalore,2011-05-22,CH Gayle,venue,0,Royal Challengers Bangalore,Chennai Super Kings,Royal Challengers Bangalore,field,Royal Challengers Bangalore,runs,8.0,N,,K Hariharan,RE Koertzen
+501267.0,Kolkata,2011-05-22,JEC Franklin,venue,0,Kolkata Knight Riders,Mumbai Indians,Mumbai Indians,field,Mumbai Indians,runs,5.0,N,,SK Tarapore,SJA Taufel
+501268.0,Mumbai,2011-05-24,SK Raina,venue,0,Royal Challengers Bangalore,Chennai Super Kings,Chennai Super Kings,field,Chennai Super Kings,runs,6.0,N,,Asad Rauf,SJA Taufel
+501269.0,Mumbai,2011-05-25,MM Patel,venue,0,Mumbai Indians,Kolkata Knight Riders,Mumbai Indians,field,Mumbai Indians,runs,4.0,N,,Asad Rauf,SJA Taufel
+501270.0,Chennai,2011-05-27,CH Gayle,venue,0,Royal Challengers Bangalore,Mumbai Indians,Mumbai Indians,field,Royal Challengers Bangalore,runs,43.0,N,,Asad Rauf,SJA Taufel
+501271.0,Chennai,2011-05-28,M Vijay,venue,0,Chennai Super Kings,Royal Challengers Bangalore,Chennai Super Kings,bat,Chennai Super Kings,runs,58.0,N,,Asad Rauf,SJA Taufel
+548306.0,Chennai,2012-04-04,RE Levi,venue,0,Chennai Super Kings,Mumbai Indians,Mumbai Indians,field,Mumbai Indians,runs,8.0,N,,JD Cloete,SJA Taufel
+548307.0,Kolkata,2012-04-05,IK Pathan,venue,0,Kolkata Knight Riders,Delhi Capitals,Delhi Daredevils,field,Delhi Capitals,runs,8.0,N,,S Asnani,HDPK Dharmasena
+548308.0,Mumbai,2012-04-06,SPD Smith,venue,0,Mumbai Indians,Pune Warriors,Mumbai Indians,field,Pune Warriors,runs,28.0,N,,AK Chaudhary,SJA Taufel
+548309.0,Jaipur,2012-04-06,AM Rahane,venue,0,Rajasthan Royals,Kings XI Punjab,Kings XI Punjab,field,Rajasthan Royals,runs,31.0,N,,BF Bowden,SK Tarapore
+548310.0,Bangalore,2012-04-07,AB de Villiers,venue,0,Royal Challengers Bangalore,Delhi Capitals,Delhi Daredevils,field,Royal Challengers Bangalore,runs,20.0,N,,S Asnani,S Ravi
+548311.0,Visakhapatnam,2012-04-07,RA Jadeja,venue,0,Deccan Chargers,Chennai Super Kings,Deccan Chargers,field,Chennai Super Kings,runs,74.0,N,,JD Cloete,HDPK Dharmasena
+548312.0,Pune,2012-04-08,MN Samuels,venue,0,Pune Warriors,Kings XI Punjab,Pune Warriors,bat,Pune Warriors,runs,22.0,N,,S Das,VA Kulkarni
+548313.0,Jaipur,2012-04-08,BJ Hodge,venue,0,Rajasthan Royals,Kolkata Knight Riders,Kolkata Knight Riders,field,Rajasthan Royals,runs,22.0,N,,BF Bowden,SJA Taufel
+548314.0,Visakhapatnam,2012-04-09,RG Sharma,venue,0,Deccan Chargers,Mumbai Indians,Deccan Chargers,bat,Mumbai Indians,runs,5.0,N,,AK Chaudhary,JD Cloete
+548315.0,Bangalore,2012-04-10,L Balaji,venue,0,Royal Challengers Bangalore,Kolkata Knight Riders,Royal Challengers Bangalore,field,Kolkata Knight Riders,runs,42.0,N,,S Ravi,RJ Tucker
+548316.0,Delhi,2012-04-10,M Morkel,venue,0,Delhi Capitals,Chennai Super Kings,Delhi Daredevils,field,Delhi Capitals,runs,8.0,N,,Asad Rauf,SK Tarapore
+548317.0,Mumbai,2012-04-11,KA Pollard,venue,0,Mumbai Indians,Rajasthan Royals,Rajasthan Royals,field,Mumbai Indians,runs,27.0,N,,Aleem Dar,BNJ Oxenford
+548318.0,Chennai,2012-04-12,F du Plessis,venue,0,Chennai Super Kings,Royal Challengers Bangalore,Royal Challengers Bangalore,bat,Chennai Super Kings,runs,5.0,N,,HDPK Dharmasena,RJ Tucker
+548319.0,Chandigarh,2012-04-12,AD Mascarenhas,venue,0,Kings XI Punjab,Pune Warriors,Kings XI Punjab,field,Kings XI Punjab,runs,7.0,N,,VA Kulkarni,SK Tarapore
+548320.0,Kolkata,2012-04-13,Shakib Al Hasan,venue,0,Kolkata Knight Riders,Rajasthan Royals,Rajasthan Royals,bat,Kolkata Knight Riders,runs,5.0,N,,Asad Rauf,S Asnani
+548321.0,Pune,2012-04-14,JD Ryder,venue,0,Pune Warriors,Chennai Super Kings,Chennai Super Kings,bat,Pune Warriors,runs,5.0,N,,Aleem Dar,SK Tarapore
+548322.0,Kolkata,2012-04-15,SP Narine,venue,0,Kolkata Knight Riders,Kings XI Punjab,Kolkata Knight Riders,field,Kings XI Punjab,runs,7.0,N,,Asad Rauf,BNJ Oxenford
+548323.0,Bangalore,2012-04-15,AM Rahane,venue,0,Royal Challengers Bangalore,Rajasthan Royals,Rajasthan Royals,bat,Rajasthan Royals,runs,2.0,N,,JD Cloete,S Asnani
+548324.0,Mumbai,2012-04-16,S Nadeem,venue,0,Mumbai Indians,Delhi Capitals,Delhi Daredevils,field,Delhi Capitals,runs,59.0,N,,BF Bowden,RJ Tucker
+548325.0,Bangalore,2012-04-17,CH Gayle,venue,0,Royal Challengers Bangalore,Pune Warriors,Pune Warriors,bat,Royal Challengers Bangalore,runs,7.0,N,,S Asnani,SK Tarapore
+548326.0,Jaipur,2012-04-17,BJ Hodge,venue,0,Rajasthan Royals,Deccan Chargers,Deccan Chargers,bat,Rajasthan Royals,runs,5.0,N,,Aleem Dar,BNJ Oxenford
+548327.0,Chandigarh,2012-04-18,G Gambhir,venue,0,Kings XI Punjab,Kolkata Knight Riders,Kings XI Punjab,bat,Kolkata Knight Riders,runs,6.0,N,,JD Cloete,S Das
+548328.0,Delhi,2012-04-19,KP Pietersen,venue,0,Delhi Capitals,Deccan Chargers,Deccan Chargers,bat,Delhi Capitals,runs,8.0,N,,BF Bowden,RJ Tucker
+548329.0,Chennai,2012-04-19,KMDN Kulasekara,venue,0,Chennai Super Kings,Pune Warriors,Pune Warriors,field,Chennai Super Kings,runs,9.0,N,,Asad Rauf,SJA Taufel
+548330.0,Chandigarh,2012-04-20,CH Gayle,venue,0,Kings XI Punjab,Royal Challengers Bangalore,Royal Challengers Bangalore,field,Royal Challengers Bangalore,runs,13.0,N,,S Ravi,S Das
+548331.0,Chennai,2012-04-21,F du Plessis,venue,0,Chennai Super Kings,Rajasthan Royals,Rajasthan Royals,bat,Chennai Super Kings,runs,5.0,N,,Aleem Dar,RJ Tucker
+548332.0,Delhi,2012-04-21,SC Ganguly,venue,0,Delhi Capitals,Pune Warriors,Delhi Daredevils,field,Pune Warriors,runs,7.0,N,,Asad Rauf,BNJ Oxenford
+548333.0,Mumbai,2012-04-22,SE Marsh,venue,0,Mumbai Indians,Kings XI Punjab,Mumbai Indians,bat,Kings XI Punjab,runs,20.0,N,,S Ravi,S Das
+548334.0,Cuttack,2012-04-22,B Lee,venue,0,Deccan Chargers,Kolkata Knight Riders,Kolkata Knight Riders,field,Kolkata Knight Riders,runs,6.0,N,,BF Bowden,RJ Tucker
+548335.0,Jaipur,2012-04-23,AB de Villiers,venue,0,Rajasthan Royals,Royal Challengers Bangalore,Rajasthan Royals,field,Royal Challengers Bangalore,runs,5.0,N,,Asad Rauf,SK Tarapore
+548336.0,Pune,2012-04-24,V Sehwag,venue,0,Pune Warriors,Delhi Capitals,Pune Warriors,bat,Delhi Capitals,runs,46.0,N,,S Ravi,S Asnani
+548337.0,Chandigarh,2012-04-25,AT Rayudu,venue,0,Kings XI Punjab,Mumbai Indians,Kings XI Punjab,bat,Mumbai Indians,runs,8.0,N,,Aleem Dar,RJ Tucker
+548339.0,Pune,2012-04-26,CL White,venue,0,Pune Warriors,Deccan Chargers,Deccan Chargers,bat,Deccan Chargers,runs,4.0,N,,S Ravi,BNJ Oxenford
+548341.0,Delhi,2012-04-27,V Sehwag,venue,0,Delhi Capitals,Mumbai Indians,Mumbai Indians,field,Delhi Capitals,runs,18.0,N,,Aleem Dar,RJ Tucker
+548342.0,Chennai,2012-04-28,Mandeep Singh,venue,0,Chennai Super Kings,Kings XI Punjab,Kings XI Punjab,bat,Kings XI Punjab,runs,37.0,N,,BF Bowden,BNJ Oxenford
+548343.0,Kolkata,2012-04-28,G Gambhir,venue,0,Kolkata Knight Riders,Royal Challengers Bangalore,Kolkata Knight Riders,bat,Kolkata Knight Riders,runs,7.0,N,,Asad Rauf,SK Tarapore
+548344.0,Mumbai,2012-04-29,DW Steyn,venue,0,Mumbai Indians,Deccan Chargers,Mumbai Indians,field,Mumbai Indians,runs,47.0,N,,AK Chaudhary,BR Doctrove
+548345.0,Delhi,2012-04-29,V Sehwag,venue,0,Delhi Capitals,Rajasthan Royals,Delhi Daredevils,bat,Delhi Capitals,runs,1.0,N,,S Ravi,RJ Tucker
+548346.0,Chennai,2012-04-30,G Gambhir,venue,0,Chennai Super Kings,Kolkata Knight Riders,Chennai Super Kings,bat,Kolkata Knight Riders,runs,5.0,N,,BF Bowden,BNJ Oxenford
+548347.0,Cuttack,2012-05-01,KC Sangakkara,venue,0,Deccan Chargers,Pune Warriors,Deccan Chargers,bat,Deccan Chargers,runs,5.0,N,,Aleem Dar,C Shamshuddin
+548348.0,Jaipur,2012-05-01,P Negi,venue,0,Rajasthan Royals,Delhi Capitals,Rajasthan Royals,bat,Delhi Capitals,runs,13.0,N,,JD Cloete,AK Chaudhary
+548349.0,Bangalore,2012-05-02,Azhar Mahmood,venue,0,Royal Challengers Bangalore,Kings XI Punjab,Kings XI Punjab,field,Kings XI Punjab,runs,6.0,N,,BF Bowden,SJA Taufel
+548350.0,Pune,2012-05-03,SL Malinga,venue,0,Pune Warriors,Mumbai Indians,Mumbai Indians,bat,Mumbai Indians,runs,4.0,N,,Asad Rauf,C Shamshuddin
+548351.0,Chennai,2012-05-04,SK Raina,venue,0,Chennai Super Kings,Deccan Chargers,Chennai Super Kings,bat,Chennai Super Kings,runs,1.0,N,,HDPK Dharmasena,S Asnani
+548352.0,Kolkata,2012-05-05,SP Narine,venue,0,Kolkata Knight Riders,Pune Warriors,Kolkata Knight Riders,bat,Kolkata Knight Riders,runs,10.0,N,,BF Bowden,BNJ Oxenford
+548353.0,Chandigarh,2012-05-05,SR Watson,venue,0,Kings XI Punjab,Rajasthan Royals,Rajasthan Royals,bat,Rajasthan Royals,runs,7.0,N,,JD Cloete,SK Tarapore
+548354.0,Mumbai,2012-05-06,DR Smith,venue,0,Mumbai Indians,Chennai Super Kings,Mumbai Indians,field,Mumbai Indians,runs,43.0,N,,Asad Rauf,SJA Taufel
+548355.0,Bangalore,2012-05-06,AB de Villiers,venue,0,Royal Challengers Bangalore,Deccan Chargers,Royal Challengers Bangalore,field,Royal Challengers Bangalore,runs,2.0,N,,HDPK Dharmasena,S Asnani
+548356.0,Delhi,2012-05-07,JH Kallis,venue,0,Delhi Capitals,Kolkata Knight Riders,Delhi Daredevils,bat,Kolkata Knight Riders,runs,5.0,N,,JD Cloete,BNJ Oxenford
+548357.0,Pune,2012-05-08,SR Watson,venue,0,Pune Warriors,Rajasthan Royals,Pune Warriors,bat,Rajasthan Royals,runs,6.0,N,,Asad Rauf,S Ravi
+548358.0,Hyderabad,2012-05-08,Mandeep Singh,venue,0,Deccan Chargers,Kings XI Punjab,Deccan Chargers,field,Kings XI Punjab,runs,7.0,N,,HDPK Dharmasena,BR Doctrove
+548359.0,Mumbai,2012-05-09,CH Gayle,venue,0,Mumbai Indians,Royal Challengers Bangalore,Royal Challengers Bangalore,field,Royal Challengers Bangalore,runs,25.0,N,,BF Bowden,BNJ Oxenford
+548360.0,Hyderabad,2012-05-10,DA Warner,venue,0,Deccan Chargers,Delhi Capitals,Deccan Chargers,bat,Delhi Capitals,runs,9.0,N,,JD Cloete,VA Kulkarni
+548361.0,Jaipur,2012-05-10,BW Hilfenhaus,venue,0,Rajasthan Royals,Chennai Super Kings,Chennai Super Kings,field,Chennai Super Kings,runs,4.0,N,,BNJ Oxenford,C Shamshuddin
+548362.0,Pune,2012-05-11,CH Gayle,venue,0,Pune Warriors,Royal Challengers Bangalore,Pune Warriors,field,Royal Challengers Bangalore,runs,35.0,N,,BF Bowden,SK Tarapore
+548363.0,Kolkata,2012-05-12,RG Sharma,venue,0,Kolkata Knight Riders,Mumbai Indians,Mumbai Indians,bat,Mumbai Indians,runs,27.0,N,,S Ravi,SJA Taufel
+548364.0,Chennai,2012-05-12,BW Hilfenhaus,venue,0,Chennai Super Kings,Delhi Capitals,Chennai Super Kings,field,Chennai Super Kings,runs,9.0,N,,S Das,BR Doctrove
+548365.0,Jaipur,2012-05-13,A Chandila,venue,0,Rajasthan Royals,Pune Warriors,Rajasthan Royals,bat,Rajasthan Royals,runs,45.0,N,,BF Bowden,SK Tarapore
+548366.0,Chandigarh,2012-05-13,DJ Hussey,venue,0,Kings XI Punjab,Deccan Chargers,Deccan Chargers,bat,Kings XI Punjab,runs,4.0,N,,HDPK Dharmasena,BNJ Oxenford
+548367.0,Bangalore,2012-05-14,AT Rayudu,venue,0,Royal Challengers Bangalore,Mumbai Indians,Mumbai Indians,field,Mumbai Indians,runs,5.0,N,,S Das,BR Doctrove
+548368.0,Kolkata,2012-05-14,MEK Hussey,venue,0,Kolkata Knight Riders,Chennai Super Kings,Chennai Super Kings,field,Chennai Super Kings,runs,5.0,N,,JD Cloete,SJA Taufel
+548369.0,Delhi,2012-05-15,UT Yadav,venue,0,Delhi Capitals,Kings XI Punjab,Kings XI Punjab,bat,Delhi Capitals,runs,5.0,N,,HDPK Dharmasena,BNJ Oxenford
+548370.0,Mumbai,2012-05-16,SP Narine,venue,0,Mumbai Indians,Kolkata Knight Riders,Mumbai Indians,field,Kolkata Knight Riders,runs,32.0,N,,S Das,BR Doctrove
+548371.0,Delhi,2012-05-17,CH Gayle,venue,0,Delhi Capitals,Royal Challengers Bangalore,Delhi Daredevils,field,Royal Challengers Bangalore,runs,6.0,N,,HDPK Dharmasena,SK Tarapore
+548372.0,Dharamsala,2012-05-17,AC Gilchrist,venue,0,Kings XI Punjab,Chennai Super Kings,Kings XI Punjab,field,Kings XI Punjab,runs,21.0,N,,VA Kulkarni,C Shamshuddin
+548373.0,Hyderabad,2012-05-18,DW Steyn,venue,0,Deccan Chargers,Rajasthan Royals,Rajasthan Royals,bat,Deccan Chargers,runs,5.0,N,,S Ravi,SJA Taufel
+548374.0,Dharamsala,2012-05-19,UT Yadav,venue,0,Kings XI Punjab,Delhi Capitals,Delhi Daredevils,field,Delhi Capitals,runs,6.0,N,,BF Bowden,VA Kulkarni
+548375.0,Pune,2012-05-19,Shakib Al Hasan,venue,0,Pune Warriors,Kolkata Knight Riders,Kolkata Knight Riders,bat,Kolkata Knight Riders,runs,34.0,N,,S Asnani,BR Doctrove
+548376.0,Hyderabad,2012-05-20,DW Steyn,venue,0,Deccan Chargers,Royal Challengers Bangalore,Royal Challengers Bangalore,field,Deccan Chargers,runs,9.0,N,,S Ravi,SJA Taufel
+548377.0,Jaipur,2012-05-20,DR Smith,venue,0,Rajasthan Royals,Mumbai Indians,Rajasthan Royals,bat,Mumbai Indians,runs,10.0,N,,HDPK Dharmasena,C Shamshuddin
+548378.0,Pune,2012-05-22,YK Pathan,venue,0,Delhi Capitals,Kolkata Knight Riders,Kolkata Knight Riders,bat,Kolkata Knight Riders,runs,18.0,N,,BR Doctrove,SJA Taufel
+548379.0,Bangalore,2012-05-23,MS Dhoni,venue,0,Chennai Super Kings,Mumbai Indians,Mumbai Indians,field,Chennai Super Kings,runs,38.0,N,,BF Bowden,HDPK Dharmasena
+548380.0,Chennai,2012-05-25,M Vijay,venue,0,Delhi Capitals,Chennai Super Kings,Delhi Daredevils,field,Chennai Super Kings,runs,86.0,N,,BR Doctrove,SJA Taufel
+548381.0,Chennai,2012-05-27,MS Bisla,venue,0,Kolkata Knight Riders,Chennai Super Kings,Chennai Super Kings,bat,Kolkata Knight Riders,runs,5.0,N,,BF Bowden,SJA Taufel
+597998.0,Kolkata,2013-04-03,SP Narine,venue,0,Kolkata Knight Riders,Delhi Capitals,Kolkata Knight Riders,field,Kolkata Knight Riders,runs,6.0,N,,S Ravi,SJA Taufel
+597999.0,Bangalore,2013-04-04,CH Gayle,venue,0,Royal Challengers Bangalore,Mumbai Indians,Mumbai Indians,field,Royal Challengers Bangalore,runs,2.0,N,,VA Kulkarni,C Shamshuddin
+598000.0,Hyderabad,2013-04-05,A Mishra,venue,0,Sunrisers Hyderabad,Pune Warriors,Pune Warriors,field,Sunrisers Hyderabad,runs,22.0,N,,S Ravi,SJA Taufel
+598001.0,Delhi,2013-04-06,R Dravid,venue,0,Delhi Capitals,Rajasthan Royals,Rajasthan Royals,bat,Rajasthan Royals,runs,5.0,N,,S Das,C Shamshuddin
+598002.0,Chennai,2013-04-06,KA Pollard,venue,0,Chennai Super Kings,Mumbai Indians,Mumbai Indians,bat,Mumbai Indians,runs,9.0,N,,M Erasmus,VA Kulkarni
+598003.0,Pune,2013-04-07,M Vohra,venue,0,Pune Warriors,Kings XI Punjab,Pune Warriors,bat,Kings XI Punjab,runs,8.0,N,,S Asnani,SJA Taufel
+598004.0,Hyderabad,2013-04-07,GH Vihari,venue,0,Sunrisers Hyderabad,Royal Challengers Bangalore,Royal Challengers Bangalore,bat,,runs,,Y,,AK Chaudhary,S Ravi
+598005.0,Jaipur,2013-04-08,SK Trivedi,venue,0,Rajasthan Royals,Kolkata Knight Riders,Kolkata Knight Riders,field,Rajasthan Royals,runs,19.0,N,,Aleem Dar,S Das
+598006.0,Bangalore,2013-04-09,V Kohli,venue,0,Royal Challengers Bangalore,Sunrisers Hyderabad,Sunrisers Hyderabad,bat,Royal Challengers Bangalore,runs,44.0,N,,S Ravi,VA Kulkarni
+598007.0,Mumbai,2013-04-09,KD Karthik,venue,0,Mumbai Indians,Delhi Capitals,Mumbai Indians,bat,Mumbai Indians,runs,10.0,N,,M Erasmus,C Shamshuddin
+598008.0,Chandigarh,2013-04-10,MEK Hussey,venue,0,Kings XI Punjab,Chennai Super Kings,Chennai Super Kings,field,Chennai Super Kings,runs,8.0,N,,Aleem Dar,AK Chaudhary
+598009.0,Bangalore,2013-04-11,CH Gayle,venue,0,Royal Challengers Bangalore,Kolkata Knight Riders,Royal Challengers Bangalore,field,Royal Challengers Bangalore,runs,7.0,N,,Asad Rauf,K Srinath
+598010.0,Pune,2013-04-11,AJ Finch,venue,0,Pune Warriors,Rajasthan Royals,Rajasthan Royals,bat,Pune Warriors,runs,3.0,N,,M Erasmus,Subroto Das
+598011.0,Delhi,2013-04-12,A Mishra,venue,0,Delhi Capitals,Sunrisers Hyderabad,Delhi Daredevils,bat,Sunrisers Hyderabad,runs,41.0,N,,Aleem Dar,SJA Taufel
+598012.0,Mumbai,2013-04-13,RG Sharma,venue,0,Mumbai Indians,Pune Warriors,Mumbai Indians,bat,Mumbai Indians,runs,4.0,N,,S Ravi,AK Chaudhary
+598013.0,Chennai,2013-04-13,RA Jadeja,venue,0,Chennai Super Kings,Royal Challengers Bangalore,Chennai Super Kings,field,Chennai Super Kings,runs,48.0,N,,Asad Rauf,VA Kulkarni
+598014.0,Jaipur,2013-04-14,JP Faulkner,venue,0,Rajasthan Royals,Kings XI Punjab,Rajasthan Royals,field,Rajasthan Royals,runs,6.0,N,,Aleem Dar,C Shamshuddin
+598015.0,Kolkata,2013-04-14,G Gambhir,venue,0,Kolkata Knight Riders,Sunrisers Hyderabad,Kolkata Knight Riders,bat,Kolkata Knight Riders,runs,24.0,N,,M Erasmus,AK Chaudhary
+598016.0,Chennai,2013-04-15,SPD Smith,venue,0,Chennai Super Kings,Pune Warriors,Pune Warriors,bat,Pune Warriors,runs,4.0,N,,Asad Rauf,SJA Taufel
+598017.0,Bangalore,2013-04-16,V Kohli,venue,0,Royal Challengers Bangalore,Delhi Capitals,Royal Challengers Bangalore,field,,runs,,Y,,M Erasmus,VA Kulkarni
+598018.0,Chandigarh,2013-04-16,MS Gony,venue,0,Kings XI Punjab,Kolkata Knight Riders,Kolkata Knight Riders,field,Kings XI Punjab,runs,11.0,N,,CK Nandan,AK Chaudhary
+598019.0,Pune,2013-04-17,A Mishra,venue,0,Pune Warriors,Sunrisers Hyderabad,Pune Warriors,field,Sunrisers Hyderabad,runs,87.0,N,,Asad Rauf,C Shamshuddin
+598020.0,Jaipur,2013-04-17,AM Rahane,venue,0,Rajasthan Royals,Mumbai Indians,Rajasthan Royals,bat,Rajasthan Royals,runs,86.0,N,,Aleem Dar,VA Kulkarni
+598021.0,Delhi,2013-04-18,MEK Hussey,venue,0,Delhi Capitals,Chennai Super Kings,Chennai Super Kings,bat,Chennai Super Kings,runs,5.0,N,,M Erasmus,CK Nandan
+598022.0,Hyderabad,2013-04-19,GH Vihari,venue,0,Sunrisers Hyderabad,Kings XI Punjab,Kings XI Punjab,bat,Sunrisers Hyderabad,runs,4.0,N,,HDPK Dharmasena,AK Chaudhary
+598023.0,Kolkata,2013-04-20,RA Jadeja,venue,0,Kolkata Knight Riders,Chennai Super Kings,Kolkata Knight Riders,bat,Chennai Super Kings,runs,7.0,N,,Asad Rauf,C Shamshuddin
+598024.0,Bangalore,2013-04-20,R Vinay Kumar,venue,0,Royal Challengers Bangalore,Rajasthan Royals,Royal Challengers Bangalore,field,Royal Challengers Bangalore,runs,9.0,N,,Aleem Dar,S Ravi
+598025.0,Delhi,2013-04-21,V Sehwag,venue,0,Delhi Capitals,Mumbai Indians,Mumbai Indians,bat,Delhi Capitals,runs,7.0,N,,HDPK Dharmasena,K Srinath
+598026.0,Chandigarh,2013-04-21,DA Miller,venue,0,Kings XI Punjab,Pune Warriors,Kings XI Punjab,field,Kings XI Punjab,runs,5.0,N,,M Erasmus,AK Chaudhary
+598027.0,Chennai,2013-04-22,MEK Hussey,venue,0,Chennai Super Kings,Rajasthan Royals,Rajasthan Royals,bat,Chennai Super Kings,runs,130.0,N,,S Asnani,C Shamshuddin
+598028.0,Bangalore,2013-04-23,CH Gayle,venue,0,Royal Challengers Bangalore,Pune Warriors,Pune Warriors,field,Royal Challengers Bangalore,runs,7.0,N,,Aleem Dar,S Ravi
+598029.0,Delhi,2013-04-23,Harmeet Singh,venue,0,Delhi Capitals,Kings XI Punjab,Kings XI Punjab,field,Kings XI Punjab,runs,5.0,N,,VA Kulkarni,S Ravi
+598030.0,Kolkata,2013-04-24,DR Smith,venue,0,Kolkata Knight Riders,Mumbai Indians,Kolkata Knight Riders,bat,Mumbai Indians,runs,5.0,N,,HDPK Dharmasena,S Das
+598031.0,Chennai,2013-04-25,MS Dhoni,venue,0,Chennai Super Kings,Sunrisers Hyderabad,Sunrisers Hyderabad,bat,Chennai Super Kings,runs,6.0,N,,Aleem Dar,S Ravi
+598032.0,Kolkata,2013-04-26,JH Kallis,venue,0,Kolkata Knight Riders,Kings XI Punjab,Kings XI Punjab,bat,Kolkata Knight Riders,runs,8.0,N,,CK Nandan,K Srinath
+598033.0,Mumbai,2013-04-27,DR Smith,venue,0,Mumbai Indians,Royal Challengers Bangalore,Mumbai Indians,bat,Mumbai Indians,runs,58.0,N,,Asad Rauf,S Asnani
+598034.0,Jaipur,2013-04-27,JP Faulkner,venue,0,Rajasthan Royals,Sunrisers Hyderabad,Sunrisers Hyderabad,bat,Rajasthan Royals,runs,14.0,N,,VA Kulkarni,SJA Taufel
+598035.0,Chennai,2013-04-28,MEK Hussey,venue,0,Chennai Super Kings,Kolkata Knight Riders,Kolkata Knight Riders,field,Chennai Super Kings,runs,15.0,N,,Aleem Dar,S Ravi
+598036.0,Raipur,2013-04-28,DA Warner,venue,0,Delhi Capitals,Pune Warriors,Pune Warriors,field,Delhi Capitals,runs,4.0,N,,CK Nandan,K Srinath
+598037.0,Jaipur,2013-04-29,SV Samson,venue,0,Rajasthan Royals,Royal Challengers Bangalore,Rajasthan Royals,field,Rajasthan Royals,runs,4.0,N,,M Erasmus,AK Chaudhary
+598038.0,Mumbai,2013-04-29,RG Sharma,venue,0,Mumbai Indians,Kings XI Punjab,Mumbai Indians,bat,Mumbai Indians,runs,37.0,N,,Asad Rauf,SJA Taufel
+598039.0,Pune,2013-04-30,MS Dhoni,venue,0,Pune Warriors,Chennai Super Kings,Chennai Super Kings,bat,Chennai Super Kings,runs,7.0,N,,S Das,S Asnani
+598040.0,Hyderabad,2013-05-01,I Sharma,venue,0,Sunrisers Hyderabad,Mumbai Indians,Mumbai Indians,bat,Sunrisers Hyderabad,runs,7.0,N,,Asad Rauf,CK Nandan
+598041.0,Raipur,2013-05-01,DA Warner,venue,0,Delhi Capitals,Kolkata Knight Riders,Kolkata Knight Riders,bat,Delhi Capitals,runs,15.0,N,,HDPK Dharmasena,VA Kulkarni
+598042.0,Chennai,2013-05-02,SK Raina,venue,0,Chennai Super Kings,Kings XI Punjab,Chennai Super Kings,bat,Chennai Super Kings,runs,17.0,N,,M Erasmus,C Shamshuddin
+598043.0,Pune,2013-05-02,AB de Villiers,venue,0,Pune Warriors,Royal Challengers Bangalore,Royal Challengers Bangalore,bat,Royal Challengers Bangalore,runs,8.0,N,,Aleem Dar,CK Nandan
+598044.0,Kolkata,2013-05-03,YK Pathan,venue,0,Kolkata Knight Riders,Rajasthan Royals,Rajasthan Royals,bat,Kolkata Knight Riders,runs,6.0,N,,HDPK Dharmasena,S Asnani
+598045.0,Hyderabad,2013-05-04,DJG Sammy,venue,0,Sunrisers Hyderabad,Delhi Capitals,Delhi Daredevils,bat,Sunrisers Hyderabad,runs,7.0,N,,Asad Rauf,S Ravi
+598046.0,Mumbai,2013-05-05,MG Johnson,venue,0,Mumbai Indians,Chennai Super Kings,Mumbai Indians,bat,Mumbai Indians,runs,60.0,N,,HDPK Dharmasena,CK Nandan
+598047.0,Jaipur,2013-05-05,AM Rahane,venue,0,Rajasthan Royals,Pune Warriors,Pune Warriors,bat,Rajasthan Royals,runs,5.0,N,,C Shamshuddin,RJ Tucker
+598048.0,Chandigarh,2013-05-06,DA Miller,venue,0,Kings XI Punjab,Royal Challengers Bangalore,Kings XI Punjab,field,Kings XI Punjab,runs,7.0,N,,VA Kulkarni,SJA Taufel
+598049.0,Jaipur,2013-05-07,AM Rahane,venue,0,Rajasthan Royals,Delhi Capitals,Delhi Daredevils,bat,Rajasthan Royals,runs,9.0,N,,Aleem Dar,RJ Tucker
+598050.0,Mumbai,2013-05-07,SR Tendulkar,venue,0,Mumbai Indians,Kolkata Knight Riders,Mumbai Indians,bat,Mumbai Indians,runs,65.0,N,,HDPK Dharmasena,S Ravi
+598051.0,Hyderabad,2013-05-08,SK Raina,venue,0,Sunrisers Hyderabad,Chennai Super Kings,Sunrisers Hyderabad,field,Chennai Super Kings,runs,77.0,N,,S Das,NJ Llong
+598052.0,Chandigarh,2013-05-09,KK Cooper,venue,0,Kings XI Punjab,Rajasthan Royals,Rajasthan Royals,field,Rajasthan Royals,runs,8.0,N,,HDPK Dharmasena,S Ravi
+598053.0,Pune,2013-05-09,G Gambhir,venue,0,Pune Warriors,Kolkata Knight Riders,Kolkata Knight Riders,bat,Kolkata Knight Riders,runs,46.0,N,,Asad Rauf,S Asnani
+598054.0,Delhi,2013-05-10,JD Unadkat,venue,0,Delhi Capitals,Royal Challengers Bangalore,Delhi Daredevils,field,Royal Challengers Bangalore,runs,4.0,N,,NJ Llong,K Srinath
+598055.0,Pune,2013-05-11,MG Johnson,venue,0,Pune Warriors,Mumbai Indians,Pune Warriors,bat,Mumbai Indians,runs,5.0,N,,Asad Rauf,AK Chaudhary
+598056.0,Chandigarh,2013-05-11,PA Patel,venue,0,Kings XI Punjab,Sunrisers Hyderabad,Kings XI Punjab,field,Sunrisers Hyderabad,runs,30.0,N,,S Das,RJ Tucker
+598057.0,Jaipur,2013-05-12,SR Watson,venue,0,Rajasthan Royals,Chennai Super Kings,Rajasthan Royals,field,Rajasthan Royals,runs,5.0,N,,HDPK Dharmasena,K Srinath
+598058.0,Ranchi,2013-05-12,JH Kallis,venue,0,Kolkata Knight Riders,Royal Challengers Bangalore,Kolkata Knight Riders,field,Kolkata Knight Riders,runs,5.0,N,,NJ Llong,CK Nandan
+598059.0,Mumbai,2013-05-13,KA Pollard,venue,0,Mumbai Indians,Sunrisers Hyderabad,Sunrisers Hyderabad,bat,Mumbai Indians,runs,5.0,N,,AK Chaudhary,K Srinath
+598060.0,Chennai,2013-05-14,MS Dhoni,venue,0,Chennai Super Kings,Delhi Capitals,Chennai Super Kings,bat,Chennai Super Kings,runs,7.0,N,,C Shamshuddin,SJA Taufel
+598061.0,Bangalore,2013-05-14,AC Gilchrist,venue,0,Royal Challengers Bangalore,Kings XI Punjab,Kings XI Punjab,field,Kings XI Punjab,runs,7.0,N,,HDPK Dharmasena,K Srinath
+598062.0,Ranchi,2013-05-15,MK Pandey,venue,0,Kolkata Knight Riders,Pune Warriors,Kolkata Knight Riders,field,Pune Warriors,runs,33.0,N,,NJ Llong,RJ Tucker
+598063.0,Mumbai,2013-05-15,AP Tare,venue,0,Mumbai Indians,Rajasthan Royals,Rajasthan Royals,field,Mumbai Indians,runs,14.0,N,,Asad Rauf,S Asnani
+598064.0,Dharamsala,2013-05-16,DA Miller,venue,0,Kings XI Punjab,Delhi Capitals,Delhi Daredevils,field,Kings XI Punjab,runs,6.0,N,,HDPK Dharmasena,NJ Llong
+598065.0,Hyderabad,2013-05-17,A Mishra,venue,0,Sunrisers Hyderabad,Rajasthan Royals,Sunrisers Hyderabad,bat,Sunrisers Hyderabad,runs,23.0,N,,Asad Rauf,AK Chaudhary
+598066.0,Dharamsala,2013-05-18,Azhar Mahmood,venue,0,Kings XI Punjab,Mumbai Indians,Mumbai Indians,field,Kings XI Punjab,runs,50.0,N,,HDPK Dharmasena,CK Nandan
+598067.0,Bangalore,2013-05-18,V Kohli,venue,0,Royal Challengers Bangalore,Chennai Super Kings,Chennai Super Kings,field,Royal Challengers Bangalore,runs,38.0,N,,C Shamshuddin,SJA Taufel
+598068.0,Hyderabad,2013-05-19,PA Patel,venue,0,Sunrisers Hyderabad,Kolkata Knight Riders,Kolkata Knight Riders,bat,Sunrisers Hyderabad,runs,24.0,N,,Asad Rauf,RJ Tucker
+598069.0,Pune,2013-05-19,LJ Wright,venue,0,Pune Warriors,Delhi Capitals,Pune Warriors,bat,Pune Warriors,runs,5.0,N,,NJ Llong,S Asnani
+598070.0,Delhi,2013-05-21,MEK Hussey,venue,0,Chennai Super Kings,Mumbai Indians,Chennai Super Kings,bat,Chennai Super Kings,runs,48.0,N,,NJ Llong,RJ Tucker
+598071.0,Delhi,2013-05-22,BJ Hodge,venue,0,Rajasthan Royals,Sunrisers Hyderabad,Sunrisers Hyderabad,bat,Rajasthan Royals,runs,4.0,N,,S Ravi,RJ Tucker
+598072.0,Kolkata,2013-05-24,Harbhajan Singh,venue,0,Mumbai Indians,Rajasthan Royals,Rajasthan Royals,bat,Mumbai Indians,runs,4.0,N,,C Shamshuddin,SJA Taufel
+598073.0,Kolkata,2013-05-26,KA Pollard,venue,0,Chennai Super Kings,Mumbai Indians,Mumbai Indians,bat,Mumbai Indians,runs,23.0,N,,HDPK Dharmasena,SJA Taufel
+729279.0,Abu Dhabi,2014-04-16,JH Kallis,venue,1,Mumbai Indians,Kolkata Knight Riders,Kolkata Knight Riders,bat,Kolkata Knight Riders,runs,41.0,N,,M Erasmus,RK Illingworth
+729281.0,,2014-04-17,YS Chahal,venue,1,Delhi Capitals,Royal Challengers Bangalore,Royal Challengers Bangalore,field,Royal Challengers Bangalore,runs,8.0,N,,Aleem Dar,S Ravi
+729283.0,Abu Dhabi,2014-04-18,GJ Maxwell,venue,1,Chennai Super Kings,Kings XI Punjab,Chennai Super Kings,bat,Kings XI Punjab,runs,6.0,N,,RK Illingworth,C Shamshuddin
+729285.0,Abu Dhabi,2014-04-18,AM Rahane,venue,1,Sunrisers Hyderabad,Rajasthan Royals,Rajasthan Royals,field,Rajasthan Royals,runs,4.0,N,,BF Bowden,RK Illingworth
+729287.0,,2014-04-19,PA Patel,venue,1,Royal Challengers Bangalore,Mumbai Indians,Royal Challengers Bangalore,field,Royal Challengers Bangalore,runs,7.0,N,,Aleem Dar,AK Chaudhary
+729289.0,,2014-04-19,JP Duminy,venue,1,Kolkata Knight Riders,Delhi Capitals,Kolkata Knight Riders,bat,Delhi Capitals,runs,4.0,N,,Aleem Dar,VA Kulkarni
+729291.0,,2014-04-20,GJ Maxwell,venue,1,Rajasthan Royals,Kings XI Punjab,Kings XI Punjab,field,Kings XI Punjab,runs,7.0,N,,BF Bowden,M Erasmus
+729293.0,Abu Dhabi,2014-04-21,SK Raina,venue,1,Chennai Super Kings,Delhi Capitals,Chennai Super Kings,bat,Chennai Super Kings,runs,93.0,N,,RK Illingworth,C Shamshuddin
+729295.0,,2014-04-22,GJ Maxwell,venue,1,Kings XI Punjab,Sunrisers Hyderabad,Sunrisers Hyderabad,field,Kings XI Punjab,runs,72.0,N,,M Erasmus,S Ravi
+729297.0,,2014-04-23,RA Jadeja,venue,1,Rajasthan Royals,Chennai Super Kings,Rajasthan Royals,field,Chennai Super Kings,runs,7.0,N,,HDPK Dharmasena,RK Illingworth
+729299.0,,2014-04-24,CA Lynn,venue,1,Royal Challengers Bangalore,Kolkata Knight Riders,Royal Challengers Bangalore,field,Kolkata Knight Riders,runs,2.0,N,,Aleem Dar,VA Kulkarni
+729301.0,,2014-04-25,MM Sharma,venue,1,Chennai Super Kings,Mumbai Indians,Mumbai Indians,bat,Chennai Super Kings,runs,4.0,N,,BF Bowden,S Ravi
+729303.0,,2014-04-25,AJ Finch,venue,1,Sunrisers Hyderabad,Delhi Capitals,Sunrisers Hyderabad,bat,Sunrisers Hyderabad,runs,7.0,N,,M Erasmus,M Erasmus
+729305.0,Abu Dhabi,2014-04-26,PV Tambe,venue,1,Rajasthan Royals,Royal Challengers Bangalore,Rajasthan Royals,field,Rajasthan Royals,runs,6.0,N,,HDPK Dharmasena,C Shamshuddin
+729307.0,Abu Dhabi,2014-04-26,Sandeep Sharma,venue,1,Kolkata Knight Riders,Kings XI Punjab,Kolkata Knight Riders,field,Kings XI Punjab,runs,23.0,N,,HDPK Dharmasena,RK Illingworth
+729309.0,,2014-04-27,M Vijay,venue,1,Delhi Capitals,Mumbai Indians,Mumbai Indians,bat,Delhi Capitals,runs,6.0,N,,Aleem Dar,VA Kulkarni
+729311.0,,2014-04-27,DR Smith,venue,1,Sunrisers Hyderabad,Chennai Super Kings,Sunrisers Hyderabad,bat,Chennai Super Kings,runs,5.0,N,,AK Chaudhary,VA Kulkarni
+729313.0,,2014-04-28,Sandeep Sharma,venue,1,Kings XI Punjab,Royal Challengers Bangalore,Kings XI Punjab,field,Kings XI Punjab,runs,5.0,N,,BF Bowden,S Ravi
+729315.0,Abu Dhabi,2014-04-29,JP Faulkner,venue,1,Kolkata Knight Riders,Rajasthan Royals,Rajasthan Royals,bat,,runs,,Y,,Aleem Dar,AK Chaudhary
+729317.0,,2014-04-30,B Kumar,venue,1,Mumbai Indians,Sunrisers Hyderabad,Mumbai Indians,field,Sunrisers Hyderabad,runs,15.0,N,,HDPK Dharmasena,M Erasmus
+733971.0,Ranchi,2014-05-02,RA Jadeja,venue,0,Chennai Super Kings,Kolkata Knight Riders,Chennai Super Kings,bat,Chennai Super Kings,runs,34.0,N,,AK Chaudhary,NJ Llong
+733973.0,Mumbai,2014-05-03,CJ Anderson,venue,0,Mumbai Indians,Kings XI Punjab,Kings XI Punjab,bat,Mumbai Indians,runs,5.0,N,,BNJ Oxenford,C Shamshuddin
+733975.0,Delhi,2014-05-03,KK Nair,venue,0,Delhi Capitals,Rajasthan Royals,Rajasthan Royals,field,Rajasthan Royals,runs,7.0,N,,SS Hazare,S Ravi
+733977.0,Bangalore,2014-05-04,AB de Villiers,venue,0,Royal Challengers Bangalore,Sunrisers Hyderabad,Royal Challengers Bangalore,field,Royal Challengers Bangalore,runs,4.0,N,,HDPK Dharmasena,VA Kulkarni
+733979.0,Ahmedabad,2014-05-05,PV Tambe,venue,0,Rajasthan Royals,Kolkata Knight Riders,Kolkata Knight Riders,field,Rajasthan Royals,runs,10.0,N,,NJ Llong,CK Nandan
+733981.0,Delhi,2014-05-05,DR Smith,venue,0,Delhi Capitals,Chennai Super Kings,Chennai Super Kings,field,Chennai Super Kings,runs,8.0,N,,RM Deshpande,BNJ Oxenford
+733983.0,Mumbai,2014-05-06,RG Sharma,venue,0,Mumbai Indians,Royal Challengers Bangalore,Royal Challengers Bangalore,field,Mumbai Indians,runs,19.0,N,,S Ravi,K Srinath
+733985.0,Cuttack,2014-05-07,GJ Maxwell,venue,0,Kings XI Punjab,Chennai Super Kings,Chennai Super Kings,field,Kings XI Punjab,runs,8.0,N,,HDPK Dharmasena,C Shamshuddin
+733987.0,Delhi,2014-05-07,G Gambhir,venue,0,Delhi Capitals,Kolkata Knight Riders,Delhi Daredevils,bat,Kolkata Knight Riders,runs,44.0,N,,BNJ Oxenford,PG Pathak
+733989.0,Ahmedabad,2014-05-08,B Kumar,venue,0,Rajasthan Royals,Sunrisers Hyderabad,Rajasthan Royals,field,Sunrisers Hyderabad,runs,32.0,N,,AK Chaudhary,NJ Llong
+733991.0,Bangalore,2014-05-09,Sandeep Sharma,venue,0,Royal Challengers Bangalore,Kings XI Punjab,Royal Challengers Bangalore,field,Kings XI Punjab,runs,32.0,N,,S Ravi,K Srinath
+733993.0,Delhi,2014-05-10,DW Steyn,venue,0,Delhi Capitals,Sunrisers Hyderabad,Sunrisers Hyderabad,field,Sunrisers Hyderabad,runs,8.0,N,D/L,RM Deshpande,BNJ Oxenford
+733995.0,Mumbai,2014-05-10,DR Smith,venue,0,Mumbai Indians,Chennai Super Kings,Chennai Super Kings,field,Chennai Super Kings,runs,4.0,N,,HDPK Dharmasena,VA Kulkarni
+733997.0,Cuttack,2014-05-11,G Gambhir,venue,0,Kings XI Punjab,Kolkata Knight Riders,Kolkata Knight Riders,field,Kolkata Knight Riders,runs,9.0,N,,NJ Llong,CK Nandan
+733999.0,Bangalore,2014-05-11,JP Faulkner,venue,0,Royal Challengers Bangalore,Rajasthan Royals,Royal Challengers Bangalore,bat,Rajasthan Royals,runs,5.0,N,,S Ravi,RJ Tucker
+734001.0,Hyderabad,2014-05-12,AT Rayudu,venue,0,Sunrisers Hyderabad,Mumbai Indians,Sunrisers Hyderabad,bat,Mumbai Indians,runs,7.0,N,,HDPK Dharmasena,VA Kulkarni
+734003.0,Ranchi,2014-05-13,RA Jadeja,venue,0,Chennai Super Kings,Rajasthan Royals,Rajasthan Royals,bat,Chennai Super Kings,runs,5.0,N,,BNJ Oxenford,C Shamshuddin
+734005.0,Bangalore,2014-05-13,Yuvraj Singh,venue,0,Royal Challengers Bangalore,Delhi Capitals,Delhi Daredevils,field,Royal Challengers Bangalore,runs,16.0,N,,K Srinath,RJ Tucker
+734007.0,Hyderabad,2014-05-14,WP Saha,venue,0,Sunrisers Hyderabad,Kings XI Punjab,Kings XI Punjab,field,Kings XI Punjab,runs,6.0,N,,VA Kulkarni,PG Pathak
+734009.0,Cuttack,2014-05-14,RV Uthappa,venue,0,Kolkata Knight Riders,Mumbai Indians,Kolkata Knight Riders,field,Kolkata Knight Riders,runs,6.0,N,,AK Chaudhary,NJ Llong
+734011.0,Ahmedabad,2014-05-15,AM Rahane,venue,0,Rajasthan Royals,Delhi Capitals,Delhi Daredevils,field,Rajasthan Royals,runs,62.0,N,,S Ravi,RJ Tucker
+734013.0,Ranchi,2014-05-18,AB de Villiers,venue,0,Chennai Super Kings,Royal Challengers Bangalore,Chennai Super Kings,bat,Royal Challengers Bangalore,runs,5.0,N,,BNJ Oxenford,C Shamshuddin
+734015.0,Hyderabad,2014-05-18,UT Yadav,venue,0,Sunrisers Hyderabad,Kolkata Knight Riders,Sunrisers Hyderabad,bat,Kolkata Knight Riders,runs,7.0,N,,NJ Llong,CK Nandan
+734017.0,Ahmedabad,2014-05-19,MEK Hussey,venue,0,Rajasthan Royals,Mumbai Indians,Mumbai Indians,bat,Mumbai Indians,runs,25.0,N,,S Ravi,RJ Tucker
+734019.0,Delhi,2014-05-19,AR Patel,venue,0,Delhi Capitals,Kings XI Punjab,Kings XI Punjab,field,Kings XI Punjab,runs,4.0,N,,HDPK Dharmasena,PG Pathak
+734021.0,Hyderabad,2014-05-20,DA Warner,venue,0,Sunrisers Hyderabad,Royal Challengers Bangalore,Royal Challengers Bangalore,bat,Sunrisers Hyderabad,runs,7.0,N,,AK Chaudhary,NJ Llong
+734023.0,Kolkata,2014-05-20,RV Uthappa,venue,0,Kolkata Knight Riders,Chennai Super Kings,Kolkata Knight Riders,field,Kolkata Knight Riders,runs,8.0,N,,RM Deshpande,C Shamshuddin
+734025.0,Chandigarh,2014-05-21,LMP Simmons,venue,0,Kings XI Punjab,Mumbai Indians,Mumbai Indians,field,Mumbai Indians,runs,7.0,N,,HDPK Dharmasena,VA Kulkarni
+734027.0,Kolkata,2014-05-22,RV Uthappa,venue,0,Kolkata Knight Riders,Royal Challengers Bangalore,Royal Challengers Bangalore,field,Kolkata Knight Riders,runs,30.0,N,,AK Chaudhary,CK Nandan
+734029.0,Ranchi,2014-05-22,DA Warner,venue,0,Chennai Super Kings,Sunrisers Hyderabad,Sunrisers Hyderabad,field,Sunrisers Hyderabad,runs,6.0,N,,BNJ Oxenford,C Shamshuddin
+734031.0,Mumbai,2014-05-23,MEK Hussey,venue,0,Mumbai Indians,Delhi Capitals,Delhi Daredevils,field,Mumbai Indians,runs,15.0,N,,S Ravi,RJ Tucker
+734033.0,Chandigarh,2014-05-23,SE Marsh,venue,0,Kings XI Punjab,Rajasthan Royals,Rajasthan Royals,field,Kings XI Punjab,runs,16.0,N,,HDPK Dharmasena,PG Pathak
+734035.0,Kolkata,2014-05-24,YK Pathan,venue,0,Kolkata Knight Riders,Sunrisers Hyderabad,Kolkata Knight Riders,field,Kolkata Knight Riders,runs,8.0,N,,RM Deshpande,NJ Llong
+734037.0,Bangalore,2014-05-24,MS Dhoni,venue,0,Royal Challengers Bangalore,Chennai Super Kings,Chennai Super Kings,field,Chennai Super Kings,runs,4.0,N,,AK Chaudhary,BNJ Oxenford
+734039.0,Chandigarh,2014-05-25,M Vohra,venue,0,Kings XI Punjab,Delhi Capitals,Kings XI Punjab,field,Kings XI Punjab,runs,7.0,N,,HDPK Dharmasena,VA Kulkarni
+734041.0,Mumbai,2014-05-25,CJ Anderson,venue,0,Mumbai Indians,Rajasthan Royals,Mumbai Indians,field,Mumbai Indians,runs,5.0,N,,K Srinath,RJ Tucker
+734043.0,Kolkata,2014-05-27,UT Yadav,venue,0,Kings XI Punjab,Kolkata Knight Riders,Kings XI Punjab,field,Kolkata Knight Riders,runs,28.0,N,,NJ Llong,S Ravi
+734045.0,Mumbai,2014-05-28,SK Raina,venue,0,Chennai Super Kings,Mumbai Indians,Chennai Super Kings,field,Chennai Super Kings,runs,7.0,N,,VA Kulkarni,BNJ Oxenford
+734047.0,Mumbai,2014-05-30,V Sehwag,venue,0,Chennai Super Kings,Kings XI Punjab,Chennai Super Kings,field,Kings XI Punjab,runs,24.0,N,,HDPK Dharmasena,RJ Tucker
+734049.0,Bangalore,2014-06-01,MK Pandey,venue,0,Kolkata Knight Riders,Kings XI Punjab,Kolkata Knight Riders,field,Kolkata Knight Riders,runs,3.0,N,,HDPK Dharmasena,BNJ Oxenford
+829705.0,Kolkata,2015-04-08,M Morkel,venue,0,Kolkata Knight Riders,Mumbai Indians,Kolkata Knight Riders,field,Kolkata Knight Riders,runs,7.0,N,,S Ravi,C Shamshuddin
+829707.0,Chennai,2015-04-09,A Nehra,venue,0,Chennai Super Kings,Delhi Capitals,Delhi Daredevils,field,Chennai Super Kings,runs,1.0,N,,RK Illingworth,VA Kulkarni
+829709.0,Pune,2015-04-10,JP Faulkner,venue,0,Kings XI Punjab,Rajasthan Royals,Kings XI Punjab,field,Rajasthan Royals,runs,26.0,N,,SD Fry,CB Gaffaney
+829711.0,Chennai,2015-04-11,BB McCullum,venue,0,Chennai Super Kings,Sunrisers Hyderabad,Chennai Super Kings,bat,Chennai Super Kings,runs,45.0,N,,RK Illingworth,VA Kulkarni
+829713.0,Kolkata,2015-04-11,CH Gayle,venue,0,Kolkata Knight Riders,Royal Challengers Bangalore,Royal Challengers Bangalore,field,Royal Challengers Bangalore,runs,3.0,N,,S Ravi,C Shamshuddin
+829715.0,Delhi,2015-04-12,DJ Hooda,venue,0,Delhi Capitals,Rajasthan Royals,Rajasthan Royals,field,Rajasthan Royals,runs,3.0,N,,SD Fry,CB Gaffaney
+829717.0,Mumbai,2015-04-12,GJ Bailey,venue,0,Mumbai Indians,Kings XI Punjab,Mumbai Indians,field,Kings XI Punjab,runs,18.0,N,,AK Chaudhary,K Srinivasan
+829719.0,Bangalore,2015-04-13,DA Warner,venue,0,Royal Challengers Bangalore,Sunrisers Hyderabad,Sunrisers Hyderabad,field,Sunrisers Hyderabad,runs,8.0,N,,RM Deshpande,RK Illingworth
+829721.0,Ahmedabad,2015-04-14,SPD Smith,venue,0,Rajasthan Royals,Mumbai Indians,Mumbai Indians,bat,Rajasthan Royals,runs,7.0,N,,AK Chaudhary,SD Fry
+829723.0,Pune,2015-04-15,MA Agarwal,venue,0,Kings XI Punjab,Delhi Capitals,Kings XI Punjab,bat,Delhi Capitals,runs,7.0,N,,CB Gaffaney,M Erasmus
+829725.0,Visakhapatnam,2015-04-16,AM Rahane,venue,0,Sunrisers Hyderabad,Rajasthan Royals,Rajasthan Royals,field,Rajasthan Royals,runs,5.0,N,,PG Pathak,K Srinath
+829727.0,Mumbai,2015-04-17,A Nehra,venue,0,Mumbai Indians,Chennai Super Kings,Mumbai Indians,bat,Chennai Super Kings,runs,6.0,N,,AK Chaudhary,S Ravi
+829729.0,Visakhapatnam,2015-04-18,JP Duminy,venue,0,Sunrisers Hyderabad,Delhi Capitals,Delhi Daredevils,bat,Delhi Capitals,runs,6.0,N,,PG Pathak,M Erasmus
+829731.0,Pune,2015-04-18,AD Russell,venue,0,Kings XI Punjab,Kolkata Knight Riders,Kolkata Knight Riders,field,Kolkata Knight Riders,runs,4.0,N,,SD Fry,S Ravi
+829733.0,Ahmedabad,2015-04-19,AM Rahane,venue,0,Rajasthan Royals,Chennai Super Kings,Chennai Super Kings,bat,Rajasthan Royals,runs,4.0,N,,AK Chaudhary,CK Nandan
+829735.0,Bangalore,2015-04-19,Harbhajan Singh,venue,0,Royal Challengers Bangalore,Mumbai Indians,Royal Challengers Bangalore,field,Mumbai Indians,runs,8.0,N,,RK Illingworth,M Erasmus
+829737.0,Delhi,2015-04-20,UT Yadav,venue,0,Delhi Capitals,Kolkata Knight Riders,Kolkata Knight Riders,field,Kolkata Knight Riders,runs,18.0,N,,SD Fry,VA Kulkarni
+829739.0,Ahmedabad,2015-04-21,SE Marsh,venue,0,Rajasthan Royals,Kings XI Punjab,Kings XI Punjab,field,,runs,6.0,N,,M Erasmus,CB Gaffaney
+829741.0,Bangalore,2015-04-22,SK Raina,venue,0,Royal Challengers Bangalore,Chennai Super Kings,Royal Challengers Bangalore,field,Chennai Super Kings,runs,,Y,,JD Cloete,S Ravi
+829743.0,Visakhapatnam,2015-04-22,DA Warner,venue,0,Sunrisers Hyderabad,Kolkata Knight Riders,Kolkata Knight Riders,field,Sunrisers Hyderabad,runs,16.0,N,D/L,RK Illingworth,VA Kulkarni
+829745.0,Delhi,2015-04-23,SS Iyer,venue,0,Delhi Capitals,Mumbai Indians,Mumbai Indians,field,Delhi Capitals,runs,27.0,N,,SD Fry,C Shamshuddin
+829747.0,Ahmedabad,2015-04-24,MA Starc,venue,0,Rajasthan Royals,Royal Challengers Bangalore,Royal Challengers Bangalore,field,Royal Challengers Bangalore,runs,37.0,N,,M Erasmus,CK Nandan
+829749.0,Chennai,2015-04-25,BB McCullum,venue,0,Chennai Super Kings,Kings XI Punjab,Chennai Super Kings,bat,Chennai Super Kings,runs,9.0,N,,JD Cloete,S Ravi
+829751.0,Mumbai,2015-04-25,SL Malinga,venue,0,Mumbai Indians,Sunrisers Hyderabad,Mumbai Indians,bat,Mumbai Indians,runs,20.0,N,,HDPK Dharmasena,CB Gaffaney
+829753.0,Delhi,2015-04-26,VR Aaron,venue,0,Delhi Capitals,Royal Challengers Bangalore,Royal Challengers Bangalore,field,Royal Challengers Bangalore,runs,97.0,N,,M Erasmus,C Shamshuddin
+829757.0,Chandigarh,2015-04-27,TA Boult,venue,0,Kings XI Punjab,Sunrisers Hyderabad,Kings XI Punjab,field,Sunrisers Hyderabad,runs,10.0,N,,HDPK Dharmasena,S Ravi
+829759.0,Chennai,2015-04-28,DJ Bravo,venue,0,Chennai Super Kings,Kolkata Knight Riders,Kolkata Knight Riders,field,Chennai Super Kings,runs,20.0,N,,RM Deshpande,CB Gaffaney
+829761.0,Bangalore,2015-04-29,,venue,0,Royal Challengers Bangalore,Rajasthan Royals,Rajasthan Royals,field,,runs,13.0,N,,JD Cloete,M Erasmus
+829763.0,Kolkata,2015-04-30,AD Russell,venue,0,Kolkata Knight Riders,Chennai Super Kings,Kolkata Knight Riders,field,Kolkata Knight Riders,runs,,,,AK Chaudhary,PG Pathak
+829765.0,Delhi,2015-05-01,NM Coulter-Nile,venue,0,Delhi Capitals,Kings XI Punjab,Delhi Daredevils,field,Delhi Capitals,runs,2.0,N,,RK Illingworth,VA Kulkarni
+829767.0,Mumbai,2015-05-01,AT Rayudu,venue,0,Mumbai Indians,Rajasthan Royals,Rajasthan Royals,field,Mumbai Indians,runs,9.0,N,,HDPK Dharmasena,S Ravi
+829769.0,Bangalore,2015-05-02,Mandeep Singh,venue,0,Royal Challengers Bangalore,Kolkata Knight Riders,Royal Challengers Bangalore,field,Royal Challengers Bangalore,runs,8.0,N,,JD Cloete,CK Nandan
+829771.0,Hyderabad,2015-05-02,DA Warner,venue,0,Sunrisers Hyderabad,Chennai Super Kings,Chennai Super Kings,field,Sunrisers Hyderabad,runs,7.0,N,,AK Chaudhary,PG Pathak
+829773.0,Chandigarh,2015-05-03,LMP Simmons,venue,0,Kings XI Punjab,Mumbai Indians,Mumbai Indians,bat,Mumbai Indians,runs,22.0,N,,RK Illingworth,K Srinivasan
+829775.0,Mumbai,2015-05-03,AM Rahane,venue,0,Rajasthan Royals,Delhi Capitals,Delhi Daredevils,field,Rajasthan Royals,runs,23.0,N,,HDPK Dharmasena,VA Kulkarni
+829777.0,Kolkata,2015-05-04,UT Yadav,venue,0,Kolkata Knight Riders,Sunrisers Hyderabad,Sunrisers Hyderabad,field,Kolkata Knight Riders,runs,14.0,N,,AK Chaudhary,CB Gaffaney
+829779.0,Chennai,2015-05-04,SK Raina,venue,0,Chennai Super Kings,Royal Challengers Bangalore,Chennai Super Kings,bat,Chennai Super Kings,runs,24.0,N,,C Shamshuddin,K Srinath
+829781.0,Mumbai,2015-05-05,Harbhajan Singh,venue,0,Mumbai Indians,Delhi Capitals,Delhi Daredevils,bat,Mumbai Indians,runs,35.0,N,,HDPK Dharmasena,M Erasmus
+829783.0,Bangalore,2015-05-06,CH Gayle,venue,0,Royal Challengers Bangalore,Kings XI Punjab,Kings XI Punjab,field,Royal Challengers Bangalore,runs,5.0,N,,RK Illingworth,CB Gaffaney
+829785.0,Kolkata,2015-05-07,PP Chawla,venue,0,Kolkata Knight Riders,Delhi Capitals,Kolkata Knight Riders,bat,Kolkata Knight Riders,runs,138.0,N,,AK Chaudhary,VA Kulkarni
+829787.0,Mumbai,2015-05-07,EJG Morgan,venue,0,Rajasthan Royals,Sunrisers Hyderabad,Rajasthan Royals,field,Sunrisers Hyderabad,runs,7.0,N,,JD Cloete,C Shamshuddin
+829789.0,Chennai,2015-05-08,HH Pandya,venue,0,Chennai Super Kings,Mumbai Indians,Chennai Super Kings,bat,Mumbai Indians,runs,6.0,N,,CB Gaffaney,CK Nandan
+829791.0,Kolkata,2015-05-09,AD Russell,venue,0,Kolkata Knight Riders,Kings XI Punjab,Kings XI Punjab,bat,Kolkata Knight Riders,runs,1.0,N,,AK Chaudhary,HDPK Dharmasena
+829793.0,Raipur,2015-05-09,MC Henriques,venue,0,Delhi Capitals,Sunrisers Hyderabad,Sunrisers Hyderabad,bat,Sunrisers Hyderabad,runs,6.0,N,,VA Kulkarni,S Ravi
+829795.0,Mumbai,2015-05-10,AB de Villiers,venue,0,Mumbai Indians,Royal Challengers Bangalore,Royal Challengers Bangalore,bat,Royal Challengers Bangalore,runs,39.0,N,,JD Cloete,C Shamshuddin
+829797.0,Chennai,2015-05-10,RA Jadeja,venue,0,Chennai Super Kings,Rajasthan Royals,Chennai Super Kings,bat,Chennai Super Kings,runs,12.0,N,,M Erasmus,CK Nandan
+829799.0,Hyderabad,2015-05-11,DA Warner,venue,0,Sunrisers Hyderabad,Kings XI Punjab,Sunrisers Hyderabad,bat,Sunrisers Hyderabad,runs,5.0,N,,AK Chaudhary,HDPK Dharmasena
+829801.0,Raipur,2015-05-12,Z Khan,venue,0,Delhi Capitals,Chennai Super Kings,Chennai Super Kings,bat,Delhi Capitals,runs,6.0,N,,RK Illingworth,VA Kulkarni
+829803.0,Chandigarh,2015-05-13,AR Patel,venue,0,Kings XI Punjab,Royal Challengers Bangalore,Royal Challengers Bangalore,field,Kings XI Punjab,runs,22.0,N,,JD Cloete,C Shamshuddin
+829805.0,Mumbai,2015-05-14,HH Pandya,venue,0,Mumbai Indians,Kolkata Knight Riders,Kolkata Knight Riders,field,Mumbai Indians,runs,5.0,N,,RK Illingworth,VA Kulkarni
+829807.0,Hyderabad,2015-05-15,V Kohli,venue,0,Sunrisers Hyderabad,Royal Challengers Bangalore,Sunrisers Hyderabad,bat,Royal Challengers Bangalore,runs,6.0,N,D/L,AK Chaudhary,HDPK Dharmasena
+829809.0,Chandigarh,2015-05-16,P Negi,venue,0,Kings XI Punjab,Chennai Super Kings,Kings XI Punjab,bat,Chennai Super Kings,runs,7.0,N,,CK Nandan,C Shamshuddin
+829811.0,Mumbai,2015-05-16,SR Watson,venue,0,Rajasthan Royals,Kolkata Knight Riders,Rajasthan Royals,bat,Rajasthan Royals,runs,9.0,N,,RM Deshpande,RK Illingworth
+829813.0,Bangalore,2015-05-17,,venue,0,Royal Challengers Bangalore,Delhi Capitals,Royal Challengers Bangalore,field,,runs,,,,HDPK Dharmasena,K Srinivasan
+829815.0,Hyderabad,2015-05-17,MJ McClenaghan,venue,0,Sunrisers Hyderabad,Mumbai Indians,Sunrisers Hyderabad,bat,Mumbai Indians,runs,9.0,N,,CB Gaffaney,K Srinath
+829817.0,Mumbai,2015-05-19,KA Pollard,venue,0,Chennai Super Kings,Mumbai Indians,Mumbai Indians,bat,Mumbai Indians,runs,25.0,N,,HDPK Dharmasena,RK Illingworth
+829819.0,Pune,2015-05-20,AB de Villiers,venue,0,Royal Challengers Bangalore,Rajasthan Royals,Royal Challengers Bangalore,bat,Royal Challengers Bangalore,runs,71.0,N,,AK Chaudhary,C Shamshuddin
+829821.0,Ranchi,2015-05-22,A Nehra,venue,0,Chennai Super Kings,Royal Challengers Bangalore,Chennai Super Kings,field,Chennai Super Kings,runs,3.0,N,,AK Chaudhary,CB Gaffaney
+829823.0,Kolkata,2015-05-24,RG Sharma,venue,0,Mumbai Indians,Chennai Super Kings,Chennai Super Kings,field,Mumbai Indians,runs,41.0,N,,HDPK Dharmasena,RK Illingworth
+980901.0,Mumbai,2016-04-09,AM Rahane,venue,0,Mumbai Indians,Rising Pune Supergiants,Mumbai Indians,bat,Rising Pune Supergiants,runs,9.0,N,,HDPK Dharmasena,CK Nandan
+980903.0,Kolkata,2016-04-10,AD Russell,venue,0,Kolkata Knight Riders,Delhi Capitals,Kolkata Knight Riders,field,Kolkata Knight Riders,runs,9.0,N,,S Ravi,C Shamshuddin
+980905.0,Chandigarh,2016-04-11,AJ Finch,venue,0,Kings XI Punjab,Gujarat Lions,Gujarat Lions,field,Gujarat Lions,runs,5.0,N,,AK Chaudhary,VA Kulkarni
+980907.0,Bangalore,2016-04-12,AB de Villiers,venue,0,Royal Challengers Bangalore,Sunrisers Hyderabad,Sunrisers Hyderabad,field,Royal Challengers Bangalore,runs,45.0,N,,HDPK Dharmasena,VK Sharma
+980909.0,Kolkata,2016-04-13,RG Sharma,venue,0,Kolkata Knight Riders,Mumbai Indians,Mumbai Indians,field,Mumbai Indians,runs,6.0,N,,Nitin Menon,S Ravi
+980911.0,Rajkot,2016-04-14,AJ Finch,venue,0,Gujarat Lions,Rising Pune Supergiants,Rising Pune Supergiants,bat,Gujarat Lions,runs,7.0,N,,VA Kulkarni,CK Nandan
+980913.0,Delhi,2016-04-15,A Mishra,venue,0,Delhi Capitals,Kings XI Punjab,Delhi Daredevils,field,Delhi Capitals,runs,8.0,N,,S Ravi,C Shamshuddin
+980915.0,Hyderabad,2016-04-16,G Gambhir,venue,0,Sunrisers Hyderabad,Kolkata Knight Riders,Sunrisers Hyderabad,bat,Kolkata Knight Riders,runs,8.0,N,,AK Chaudhary,CK Nandan
+980917.0,Mumbai,2016-04-16,AJ Finch,venue,0,Mumbai Indians,Gujarat Lions,Gujarat Lions,field,Gujarat Lions,runs,3.0,N,,HDPK Dharmasena,VK Sharma
+980919.0,Chandigarh,2016-04-17,M Vohra,venue,0,Kings XI Punjab,Rising Pune Supergiants,Rising Pune Supergiants,bat,Kings XI Punjab,runs,6.0,N,,S Ravi,C Shamshuddin
+980921.0,Bangalore,2016-04-17,Q de Kock,venue,0,Royal Challengers Bangalore,Delhi Capitals,Delhi Daredevils,field,Delhi Capitals,runs,7.0,N,,VA Kulkarni,A Nand Kishore
+980923.0,Hyderabad,2016-04-18,DA Warner,venue,0,Sunrisers Hyderabad,Mumbai Indians,Sunrisers Hyderabad,field,Sunrisers Hyderabad,runs,7.0,N,,HDPK Dharmasena,VK Sharma
+980925.0,Chandigarh,2016-04-19,RV Uthappa,venue,0,Kings XI Punjab,Kolkata Knight Riders,Kolkata Knight Riders,field,Kolkata Knight Riders,runs,6.0,N,,S Ravi,C Shamshuddin
+980927.0,Mumbai,2016-04-20,RG Sharma,venue,0,Mumbai Indians,Royal Challengers Bangalore,Mumbai Indians,field,Mumbai Indians,runs,6.0,N,,AK Chaudhary,CK Nandan
+980929.0,Rajkot,2016-04-21,B Kumar,venue,0,Gujarat Lions,Sunrisers Hyderabad,Sunrisers Hyderabad,field,Sunrisers Hyderabad,runs,10.0,N,,K Bharatan,HDPK Dharmasena
+980931.0,Pune,2016-04-22,AB de Villiers,venue,0,Rising Pune Supergiants,Royal Challengers Bangalore,Rising Pune Supergiants,field,Royal Challengers Bangalore,runs,13.0,N,,CB Gaffaney,VK Sharma
+980933.0,Delhi,2016-04-23,SV Samson,venue,0,Delhi Capitals,Mumbai Indians,Mumbai Indians,field,Delhi Capitals,runs,10.0,N,,S Ravi,C Shamshuddin
+980935.0,Hyderabad,2016-04-23,Mustafizur Rahman,venue,0,Sunrisers Hyderabad,Kings XI Punjab,Sunrisers Hyderabad,field,Sunrisers Hyderabad,runs,5.0,N,,AK Chaudhary,CK Nandan
+980937.0,Rajkot,2016-04-24,V Kohli,venue,0,Gujarat Lions,Royal Challengers Bangalore,Royal Challengers Bangalore,bat,Gujarat Lions,runs,6.0,N,,K Bharatan,BNJ Oxenford
+980939.0,Pune,2016-04-24,SA Yadav,venue,0,Rising Pune Supergiants,Kolkata Knight Riders,Kolkata Knight Riders,field,Kolkata Knight Riders,runs,2.0,N,,CB Gaffaney,A Nand Kishore
+980941.0,Chandigarh,2016-04-25,PA Patel,venue,0,Kings XI Punjab,Mumbai Indians,Kings XI Punjab,field,Mumbai Indians,runs,25.0,N,,Nitin Menon,RJ Tucker
+980943.0,Hyderabad,2016-04-26,AB Dinda,venue,0,Sunrisers Hyderabad,Rising Pune Supergiants,Rising Pune Supergiants,field,Rising Pune Supergiants,runs,34.0,N,D/L,AY Dandekar,CK Nandan
+980945.0,Delhi,2016-04-27,CH Morris,venue,0,Delhi Capitals,Gujarat Lions,Delhi Daredevils,field,Gujarat Lions,runs,1.0,N,,M Erasmus,S Ravi
+980947.0,Mumbai,2016-04-28,RG Sharma,venue,0,Mumbai Indians,Kolkata Knight Riders,Mumbai Indians,field,Mumbai Indians,runs,6.0,N,,Nitin Menon,RJ Tucker
+980949.0,Pune,2016-04-29,DR Smith,venue,0,Rising Pune Supergiants,Gujarat Lions,Gujarat Lions,field,Gujarat Lions,runs,3.0,N,,CB Gaffaney,BNJ Oxenford
+980951.0,Hyderabad,2016-04-30,DA Warner,venue,0,Sunrisers Hyderabad,Royal Challengers Bangalore,Royal Challengers Bangalore,field,Sunrisers Hyderabad,runs,27.0,N,,AK Chaudhary,M Erasmus
+980953.0,Delhi,2016-04-30,CR Brathwaite,venue,0,Delhi Capitals,Kolkata Knight Riders,Kolkata Knight Riders,field,Delhi Capitals,runs,15.0,N,,KN Ananthapadmanabhan,HDPK Dharmasena
+980955.0,Pune,2016-05-01,RG Sharma,venue,0,Rising Pune Supergiants,Mumbai Indians,Mumbai Indians,field,Mumbai Indians,runs,23.0,N,,AY Dandekar,VK Sharma
+980957.0,Rajkot,2016-05-01,AR Patel,venue,0,Gujarat Lions,Kings XI Punjab,Gujarat Lions,field,Kings XI Punjab,runs,8.0,N,,BNJ Oxenford,RJ Tucker
+980959.0,Bangalore,2016-05-02,AD Russell,venue,0,Royal Challengers Bangalore,Kolkata Knight Riders,Kolkata Knight Riders,field,Kolkata Knight Riders,runs,5.0,N,,M Erasmus,S Ravi
+980961.0,Rajkot,2016-05-03,RR Pant,venue,0,Gujarat Lions,Delhi Capitals,Delhi Daredevils,field,Delhi Capitals,runs,8.0,N,,CB Gaffaney,BNJ Oxenford
+980963.0,Kolkata,2016-05-04,AD Russell,venue,0,Kolkata Knight Riders,Kings XI Punjab,Kings XI Punjab,field,Kolkata Knight Riders,runs,7.0,N,,AK Chaudhary,HDPK Dharmasena
+980965.0,Delhi,2016-05-05,AM Rahane,venue,0,Delhi Capitals,Rising Pune Supergiants,Rising Pune Supergiants,field,Rising Pune Supergiants,runs,7.0,N,,C Shamshuddin,RJ Tucker
+980967.0,Hyderabad,2016-05-06,B Kumar,venue,0,Sunrisers Hyderabad,Gujarat Lions,Sunrisers Hyderabad,field,Sunrisers Hyderabad,runs,5.0,N,,M Erasmus,S Ravi
+980969.0,Bangalore,2016-05-07,V Kohli,venue,0,Royal Challengers Bangalore,Rising Pune Supergiants,Royal Challengers Bangalore,field,Royal Challengers Bangalore,runs,7.0,N,,CB Gaffaney,BNJ Oxenford
+980971.0,Chandigarh,2016-05-07,MP Stoinis,venue,0,Kings XI Punjab,Delhi Capitals,Delhi Daredevils,field,Kings XI Punjab,runs,9.0,N,,HDPK Dharmasena,CK Nandan
+980973.0,Visakhapatnam,2016-05-08,A Nehra,venue,0,Mumbai Indians,Sunrisers Hyderabad,Mumbai Indians,field,Sunrisers Hyderabad,runs,85.0,N,,S Ravi,C Shamshuddin
+980975.0,Kolkata,2016-05-08,P Kumar,venue,0,Kolkata Knight Riders,Gujarat Lions,Gujarat Lions,field,Gujarat Lions,runs,5.0,N,,M Erasmus,RJ Tucker
+980977.0,Chandigarh,2016-05-09,SR Watson,venue,0,Kings XI Punjab,Royal Challengers Bangalore,Kings XI Punjab,field,Royal Challengers Bangalore,runs,1.0,N,,AK Chaudhary,HDPK Dharmasena
+980979.0,Visakhapatnam,2016-05-10,A Zampa,venue,0,Rising Pune Supergiants,Sunrisers Hyderabad,Sunrisers Hyderabad,bat,Sunrisers Hyderabad,runs,4.0,N,,CB Gaffaney,VK Sharma
+980981.0,Bangalore,2016-05-11,KH Pandya,venue,0,Royal Challengers Bangalore,Mumbai Indians,Mumbai Indians,field,Mumbai Indians,runs,6.0,N,,AY Dandekar,C Shamshuddin
+980983.0,Hyderabad,2016-05-12,CH Morris,venue,0,Sunrisers Hyderabad,Delhi Capitals,Delhi Daredevils,field,Delhi Capitals,runs,7.0,N,,K Bharatan,M Erasmus
+980985.0,Visakhapatnam,2016-05-13,MP Stoinis,venue,0,Mumbai Indians,Kings XI Punjab,Mumbai Indians,bat,Kings XI Punjab,runs,7.0,N,,HDPK Dharmasena,CK Nandan
+980987.0,Bangalore,2016-05-14,AB de Villiers,venue,0,Royal Challengers Bangalore,Gujarat Lions,Gujarat Lions,field,Royal Challengers Bangalore,runs,144.0,N,,AY Dandekar,VK Sharma
+980989.0,Kolkata,2016-05-14,YK Pathan,venue,0,Kolkata Knight Riders,Rising Pune Supergiants,Rising Pune Supergiants,bat,Kolkata Knight Riders,runs,8.0,N,D/L,A Nand Kishore,BNJ Oxenford
+980991.0,Chandigarh,2016-05-15,HM Amla,venue,0,Kings XI Punjab,Sunrisers Hyderabad,Kings XI Punjab,bat,Sunrisers Hyderabad,runs,7.0,N,,KN Ananthapadmanabhan,M Erasmus
+980993.0,Visakhapatnam,2016-05-15,KH Pandya,venue,0,Mumbai Indians,Delhi Capitals,Delhi Daredevils,field,Mumbai Indians,runs,80.0,N,,Nitin Menon,CK Nandan
+980995.0,Kolkata,2016-05-16,V Kohli,venue,0,Kolkata Knight Riders,Royal Challengers Bangalore,Royal Challengers Bangalore,field,Royal Challengers Bangalore,runs,9.0,N,,CB Gaffaney,A Nand Kishore
+980997.0,Visakhapatnam,2016-05-17,AB Dinda,venue,0,Rising Pune Supergiants,Delhi Capitals,Rising Pune Supergiants,field,Rising Pune Supergiants,runs,19.0,N,D/L,Nitin Menon,C Shamshuddin
+980999.0,Bangalore,2016-05-18,V Kohli,venue,0,Royal Challengers Bangalore,Kings XI Punjab,Kings XI Punjab,field,Royal Challengers Bangalore,runs,82.0,N,D/L,KN Ananthapadmanabhan,M Erasmus
+981001.0,Kanpur,2016-05-19,DR Smith,venue,0,Gujarat Lions,Kolkata Knight Riders,Gujarat Lions,field,Gujarat Lions,runs,6.0,N,,AK Chaudhary,CK Nandan
+981003.0,Raipur,2016-05-20,KK Nair,venue,0,Delhi Capitals,Sunrisers Hyderabad,Delhi Daredevils,field,Delhi Capitals,runs,6.0,N,,A Nand Kishore,BNJ Oxenford
+981005.0,Visakhapatnam,2016-05-21,MS Dhoni,venue,0,Rising Pune Supergiants,Kings XI Punjab,Kings XI Punjab,bat,Rising Pune Supergiants,runs,4.0,N,,HDPK Dharmasena,Nitin Menon
+981007.0,Kanpur,2016-05-21,SK Raina,venue,0,Gujarat Lions,Mumbai Indians,Gujarat Lions,field,Gujarat Lions,runs,6.0,N,,AK Chaudhary,CK Nandan
+981009.0,Kolkata,2016-05-22,YK Pathan,venue,0,Kolkata Knight Riders,Sunrisers Hyderabad,Sunrisers Hyderabad,field,Kolkata Knight Riders,runs,22.0,N,,KN Ananthapadmanabhan,M Erasmus
+981011.0,Raipur,2016-05-22,V Kohli,venue,0,Delhi Capitals,Royal Challengers Bangalore,Royal Challengers Bangalore,field,Royal Challengers Bangalore,runs,6.0,N,,A Nand Kishore,BNJ Oxenford
+981013.0,Bangalore,2016-05-24,AB de Villiers,venue,0,Gujarat Lions,Royal Challengers Bangalore,Royal Challengers Bangalore,field,Royal Challengers Bangalore,runs,4.0,N,,AK Chaudhary,HDPK Dharmasena
+981015.0,Delhi,2016-05-25,MC Henriques,venue,0,Sunrisers Hyderabad,Kolkata Knight Riders,Kolkata Knight Riders,field,Sunrisers Hyderabad,runs,22.0,N,,M Erasmus,C Shamshuddin
+981017.0,Delhi,2016-05-27,DA Warner,venue,0,Gujarat Lions,Sunrisers Hyderabad,Sunrisers Hyderabad,field,Sunrisers Hyderabad,runs,4.0,N,,M Erasmus,CK Nandan
+981019.0,Bangalore,2016-05-29,BCJ Cutting,venue,0,Royal Challengers Bangalore,Sunrisers Hyderabad,Sunrisers Hyderabad,bat,Sunrisers Hyderabad,runs,8.0,N,,HDPK Dharmasena,BNJ Oxenford
+1082591.0,Hyderabad,2017-04-05,Yuvraj Singh,venue,0,Sunrisers Hyderabad,Royal Challengers Bangalore,Royal Challengers Bangalore,field,Sunrisers Hyderabad,runs,35.0,N,,AY Dandekar,NJ Llong
+1082592.0,Pune,2017-04-06,SPD Smith,venue,0,Rising Pune Supergiants,Mumbai Indians,Rising Pune Supergiant,field,Rising Pune Supergiants,runs,7.0,N,,A Nand Kishore,S Ravi
+1082593.0,Rajkot,2017-04-07,CA Lynn,venue,0,Gujarat Lions,Kolkata Knight Riders,Kolkata Knight Riders,field,Kolkata Knight Riders,runs,10.0,N,,Nitin Menon,CK Nandan
+1082594.0,Indore,2017-04-08,GJ Maxwell,venue,0,Kings XI Punjab,Rising Pune Supergiants,Kings XI Punjab,field,Kings XI Punjab,runs,6.0,N,,AK Chaudhary,C Shamshuddin
+1082595.0,Bengaluru,2017-04-08,KM Jadhav,venue,0,Royal Challengers Bangalore,Delhi Capitals,Royal Challengers Bangalore,bat,Royal Challengers Bangalore,runs,15.0,N,,S Ravi,VK Sharma
+1082596.0,Hyderabad,2017-04-09,Rashid Khan,venue,0,Sunrisers Hyderabad,Gujarat Lions,Sunrisers Hyderabad,field,Sunrisers Hyderabad,runs,9.0,N,,A Deshmukh,NJ Llong
+1082597.0,Mumbai,2017-04-09,N Rana,venue,0,Mumbai Indians,Kolkata Knight Riders,Mumbai Indians,field,Mumbai Indians,runs,4.0,N,,Nitin Menon,CK Nandan
+1082598.0,Indore,2017-04-10,AR Patel,venue,0,Kings XI Punjab,Royal Challengers Bangalore,Royal Challengers Bangalore,bat,Kings XI Punjab,runs,8.0,N,,AK Chaudhary,C Shamshuddin
+1082599.0,Pune,2017-04-11,SV Samson,venue,0,Rising Pune Supergiants,Delhi Capitals,Rising Pune Supergiant,field,Delhi Capitals,runs,97.0,N,,AY Dandekar,S Ravi
+1082600.0,Mumbai,2017-04-12,JJ Bumrah,venue,0,Mumbai Indians,Sunrisers Hyderabad,Mumbai Indians,field,Mumbai Indians,runs,4.0,N,,Nitin Menon,CK Nandan
+1082601.0,Kolkata,2017-04-13,SP Narine,venue,0,Kolkata Knight Riders,Kings XI Punjab,Kolkata Knight Riders,field,Kolkata Knight Riders,runs,8.0,N,,A Deshmukh,NJ Llong
+1082602.0,Bangalore,2017-04-14,KA Pollard,venue,0,Royal Challengers Bangalore,Mumbai Indians,Mumbai Indians,field,Mumbai Indians,runs,4.0,N,,KN Ananthapadmanabhan,AK Chaudhary
+1082603.0,Rajkot,2017-04-14,AJ Tye,venue,0,Gujarat Lions,Rising Pune Supergiants,Gujarat Lions,field,Gujarat Lions,runs,7.0,N,,A Nand Kishore,S Ravi
+1082604.0,Delhi,2017-04-15,CJ Anderson,venue,0,Delhi Capitals,Kings XI Punjab,Delhi Daredevils,bat,Delhi Capitals,runs,17.0,N,,YC Barde,NJ Llong
+1082605.0,Kolkata,2017-04-15,RV Uthappa,venue,0,Kolkata Knight Riders,Sunrisers Hyderabad,Sunrisers Hyderabad,field,Kolkata Knight Riders,runs,51.0,N,,AY Dandekar,Nitin Menon
+1082606.0,Mumbai,2017-04-16,N Rana,venue,0,Mumbai Indians,Gujarat Lions,Mumbai Indians,field,Mumbai Indians,runs,6.0,N,,A Nand Kishore,S Ravi
+1082607.0,Bangalore,2017-04-16,BA Stokes,venue,0,Royal Challengers Bangalore,Rising Pune Supergiants,Royal Challengers Bangalore,field,Rising Pune Supergiants,runs,27.0,N,,KN Ananthapadmanabhan,C Shamshuddin
+1082608.0,Delhi,2017-04-17,NM Coulter-Nile,venue,0,Delhi Capitals,Kolkata Knight Riders,Delhi Daredevils,bat,Kolkata Knight Riders,runs,4.0,N,,Nitin Menon,CK Nandan
+1082609.0,Hyderabad,2017-04-17,B Kumar,venue,0,Sunrisers Hyderabad,Kings XI Punjab,Kings XI Punjab,field,Sunrisers Hyderabad,runs,5.0,N,,AY Dandekar,A Deshmukh
+1082610.0,Rajkot,2017-04-18,CH Gayle,venue,0,Gujarat Lions,Royal Challengers Bangalore,Gujarat Lions,field,Royal Challengers Bangalore,runs,21.0,N,,S Ravi,VK Sharma
+1082611.0,Hyderabad,2017-04-19,KS Williamson,venue,0,Sunrisers Hyderabad,Delhi Capitals,Sunrisers Hyderabad,bat,Sunrisers Hyderabad,runs,15.0,N,,CB Gaffaney,NJ Llong
+1082612.0,Indore,2017-04-20,JC Buttler,venue,0,Kings XI Punjab,Mumbai Indians,Mumbai Indians,field,Mumbai Indians,runs,8.0,N,,M Erasmus,C Shamshuddin
+1082613.0,Kolkata,2017-04-21,SK Raina,venue,0,Kolkata Knight Riders,Gujarat Lions,Gujarat Lions,field,Gujarat Lions,runs,4.0,N,,CB Gaffaney,Nitin Menon
+1082614.0,Mumbai,2017-04-22,MJ McClenaghan,venue,0,Mumbai Indians,Delhi Capitals,Delhi Daredevils,field,Mumbai Indians,runs,14.0,N,,A Nand Kishore,S Ravi
+1082615.0,Pune,2017-04-22,MS Dhoni,venue,0,Rising Pune Supergiants,Sunrisers Hyderabad,Rising Pune Supergiant,field,Rising Pune Supergiants,runs,6.0,N,,AY Dandekar,A Deshmukh
+1082616.0,Rajkot,2017-04-23,HM Amla,venue,0,Gujarat Lions,Kings XI Punjab,Gujarat Lions,field,Kings XI Punjab,runs,26.0,N,,AK Chaudhary,M Erasmus
+1082617.0,Kolkata,2017-04-23,NM Coulter-Nile,venue,0,Kolkata Knight Riders,Royal Challengers Bangalore,Royal Challengers Bangalore,field,Kolkata Knight Riders,runs,82.0,N,,CB Gaffaney,CK Nandan
+1082618.0,Mumbai,2017-04-24,BA Stokes,venue,0,Mumbai Indians,Rising Pune Supergiants,Mumbai Indians,field,Rising Pune Supergiants,runs,3.0,N,,A Nand Kishore,S Ravi
+1082620.0,Pune,2017-04-26,RV Uthappa,venue,0,Rising Pune Supergiants,Kolkata Knight Riders,Kolkata Knight Riders,field,Kolkata Knight Riders,runs,7.0,N,,AY Dandekar,NJ Llong
+1082621.0,Bangalore,2017-04-27,AJ Tye,venue,0,Royal Challengers Bangalore,Gujarat Lions,Gujarat Lions,field,Gujarat Lions,runs,7.0,N,,AK Chaudhary,C Shamshuddin
+1082622.0,Kolkata,2017-04-28,G Gambhir,venue,0,Kolkata Knight Riders,Delhi Capitals,Kolkata Knight Riders,field,Kolkata Knight Riders,runs,7.0,N,,NJ Llong,S Ravi
+1082623.0,Chandigarh,2017-04-28,Rashid Khan,venue,0,Kings XI Punjab,Sunrisers Hyderabad,Kings XI Punjab,field,Sunrisers Hyderabad,runs,26.0,N,,Nitin Menon,CK Nandan
+1082624.0,Pune,2017-04-29,LH Ferguson,venue,0,Rising Pune Supergiants,Royal Challengers Bangalore,Royal Challengers Bangalore,field,Rising Pune Supergiants,runs,61.0,N,,KN Ananthapadmanabhan,M Erasmus
+1082625.0,Rajkot,2017-04-29,KH Pandya,venue,0,Gujarat Lions,Mumbai Indians,Gujarat Lions,bat,,runs,,Y,,AK Chaudhary,CB Gaffaney
+1082626.0,Chandigarh,2017-04-30,Sandeep Sharma,venue,0,Kings XI Punjab,Delhi Capitals,Kings XI Punjab,field,Kings XI Punjab,runs,10.0,N,,YC Barde,CK Nandan
+1082627.0,Hyderabad,2017-04-30,DA Warner,venue,0,Sunrisers Hyderabad,Kolkata Knight Riders,Kolkata Knight Riders,field,Sunrisers Hyderabad,runs,48.0,N,,AY Dandekar,S Ravi
+1082628.0,Mumbai,2017-05-01,RG Sharma,venue,0,Mumbai Indians,Royal Challengers Bangalore,Royal Challengers Bangalore,bat,Mumbai Indians,runs,5.0,N,,AK Chaudhary,CB Gaffaney
+1082629.0,Pune,2017-05-01,BA Stokes,venue,0,Rising Pune Supergiants,Gujarat Lions,Rising Pune Supergiant,field,Rising Pune Supergiants,runs,5.0,N,,M Erasmus,C Shamshuddin
+1082630.0,Delhi,2017-05-02,Mohammed Shami,venue,0,Delhi Capitals,Sunrisers Hyderabad,Delhi Daredevils,field,Delhi Capitals,runs,6.0,N,,YC Barde,Nitin Menon
+1082631.0,Kolkata,2017-05-03,RA Tripathi,venue,0,Kolkata Knight Riders,Rising Pune Supergiants,Rising Pune Supergiant,field,Rising Pune Supergiants,runs,4.0,N,,KN Ananthapadmanabhan,A Nand Kishore
+1082632.0,Delhi,2017-05-04,RR Pant,venue,0,Delhi Capitals,Gujarat Lions,Delhi Daredevils,field,Delhi Capitals,runs,7.0,N,,M Erasmus,Nitin Menon
+1082633.0,Bangalore,2017-05-05,Sandeep Sharma,venue,0,Royal Challengers Bangalore,Kings XI Punjab,Royal Challengers Bangalore,field,Kings XI Punjab,runs,19.0,N,,CB Gaffaney,C Shamshuddin
+1082634.0,Hyderabad,2017-05-06,JD Unadkat,venue,0,Sunrisers Hyderabad,Rising Pune Supergiants,Sunrisers Hyderabad,field,Rising Pune Supergiants,runs,12.0,N,,KN Ananthapadmanabhan,AK Chaudhary
+1082635.0,Delhi,2017-05-06,LMP Simmons,venue,0,Delhi Capitals,Mumbai Indians,Delhi Daredevils,field,Mumbai Indians,runs,146.0,N,,Nitin Menon,CK Nandan
+1082636.0,Bangalore,2017-05-07,SP Narine,venue,0,Royal Challengers Bangalore,Kolkata Knight Riders,Kolkata Knight Riders,field,Kolkata Knight Riders,runs,6.0,N,,AY Dandekar,C Shamshuddin
+1082637.0,Chandigarh,2017-05-07,DR Smith,venue,0,Kings XI Punjab,Gujarat Lions,Gujarat Lions,field,Gujarat Lions,runs,6.0,N,,A Nand Kishore,VK Sharma
+1082638.0,Hyderabad,2017-05-08,S Dhawan,venue,0,Sunrisers Hyderabad,Mumbai Indians,Mumbai Indians,bat,Sunrisers Hyderabad,runs,7.0,N,,KN Ananthapadmanabhan,M Erasmus
+1082639.0,Chandigarh,2017-05-09,MM Sharma,venue,0,Kings XI Punjab,Kolkata Knight Riders,Kolkata Knight Riders,field,Kings XI Punjab,runs,14.0,N,,A Nand Kishore,S Ravi
+1082640.0,Kanpur,2017-05-10,SS Iyer,venue,0,Gujarat Lions,Delhi Capitals,Delhi Daredevils,field,Delhi Capitals,runs,2.0,N,,YC Barde,AK Chaudhary
+1082641.0,Mumbai,2017-05-11,WP Saha,venue,0,Mumbai Indians,Kings XI Punjab,Mumbai Indians,field,Kings XI Punjab,runs,7.0,N,,A Deshmukh,A Nand Kishore
+1082642.0,Delhi,2017-05-12,KK Nair,venue,0,Delhi Capitals,Rising Pune Supergiants,Delhi Daredevils,bat,Delhi Capitals,runs,7.0,N,,KN Ananthapadmanabhan,CK Nandan
+1082643.0,Kanpur,2017-05-13,Mohammed Siraj,venue,0,Gujarat Lions,Sunrisers Hyderabad,Sunrisers Hyderabad,field,Sunrisers Hyderabad,runs,8.0,N,,AK Chaudhary,Nitin Menon
+1082644.0,Kolkata,2017-05-13,AT Rayudu,venue,0,Kolkata Knight Riders,Mumbai Indians,Kolkata Knight Riders,field,Mumbai Indians,runs,9.0,N,,A Nand Kishore,S Ravi
+1082645.0,Pune,2017-05-14,JD Unadkat,venue,0,Rising Pune Supergiants,Kings XI Punjab,Rising Pune Supergiant,field,Rising Pune Supergiants,runs,9.0,N,,AY Dandekar,A Deshmukh
+1082646.0,Delhi,2017-05-14,HV Patel,venue,0,Delhi Capitals,Royal Challengers Bangalore,Royal Challengers Bangalore,bat,Royal Challengers Bangalore,runs,10.0,N,,CK Nandan,C Shamshuddin
+1082647.0,Mumbai,2017-05-16,Washington Sundar,venue,0,Mumbai Indians,Rising Pune Supergiants,Mumbai Indians,field,Rising Pune Supergiants,runs,20.0,N,,S Ravi,C Shamshuddin
+1082648.0,Bangalore,2017-05-17,NM Coulter-Nile,venue,0,Sunrisers Hyderabad,Kolkata Knight Riders,Kolkata Knight Riders,field,Kolkata Knight Riders,runs,7.0,N,D/L,AK Chaudhary,Nitin Menon
+1082649.0,Bangalore,2017-05-19,KV Sharma,venue,0,Mumbai Indians,Kolkata Knight Riders,Mumbai Indians,field,Mumbai Indians,runs,6.0,N,,NJ Llong,Nitin Menon
+1082650.0,Hyderabad,2017-05-21,KH Pandya,venue,0,Mumbai Indians,Rising Pune Supergiants,Mumbai Indians,bat,Mumbai Indians,runs,1.0,N,,NJ Llong,S Ravi
+1136561.0,Mumbai,2018-04-07,DJ Bravo,venue,0,Mumbai Indians,Chennai Super Kings,Chennai Super Kings,field,Chennai Super Kings,runs,1.0,N,,CB Gaffaney,A Nand Kishore
+1136562.0,Chandigarh,2018-04-08,KL Rahul,venue,0,Delhi Capitals,Kings XI Punjab,Kings XI Punjab,field,Kings XI Punjab,runs,6.0,N,,KN Ananthapadmanabhan,RJ Tucker
+1136563.0,Kolkata,2018-04-08,SP Narine,venue,0,Royal Challengers Bangalore,Kolkata Knight Riders,Kolkata Knight Riders,field,Kolkata Knight Riders,runs,4.0,N,,A Deshmukh,A Deshmukh
+1136564.0,Hyderabad,2018-04-09,S Dhawan,venue,0,Rajasthan Royals,Sunrisers Hyderabad,Sunrisers Hyderabad,field,Sunrisers Hyderabad,runs,9.0,N,,NJ Llong,NJ Llong
+1136565.0,Chennai,2018-04-10,SW Billings,venue,0,Kolkata Knight Riders,Chennai Super Kings,Chennai Super Kings,field,Chennai Super Kings,runs,5.0,N,,AK Chaudhary,AK Chaudhary
+1136566.0,Jaipur,2018-04-11,SV Samson,venue,0,Rajasthan Royals,Delhi Capitals,Delhi Daredevils,field,Rajasthan Royals,runs,10.0,N,D/L,KN Ananthapadmanabhan,Nitin Menon
+1136567.0,Hyderabad,2018-04-12,Rashid Khan,venue,0,Mumbai Indians,Sunrisers Hyderabad,Sunrisers Hyderabad,field,Sunrisers Hyderabad,runs,1.0,N,,CK Nandan,CK Nandan
+1136568.0,Bengaluru,2018-04-13,UT Yadav,venue,0,Kings XI Punjab,Royal Challengers Bangalore,Royal Challengers Bangalore,field,Royal Challengers Bangalore,runs,4.0,N,,A Deshmukh,S Ravi
+1136569.0,Mumbai,2018-04-14,JJ Roy,venue,0,Mumbai Indians,Delhi Capitals,Delhi Daredevils,field,Delhi Capitals,runs,7.0,N,,KN Ananthapadmanabhan,Nitin Menon
+1136570.0,Kolkata,2018-04-14,B Stanlake,venue,0,Kolkata Knight Riders,Sunrisers Hyderabad,Sunrisers Hyderabad,field,Sunrisers Hyderabad,runs,5.0,N,,AK Chaudhary,A Nand Kishore
+1136571.0,Chandigarh,2018-04-15,CH Gayle,venue,0,Kings XI Punjab,Chennai Super Kings,Chennai Super Kings,field,Kings XI Punjab,runs,19.0,N,,CK Nandan,S Ravi
+1136572.0,Bengaluru,2018-04-15,SV Samson,venue,0,Rajasthan Royals,Royal Challengers Bangalore,Royal Challengers Bangalore,field,Rajasthan Royals,runs,4.0,N,,C Shamshuddin,CK Nandan
+1136573.0,Kolkata,2018-04-16,N Rana,venue,0,Kolkata Knight Riders,Delhi Capitals,Delhi Daredevils,field,Kolkata Knight Riders,runs,71.0,N,,AK Chaudhary,A Nand Kishore
+1136574.0,Mumbai,2018-04-17,RG Sharma,venue,0,Mumbai Indians,Royal Challengers Bangalore,Royal Challengers Bangalore,field,Mumbai Indians,runs,46.0,N,,Nitin Menon,Nitin Menon
+1136575.0,Jaipur,2018-04-18,N Rana,venue,0,Rajasthan Royals,Kolkata Knight Riders,Kolkata Knight Riders,field,Kolkata Knight Riders,runs,7.0,N,,A Deshmukh,S Ravi
+1136576.0,Chandigarh,2018-04-19,CH Gayle,venue,0,Kings XI Punjab,Sunrisers Hyderabad,Kings XI Punjab,bat,Kings XI Punjab,runs,15.0,N,,AK Chaudhary,AK Chaudhary
+1136577.0,Pune,2018-04-20,SR Watson,venue,0,Chennai Super Kings,Rajasthan Royals,Rajasthan Royals,field,Chennai Super Kings,runs,64.0,N,,KN Ananthapadmanabhan,Nitin Menon
+1136578.0,Kolkata,2018-04-21,KL Rahul,venue,0,Kolkata Knight Riders,Kings XI Punjab,Kings XI Punjab,field,Kings XI Punjab,runs,9.0,N,D/L,A Deshmukh,A Deshmukh
+1136579.0,Bengaluru,2018-04-21,AB de Villiers,venue,0,Delhi Capitals,Royal Challengers Bangalore,Royal Challengers Bangalore,field,Royal Challengers Bangalore,runs,6.0,N,,CB Gaffaney,CK Nandan
+1136580.0,Hyderabad,2018-04-22,AT Rayudu,venue,0,Chennai Super Kings,Sunrisers Hyderabad,Sunrisers Hyderabad,field,Chennai Super Kings,runs,4.0,N,,AK Chaudhary,AK Chaudhary
+1136581.0,Jaipur,2018-04-22,JC Archer,venue,0,Mumbai Indians,Rajasthan Royals,Mumbai Indians,bat,Rajasthan Royals,runs,3.0,N,,KN Ananthapadmanabhan,RJ Tucker
+1136582.0,Delhi,2018-04-23,AS Rajpoot,venue,0,Kings XI Punjab,Delhi Capitals,Delhi Daredevils,field,Kings XI Punjab,runs,4.0,N,,A Nand Kishore,CK Nandan
+1136583.0,Mumbai,2018-04-24,Rashid Khan,venue,0,Sunrisers Hyderabad,Mumbai Indians,Mumbai Indians,field,Sunrisers Hyderabad,runs,31.0,N,,C Shamshuddin,S Ravi
+1136584.0,Bengaluru,2018-04-25,MS Dhoni,venue,0,Royal Challengers Bangalore,Chennai Super Kings,Chennai Super Kings,field,Chennai Super Kings,runs,5.0,N,,NJ Llong,VK Sharma
+1136585.0,Hyderabad,2018-04-26,AS Rajpoot,venue,0,Sunrisers Hyderabad,Kings XI Punjab,Kings XI Punjab,field,Sunrisers Hyderabad,runs,13.0,N,,CK Nandan,CK Nandan
+1136586.0,Delhi,2018-04-27,SS Iyer,venue,0,Delhi Capitals,Kolkata Knight Riders,Kolkata Knight Riders,field,Delhi Capitals,runs,55.0,N,,C Shamshuddin,S Ravi
+1136587.0,Pune,2018-04-28,RG Sharma,venue,0,Chennai Super Kings,Mumbai Indians,Mumbai Indians,field,Mumbai Indians,runs,8.0,N,,CB Gaffaney,Nitin Menon
+1136588.0,Jaipur,2018-04-29,KS Williamson,venue,0,Sunrisers Hyderabad,Rajasthan Royals,Sunrisers Hyderabad,bat,Sunrisers Hyderabad,runs,11.0,N,,BNJ Oxenford,A Nand Kishore
+1136589.0,Bengaluru,2018-04-29,CA Lynn,venue,0,Royal Challengers Bangalore,Kolkata Knight Riders,Kolkata Knight Riders,field,Kolkata Knight Riders,runs,6.0,N,,AK Chaudhary,AK Chaudhary
+1136590.0,Pune,2018-04-30,SR Watson,venue,0,Chennai Super Kings,Delhi Capitals,Delhi Daredevils,field,Chennai Super Kings,runs,13.0,N,,AY Dandekar,C Shamshuddin
+1136591.0,Bengaluru,2018-05-01,TG Southee,venue,0,Royal Challengers Bangalore,Mumbai Indians,Mumbai Indians,field,Royal Challengers Bangalore,runs,14.0,N,,M Erasmus,Nitin Menon
+1136592.0,Delhi,2018-05-02,RR Pant,venue,0,Delhi Capitals,Rajasthan Royals,Rajasthan Royals,field,Delhi Capitals,runs,4.0,N,D/L,CK Nandan,CK Nandan
+1136593.0,Kolkata,2018-05-03,SP Narine,venue,0,Chennai Super Kings,Kolkata Knight Riders,Kolkata Knight Riders,field,Kolkata Knight Riders,runs,6.0,N,,A Deshmukh,A Deshmukh
+1136594.0,Indore,2018-05-04,SA Yadav,venue,0,Kings XI Punjab,Mumbai Indians,Mumbai Indians,field,Mumbai Indians,runs,6.0,N,,AY Dandekar,S Ravi
+1136595.0,Pune,2018-05-05,RA Jadeja,venue,0,Royal Challengers Bangalore,Chennai Super Kings,Chennai Super Kings,field,Chennai Super Kings,runs,6.0,N,,Nitin Menon,YC Barde
+1136596.0,Hyderabad,2018-05-05,Rashid Khan,venue,0,Delhi Capitals,Sunrisers Hyderabad,Delhi Daredevils,bat,Sunrisers Hyderabad,runs,7.0,N,,BNJ Oxenford,CK Nandan
+1136597.0,Mumbai,2018-05-06,HH Pandya,venue,0,Mumbai Indians,Kolkata Knight Riders,Kolkata Knight Riders,field,Mumbai Indians,runs,13.0,N,,A Deshmukh,A Deshmukh
+1136598.0,Indore,2018-05-06,Mujeeb Ur Rahman,venue,0,Rajasthan Royals,Kings XI Punjab,Kings XI Punjab,field,Kings XI Punjab,runs,6.0,N,,C Shamshuddin,S Ravi
+1136599.0,Hyderabad,2018-05-07,KS Williamson,venue,0,Sunrisers Hyderabad,Royal Challengers Bangalore,Royal Challengers Bangalore,field,Sunrisers Hyderabad,runs,5.0,N,,BNJ Oxenford,VK Sharma
+1136600.0,Jaipur,2018-05-08,JC Buttler,venue,0,Rajasthan Royals,Kings XI Punjab,Rajasthan Royals,bat,Rajasthan Royals,runs,15.0,N,,M Erasmus,Nitin Menon
+1136601.0,Kolkata,2018-05-09,Ishan Kishan,venue,0,Mumbai Indians,Kolkata Knight Riders,Kolkata Knight Riders,field,Mumbai Indians,runs,102.0,N,,KN Ananthapadmanabhan,AK Chaudhary
+1136602.0,Delhi,2018-05-10,S Dhawan,venue,0,Delhi Capitals,Sunrisers Hyderabad,Delhi Daredevils,bat,Sunrisers Hyderabad,runs,9.0,N,,AY Dandekar,C Shamshuddin
+1136603.0,Jaipur,2018-05-11,JC Buttler,venue,0,Chennai Super Kings,Rajasthan Royals,Chennai Super Kings,bat,Rajasthan Royals,runs,4.0,N,,M Erasmus,YC Barde
+1136604.0,Indore,2018-05-12,SP Narine,venue,0,Kolkata Knight Riders,Kings XI Punjab,Kings XI Punjab,field,Kolkata Knight Riders,runs,31.0,N,,CK Nandan,CK Nandan
+1136605.0,Delhi,2018-05-12,AB de Villiers,venue,0,Delhi Capitals,Royal Challengers Bangalore,Royal Challengers Bangalore,field,Royal Challengers Bangalore,runs,5.0,N,,KN Ananthapadmanabhan,HDPK Dharmasena
+1136606.0,Pune,2018-05-13,AT Rayudu,venue,0,Sunrisers Hyderabad,Chennai Super Kings,Chennai Super Kings,field,Chennai Super Kings,runs,8.0,N,,M Erasmus,YC Barde
+1136607.0,Mumbai,2018-05-13,JC Buttler,venue,0,Mumbai Indians,Rajasthan Royals,Rajasthan Royals,field,Rajasthan Royals,runs,7.0,N,,Nitin Menon,S Ravi
+1136608.0,Indore,2018-05-14,UT Yadav,venue,0,Kings XI Punjab,Royal Challengers Bangalore,Royal Challengers Bangalore,field,Royal Challengers Bangalore,runs,10.0,N,,BNJ Oxenford,VK Sharma
+1136609.0,Kolkata,2018-05-15,Kuldeep Yadav,venue,0,Rajasthan Royals,Kolkata Knight Riders,Kolkata Knight Riders,field,Kolkata Knight Riders,runs,6.0,N,,AK Chaudhary,AK Chaudhary
+1136610.0,Mumbai,2018-05-16,JJ Bumrah,venue,0,Mumbai Indians,Kings XI Punjab,Kings XI Punjab,field,Mumbai Indians,runs,3.0,N,,M Erasmus,Nitin Menon
+1136611.0,Bengaluru,2018-05-17,AB de Villiers,venue,0,Royal Challengers Bangalore,Sunrisers Hyderabad,Sunrisers Hyderabad,field,Royal Challengers Bangalore,runs,14.0,N,,AY Dandekar,S Ravi
+1136612.0,Delhi,2018-05-18,HV Patel,venue,0,Delhi Capitals,Chennai Super Kings,Chennai Super Kings,field,Delhi Capitals,runs,34.0,N,,HDPK Dharmasena,HDPK Dharmasena
+1136613.0,Jaipur,2018-05-19,S Gopal,venue,0,Rajasthan Royals,Royal Challengers Bangalore,Rajasthan Royals,bat,Rajasthan Royals,runs,30.0,N,,BNJ Oxenford,VK Sharma
+1136614.0,Hyderabad,2018-05-19,CA Lynn,venue,0,Sunrisers Hyderabad,Kolkata Knight Riders,Sunrisers Hyderabad,bat,Kolkata Knight Riders,runs,5.0,N,,AK Chaudhary,S Ravi
+1136615.0,Pune,2018-05-20,L Ngidi,venue,0,Kings XI Punjab,Chennai Super Kings,Chennai Super Kings,field,Chennai Super Kings,runs,11.0,N,,Nitin Menon,CK Nandan
+1136616.0,Delhi,2018-05-20,A Mishra,venue,0,Delhi Capitals,Mumbai Indians,Delhi Daredevils,bat,Delhi Capitals,runs,5.0,N,,HDPK Dharmasena,YC Barde
+1136617.0,Mumbai,2018-05-22,F du Plessis,venue,0,Sunrisers Hyderabad,Chennai Super Kings,Chennai Super Kings,field,Chennai Super Kings,runs,2.0,N,,C Shamshuddin,M Erasmus
+1136618.0,Kolkata,2018-05-23,AD Russell,venue,0,Kolkata Knight Riders,Rajasthan Royals,Rajasthan Royals,field,Kolkata Knight Riders,runs,25.0,N,,AK Chaudhary,Nitin Menon
+1136619.0,Kolkata,2018-05-25,Rashid Khan,venue,0,Sunrisers Hyderabad,Kolkata Knight Riders,Kolkata Knight Riders,field,Sunrisers Hyderabad,runs,14.0,N,,HDPK Dharmasena,Nitin Menon
+1136620.0,Mumbai,2018-05-27,SR Watson,venue,0,Sunrisers Hyderabad,Chennai Super Kings,Chennai Super Kings,field,Chennai Super Kings,runs,8.0,N,,M Erasmus,S Ravi
+1175356.0,Chennai,2019-03-23,Harbhajan Singh,venue,0,Royal Challengers Bangalore,Chennai Super Kings,Chennai Super Kings,field,Chennai Super Kings,runs,7.0,N,,AY Dandekar,BNJ Oxenford
+1175357.0,Kolkata,2019-03-24,AD Russell,venue,0,Sunrisers Hyderabad,Kolkata Knight Riders,Kolkata Knight Riders,field,Kolkata Knight Riders,runs,6.0,N,,AK Chaudhary,AK Chaudhary
+1175358.0,Mumbai,2019-03-24,RR Pant,venue,0,Delhi Capitals,Mumbai Indians,Mumbai Indians,field,Delhi Capitals,runs,37.0,N,,S Ravi,S Ravi
+1175359.0,Jaipur,2019-03-25,CH Gayle,venue,0,Kings XI Punjab,Rajasthan Royals,Rajasthan Royals,field,Kings XI Punjab,runs,14.0,N,,C Shamshuddin,C Shamshuddin
+1175360.0,Delhi,2019-03-26,SR Watson,venue,0,Delhi Capitals,Chennai Super Kings,Delhi Capitals,bat,Chennai Super Kings,runs,6.0,N,,M Erasmus,Nitin Menon
+1175361.0,Kolkata,2019-03-27,AD Russell,venue,0,Kolkata Knight Riders,Kings XI Punjab,Kings XI Punjab,field,Kolkata Knight Riders,runs,28.0,N,,AK Chaudhary,AK Chaudhary
+1175362.0,Bengaluru,2019-03-28,JJ Bumrah,venue,0,Mumbai Indians,Royal Challengers Bangalore,Royal Challengers Bangalore,field,Mumbai Indians,runs,6.0,N,,CK Nandan,S Ravi
+1175363.0,Hyderabad,2019-03-29,Rashid Khan,venue,0,Rajasthan Royals,Sunrisers Hyderabad,Rajasthan Royals,bat,Sunrisers Hyderabad,runs,5.0,N,,BNJ Oxenford,BNJ Oxenford
+1175364.0,Delhi,2019-03-30,PP Shaw,venue,0,Kolkata Knight Riders,Delhi Capitals,Delhi Capitals,field,,runs,8.0,N,,AY Dandekar,CB Gaffaney
+1175365.0,Chandigarh,2019-03-30,MA Agarwal,venue,0,Mumbai Indians,Kings XI Punjab,Kings XI Punjab,field,Kings XI Punjab,runs,,Y,,CB Gaffaney,Nitin Menon
+1175366.0,Hyderabad,2019-03-31,JM Bairstow,venue,0,Sunrisers Hyderabad,Royal Challengers Bangalore,Royal Challengers Bangalore,field,Sunrisers Hyderabad,runs,118.0,N,,KN Ananthapadmanabhan,S Ravi
+1175367.0,Chennai,2019-03-31,MS Dhoni,venue,0,Chennai Super Kings,Rajasthan Royals,Rajasthan Royals,field,Chennai Super Kings,runs,8.0,N,,CK Nandan,CK Nandan
+1175368.0,Chandigarh,2019-04-01,SM Curran,venue,0,Kings XI Punjab,Delhi Capitals,Delhi Capitals,field,Kings XI Punjab,runs,14.0,N,,AK Chaudhary,AK Chaudhary
+1175369.0,Jaipur,2019-04-02,S Gopal,venue,0,Royal Challengers Bangalore,Rajasthan Royals,Rajasthan Royals,field,Rajasthan Royals,runs,7.0,N,,AY Dandekar,M Erasmus
+1175370.0,Mumbai,2019-04-03,HH Pandya,venue,0,Mumbai Indians,Chennai Super Kings,Chennai Super Kings,field,Mumbai Indians,runs,37.0,N,,BNJ Oxenford,BNJ Oxenford
+1175371.0,Delhi,2019-04-04,JM Bairstow,venue,0,Delhi Capitals,Sunrisers Hyderabad,Sunrisers Hyderabad,field,Sunrisers Hyderabad,runs,5.0,N,,C Shamshuddin,C Shamshuddin
+1175372.0,Bengaluru,2019-04-05,AD Russell,venue,0,Royal Challengers Bangalore,Kolkata Knight Riders,Kolkata Knight Riders,field,Kolkata Knight Riders,runs,5.0,N,,AK Chaudhary,AK Chaudhary
+1178393.0,Chennai,2019-04-06,Harbhajan Singh,venue,0,Chennai Super Kings,Kings XI Punjab,Chennai Super Kings,bat,Chennai Super Kings,runs,22.0,N,,KN Ananthapadmanabhan,RJ Tucker
+1178394.0,Hyderabad,2019-04-06,AS Joseph,venue,0,Mumbai Indians,Sunrisers Hyderabad,Sunrisers Hyderabad,field,Mumbai Indians,runs,40.0,N,,AY Dandekar,Nitin Menon
+1178395.0,Bengaluru,2019-04-07,K Rabada,venue,0,Royal Challengers Bangalore,Delhi Capitals,Delhi Capitals,field,Delhi Capitals,runs,4.0,N,,S Ravi,S Ravi
+1178396.0,Jaipur,2019-04-07,HF Gurney,venue,0,Rajasthan Royals,Kolkata Knight Riders,Kolkata Knight Riders,field,Kolkata Knight Riders,runs,8.0,N,,AK Chaudhary,AK Chaudhary
+1178397.0,Chandigarh,2019-04-08,KL Rahul,venue,0,Sunrisers Hyderabad,Kings XI Punjab,Kings XI Punjab,field,Kings XI Punjab,runs,6.0,N,,AY Dandekar,M Erasmus
+1178398.0,Chennai,2019-04-09,DL Chahar,venue,0,Kolkata Knight Riders,Chennai Super Kings,Chennai Super Kings,field,Chennai Super Kings,runs,7.0,N,,C Shamshuddin,C Shamshuddin
+1178399.0,Mumbai,2019-04-10,KA Pollard,venue,0,Kings XI Punjab,Mumbai Indians,Mumbai Indians,field,Mumbai Indians,runs,3.0,N,,S Ravi,S Ravi
+1178400.0,Jaipur,2019-04-11,MS Dhoni,venue,0,Rajasthan Royals,Chennai Super Kings,Chennai Super Kings,field,Chennai Super Kings,runs,4.0,N,,BNJ Oxenford,BNJ Oxenford
+1178401.0,Kolkata,2019-04-12,S Dhawan,venue,0,Kolkata Knight Riders,Delhi Capitals,Delhi Capitals,field,Delhi Capitals,runs,7.0,N,,CK Nandan,CK Nandan
+1178402.0,Mumbai,2019-04-13,JC Buttler,venue,0,Mumbai Indians,Rajasthan Royals,Rajasthan Royals,field,Rajasthan Royals,runs,4.0,N,,A Nand Kishore,A Nand Kishore
+1178403.0,Chandigarh,2019-04-13,AB de Villiers,venue,0,Kings XI Punjab,Royal Challengers Bangalore,Royal Challengers Bangalore,field,Royal Challengers Bangalore,runs,8.0,N,,S Ravi,S Ravi
+1178404.0,Kolkata,2019-04-14,Imran Tahir,venue,0,Kolkata Knight Riders,Chennai Super Kings,Chennai Super Kings,field,Chennai Super Kings,runs,5.0,N,,CK Nandan,CK Nandan
+1178405.0,Hyderabad,2019-04-14,KMA Paul,venue,0,Delhi Capitals,Sunrisers Hyderabad,Sunrisers Hyderabad,field,Delhi Capitals,runs,39.0,N,,AK Chaudhary,AK Chaudhary
+1178406.0,Mumbai,2019-04-15,SL Malinga,venue,0,Royal Challengers Bangalore,Mumbai Indians,Mumbai Indians,field,Mumbai Indians,runs,5.0,N,,M Erasmus,Nitin Menon
+1178407.0,Chandigarh,2019-04-16,R Ashwin,venue,0,Kings XI Punjab,Rajasthan Royals,Rajasthan Royals,field,Kings XI Punjab,runs,12.0,N,,AK Chaudhary,AK Chaudhary
+1178408.0,Hyderabad,2019-04-17,DA Warner,venue,0,Chennai Super Kings,Sunrisers Hyderabad,Chennai Super Kings,bat,Sunrisers Hyderabad,runs,6.0,N,,IJ Gould,IJ Gould
+1178409.0,Delhi,2019-04-18,HH Pandya,venue,0,Mumbai Indians,Delhi Capitals,Mumbai Indians,bat,Mumbai Indians,runs,40.0,N,,BNJ Oxenford,NJ Llong
+1178410.0,Kolkata,2019-04-19,V Kohli,venue,0,Royal Challengers Bangalore,Kolkata Knight Riders,Kolkata Knight Riders,field,Royal Challengers Bangalore,runs,10.0,N,,IJ Gould,Nitin Menon
+1178411.0,Jaipur,2019-04-20,SPD Smith,venue,0,Mumbai Indians,Rajasthan Royals,Rajasthan Royals,field,Rajasthan Royals,runs,5.0,N,,S Ravi,S Ravi
+1178412.0,Delhi,2019-04-20,SS Iyer,venue,0,Kings XI Punjab,Delhi Capitals,Delhi Capitals,field,Delhi Capitals,runs,5.0,N,,C Shamshuddin,C Shamshuddin
+1178413.0,Bengaluru,2019-04-21,PA Patel,venue,0,Royal Challengers Bangalore,Chennai Super Kings,Chennai Super Kings,field,Royal Challengers Bangalore,runs,9.0,N,,RJ Tucker,Nitin Menon
+1178414.0,Hyderabad,2019-04-21,KK Ahmed,venue,0,Kolkata Knight Riders,Sunrisers Hyderabad,Sunrisers Hyderabad,field,Sunrisers Hyderabad,runs,1.0,N,,NJ Llong,VA Kulkarni
+1178415.0,Jaipur,2019-04-22,RR Pant,venue,0,Rajasthan Royals,Delhi Capitals,Delhi Capitals,field,Delhi Capitals,runs,6.0,N,,A Nand Kishore,S Ravi
+1178416.0,Chennai,2019-04-23,SR Watson,venue,0,Sunrisers Hyderabad,Chennai Super Kings,Chennai Super Kings,field,Chennai Super Kings,runs,6.0,N,,AK Chaudhary,AK Chaudhary
+1178417.0,Bengaluru,2019-04-24,AB de Villiers,venue,0,Royal Challengers Bangalore,Kings XI Punjab,Kings XI Punjab,field,Royal Challengers Bangalore,runs,17.0,N,,BNJ Oxenford,BNJ Oxenford
+1178418.0,Kolkata,2019-04-25,VR Aaron,venue,0,Kolkata Knight Riders,Rajasthan Royals,Rajasthan Royals,field,Rajasthan Royals,runs,3.0,N,,AY Dandekar,IJ Gould
+1178419.0,Chennai,2019-04-26,RG Sharma,venue,0,Mumbai Indians,Chennai Super Kings,Chennai Super Kings,field,Mumbai Indians,runs,46.0,N,,AK Chaudhary,AK Chaudhary
+1178420.0,Jaipur,2019-04-27,JD Unadkat,venue,0,Sunrisers Hyderabad,Rajasthan Royals,Rajasthan Royals,field,Rajasthan Royals,runs,7.0,N,,A Nand Kishore,A Nand Kishore
+1178421.0,Delhi,2019-04-28,S Dhawan,venue,0,Delhi Capitals,Royal Challengers Bangalore,Delhi Capitals,bat,Delhi Capitals,runs,16.0,N,,BNJ Oxenford,BNJ Oxenford
+1178422.0,Kolkata,2019-04-28,AD Russell,venue,0,Kolkata Knight Riders,Mumbai Indians,Mumbai Indians,field,Kolkata Knight Riders,runs,34.0,N,,IJ Gould,Nitin Menon
+1178423.0,Hyderabad,2019-04-29,DA Warner,venue,0,Sunrisers Hyderabad,Kings XI Punjab,Kings XI Punjab,field,Sunrisers Hyderabad,runs,45.0,N,,CK Nandan,S Ravi
+1178424.0,Bengaluru,2019-04-30,,venue,0,Royal Challengers Bangalore,Rajasthan Royals,Rajasthan Royals,field,,runs,,,,NJ Llong,NJ Llong
+1178425.0,Chennai,2019-05-01,MS Dhoni,venue,0,Chennai Super Kings,Delhi Capitals,Delhi Capitals,field,Chennai Super Kings,runs,80.0,N,,AY Dandekar,Nitin Menon
+1178426.0,Mumbai,2019-05-02,JJ Bumrah,venue,0,Mumbai Indians,Sunrisers Hyderabad,Mumbai Indians,bat,,runs,,Y,,CK Nandan,S Ravi
+1178427.0,Chandigarh,2019-05-03,Shubman Gill,venue,0,Kings XI Punjab,Kolkata Knight Riders,Kolkata Knight Riders,field,Kolkata Knight Riders,runs,7.0,N,,BNJ Oxenford,BNJ Oxenford
+1178428.0,Bengaluru,2019-05-04,SO Hetmyer,venue,0,Sunrisers Hyderabad,Royal Challengers Bangalore,Royal Challengers Bangalore,field,Royal Challengers Bangalore,runs,5.0,N,,AK Chaudhary,IJ Gould
+1178429.0,Delhi,2019-05-04,A Mishra,venue,0,Rajasthan Royals,Delhi Capitals,Rajasthan Royals,bat,Delhi Capitals,runs,4.0,N,,AY Dandekar,AK Chaudhary
+1178430.0,Chandigarh,2019-05-05,KL Rahul,venue,0,Chennai Super Kings,Kings XI Punjab,Kings XI Punjab,field,Kings XI Punjab,runs,6.0,N,,C Shamshuddin,C Shamshuddin
+1178431.0,Mumbai,2019-05-05,HH Pandya,venue,0,Kolkata Knight Riders,Mumbai Indians,Mumbai Indians,field,Mumbai Indians,runs,9.0,N,,A Nand Kishore,CK Nandan
+1181764.0,Chennai,2019-05-07,SA Yadav,venue,0,Chennai Super Kings,Mumbai Indians,Chennai Super Kings,bat,Mumbai Indians,runs,6.0,N,,NJ Llong,Nitin Menon
+1181766.0,Visakhapatnam,2019-05-08,RR Pant,venue,0,Sunrisers Hyderabad,Delhi Capitals,Delhi Capitals,field,Delhi Capitals,runs,2.0,N,,BNJ Oxenford,S Ravi
+1181767.0,Visakhapatnam,2019-05-10,F du Plessis,venue,0,Delhi Capitals,Chennai Super Kings,Chennai Super Kings,field,Chennai Super Kings,runs,6.0,N,,BNJ Oxenford,S Ravi
+1181768.0,Hyderabad,2019-05-12,JJ Bumrah,venue,0,Mumbai Indians,Chennai Super Kings,Mumbai Indians,bat,Mumbai Indians,runs,1.0,N,,IJ Gould,Nitin Menon
+1216492.0,Abu Dhabi,2020-09-19,AT Rayudu,venue,0,Mumbai Indians,Chennai Super Kings,Chennai Super Kings,field,Chennai Super Kings,runs,5.0,N,,CB Gaffaney,VK Sharma
+1216493.0,,2020-09-20,MP Stoinis,venue,0,Delhi Capitals,Kings XI Punjab,Kings XI Punjab,field,,runs,,Y,,AK Chaudhary,Nitin Menon
+1216494.0,,2020-09-21,YS Chahal,venue,0,Royal Challengers Bangalore,Sunrisers Hyderabad,Sunrisers Hyderabad,field,Royal Challengers Bangalore,runs,8.0,N,,AY Dandekar,S Ravi
+1216495.0,,2020-09-22,SV Samson,venue,0,Rajasthan Royals,Chennai Super Kings,Chennai Super Kings,field,Rajasthan Royals,runs,10.0,N,,C Shamshuddin,RK Illingworth
+1216496.0,Abu Dhabi,2020-09-23,RG Sharma,venue,0,Mumbai Indians,Kolkata Knight Riders,Kolkata Knight Riders,field,Mumbai Indians,runs,16.0,N,,CB Gaffaney,VA Kulkarni
+1216497.0,,2020-09-24,KL Rahul,venue,0,Kings XI Punjab,Royal Challengers Bangalore,Royal Challengers Bangalore,field,Kings XI Punjab,runs,59.0,N,,AK Chaudhary,PG Pathak
+1216498.0,,2020-09-25,PP Shaw,venue,0,Delhi Capitals,Chennai Super Kings,Chennai Super Kings,field,Delhi Capitals,runs,12.0,N,,KN Ananthapadmanabhan,PR Reiffel
+1216499.0,Abu Dhabi,2020-09-26,Shubman Gill,venue,0,Sunrisers Hyderabad,Kolkata Knight Riders,Sunrisers Hyderabad,bat,Kolkata Knight Riders,runs,5.0,N,,CB Gaffaney,CB Gaffaney
+1216500.0,,2020-09-27,SV Samson,venue,0,Kings XI Punjab,Rajasthan Royals,Rajasthan Royals,field,Rajasthan Royals,runs,46.0,N,,RK Illingworth,C Shamshuddin
+1216501.0,,2020-09-28,AB de Villiers,venue,0,Royal Challengers Bangalore,Mumbai Indians,Mumbai Indians,field,,runs,10.0,N,,Nitin Menon,RK Illingworth
+1216502.0,Abu Dhabi,2020-09-29,Rashid Khan,venue,0,Sunrisers Hyderabad,Delhi Capitals,Delhi Capitals,field,Sunrisers Hyderabad,runs,5.0,N,,VK Sharma,K Srinivasan
+1216503.0,,2020-09-30,Shivam Mavi,venue,0,Kolkata Knight Riders,Rajasthan Royals,Rajasthan Royals,field,Kolkata Knight Riders,runs,48.0,N,,KN Ananthapadmanabhan,S Ravi
+1216504.0,Abu Dhabi,2020-10-01,KA Pollard,venue,0,Mumbai Indians,Kings XI Punjab,Kings XI Punjab,field,Mumbai Indians,runs,37.0,N,,VK Sharma,C Shamshuddin
+1216505.0,,2020-10-02,PK Garg,venue,0,Sunrisers Hyderabad,Chennai Super Kings,Sunrisers Hyderabad,bat,Sunrisers Hyderabad,runs,6.0,N,,AK Chaudhary,S Ravi
+1216506.0,,2020-10-03,SS Iyer,venue,0,Delhi Capitals,Kolkata Knight Riders,Kolkata Knight Riders,field,Delhi Capitals,runs,9.0,N,,VA Kulkarni,VK Sharma
+1216507.0,Abu Dhabi,2020-10-03,YS Chahal,venue,0,Rajasthan Royals,Royal Challengers Bangalore,Rajasthan Royals,bat,Royal Challengers Bangalore,runs,5.0,N,,CB Gaffaney,PR Reiffel
+1216508.0,,2020-10-04,TA Boult,venue,0,Mumbai Indians,Sunrisers Hyderabad,Mumbai Indians,bat,Mumbai Indians,runs,49.0,N,,KN Ananthapadmanabhan,S Ravi
+1216509.0,,2020-10-04,SR Watson,venue,0,Kings XI Punjab,Chennai Super Kings,Kings XI Punjab,bat,Chennai Super Kings,runs,5.0,N,,AY Dandekar,RK Illingworth
+1216510.0,,2020-10-05,AR Patel,venue,0,Delhi Capitals,Royal Challengers Bangalore,Royal Challengers Bangalore,field,Delhi Capitals,runs,97.0,N,,Nitin Menon,PR Reiffel
+1216511.0,Abu Dhabi,2020-10-06,SA Yadav,venue,0,Mumbai Indians,Rajasthan Royals,Mumbai Indians,bat,Mumbai Indians,runs,57.0,N,,VK Sharma,S Ravi
+1216512.0,Abu Dhabi,2020-10-07,RA Tripathi,venue,0,Kolkata Knight Riders,Chennai Super Kings,Kolkata Knight Riders,bat,Kolkata Knight Riders,runs,,Y,,KN Ananthapadmanabhan,S Ravi
+1216513.0,,2020-10-08,JM Bairstow,venue,0,Sunrisers Hyderabad,Kings XI Punjab,Sunrisers Hyderabad,bat,Sunrisers Hyderabad,runs,10.0,N,,AK Chaudhary,Nitin Menon
+1216514.0,,2020-10-09,R Ashwin,venue,0,Delhi Capitals,Rajasthan Royals,Rajasthan Royals,field,Delhi Capitals,runs,8.0,N,,KN Ananthapadmanabhan,S Ravi
+1216515.0,Abu Dhabi,2020-10-10,KD Karthik,venue,0,Kolkata Knight Riders,Kings XI Punjab,Kolkata Knight Riders,bat,Kolkata Knight Riders,runs,18.0,N,,UV Gandhe,RK Illingworth
+1216516.0,,2020-10-10,V Kohli,venue,0,Royal Challengers Bangalore,Chennai Super Kings,Royal Challengers Bangalore,bat,Royal Challengers Bangalore,runs,7.0,N,,AK Chaudhary,PR Reiffel
+1216517.0,Abu Dhabi,2020-10-11,Q de Kock,venue,0,Delhi Capitals,Mumbai Indians,Delhi Capitals,bat,Mumbai Indians,runs,,Y,,CB Gaffaney,PR Reiffel
+1216518.0,,2020-10-11,R Tewatia,venue,0,Sunrisers Hyderabad,Rajasthan Royals,Sunrisers Hyderabad,bat,Rajasthan Royals,runs,8.0,N,,YC Barde,PR Reiffel
+1216519.0,,2020-10-12,AB de Villiers,venue,0,Royal Challengers Bangalore,Kolkata Knight Riders,Royal Challengers Bangalore,bat,Royal Challengers Bangalore,runs,59.0,N,,RK Illingworth,YC Barde
+1216520.0,,2020-10-13,RA Jadeja,venue,0,Chennai Super Kings,Sunrisers Hyderabad,Chennai Super Kings,bat,Chennai Super Kings,runs,8.0,N,,AK Chaudhary,RK Illingworth
+1216521.0,,2020-10-14,A Nortje,venue,0,Delhi Capitals,Rajasthan Royals,Delhi Capitals,bat,Delhi Capitals,runs,10.0,N,,AK Chaudhary,VA Kulkarni
+1216522.0,,2020-10-15,KL Rahul,venue,0,Royal Challengers Bangalore,Kings XI Punjab,Royal Challengers Bangalore,bat,Kings XI Punjab,runs,7.0,N,,KN Ananthapadmanabhan,Nitin Menon
+1216523.0,Abu Dhabi,2020-10-16,Q de Kock,venue,0,Kolkata Knight Riders,Mumbai Indians,Kolkata Knight Riders,bat,Mumbai Indians,runs,2.0,N,,CB Gaffaney,CB Gaffaney
+1216524.0,,2020-10-17,AB de Villiers,venue,0,Rajasthan Royals,Royal Challengers Bangalore,Rajasthan Royals,bat,Royal Challengers Bangalore,runs,88.0,N,,AK Chaudhary,Nitin Menon
+1216525.0,,2020-10-17,S Dhawan,venue,0,Chennai Super Kings,Delhi Capitals,Chennai Super Kings,bat,Delhi Capitals,runs,37.0,N,,KN Ananthapadmanabhan,PR Reiffel
+1216526.0,,2020-10-18,KL Rahul,venue,0,Mumbai Indians,Kings XI Punjab,Mumbai Indians,bat,,runs,8.0,N,,Nitin Menon,VK Sharma
+1216527.0,Abu Dhabi,2020-10-18,LH Ferguson,venue,0,Kolkata Knight Riders,Sunrisers Hyderabad,Sunrisers Hyderabad,field,,runs,4.0,N,,PG Pathak,K Srinivasan
+1216528.0,Abu Dhabi,2020-10-19,JC Buttler,venue,0,Chennai Super Kings,Rajasthan Royals,Chennai Super Kings,bat,Rajasthan Royals,runs,20.0,N,,CB Gaffaney,PR Reiffel
+1216529.0,,2020-10-20,S Dhawan,venue,0,Delhi Capitals,Kings XI Punjab,Delhi Capitals,bat,Kings XI Punjab,runs,5.0,N,,C Shamshuddin,S Ravi
+1216530.0,Abu Dhabi,2020-10-21,Mohammed Siraj,venue,0,Kolkata Knight Riders,Royal Challengers Bangalore,Kolkata Knight Riders,bat,Royal Challengers Bangalore,runs,60.0,N,,VK Sharma,PR Reiffel
+1216531.0,,2020-10-22,MK Pandey,venue,0,Rajasthan Royals,Sunrisers Hyderabad,Sunrisers Hyderabad,field,Sunrisers Hyderabad,runs,8.0,N,,Nitin Menon,C Shamshuddin
+1216532.0,,2020-10-23,TA Boult,venue,0,Chennai Super Kings,Mumbai Indians,Mumbai Indians,field,Mumbai Indians,runs,15.0,N,,C Shamshuddin,S Ravi
+1216533.0,,2020-10-24,CJ Jordan,venue,0,Kings XI Punjab,Sunrisers Hyderabad,Sunrisers Hyderabad,field,Kings XI Punjab,runs,7.0,N,,AY Dandekar,VK Sharma
+1216534.0,Abu Dhabi,2020-10-24,CV Varun,venue,0,Kolkata Knight Riders,Delhi Capitals,Delhi Capitals,field,Kolkata Knight Riders,runs,10.0,N,,CB Gaffaney,Nitin Menon
+1216535.0,,2020-10-25,RD Gaikwad,venue,0,Royal Challengers Bangalore,Chennai Super Kings,Royal Challengers Bangalore,bat,Chennai Super Kings,runs,9.0,N,,C Shamshuddin,PR Reiffel
+1216536.0,Abu Dhabi,2020-10-25,BA Stokes,venue,0,Mumbai Indians,Rajasthan Royals,Mumbai Indians,bat,Rajasthan Royals,runs,6.0,N,,UV Gandhe,RK Illingworth
+1216537.0,,2020-10-26,CH Gayle,venue,0,Kolkata Knight Riders,Kings XI Punjab,Kings XI Punjab,field,Kings XI Punjab,runs,7.0,N,,KN Ananthapadmanabhan,S Ravi
+1216538.0,,2020-10-27,WP Saha,venue,0,Sunrisers Hyderabad,Delhi Capitals,Delhi Capitals,field,Sunrisers Hyderabad,runs,34.0,N,,AK Chaudhary,RK Illingworth
+1216539.0,Abu Dhabi,2020-10-28,SA Yadav,venue,0,Royal Challengers Bangalore,Mumbai Indians,Mumbai Indians,field,Mumbai Indians,runs,44.0,N,,UV Gandhe,RK Illingworth
+1216540.0,,2020-10-29,RD Gaikwad,venue,0,Kolkata Knight Riders,Chennai Super Kings,Chennai Super Kings,field,Chennai Super Kings,runs,82.0,N,,C Shamshuddin,K Srinivasan
+1216541.0,Abu Dhabi,2020-10-30,BA Stokes,venue,0,Kings XI Punjab,Rajasthan Royals,Rajasthan Royals,field,Rajasthan Royals,runs,8.0,N,,CB Gaffaney,VK Sharma
+1216542.0,,2020-10-31,Sandeep Sharma,venue,0,Royal Challengers Bangalore,Sunrisers Hyderabad,Sunrisers Hyderabad,field,Sunrisers Hyderabad,runs,69.0,N,,KN Ananthapadmanabhan,Nitin Menon
+1216543.0,,2020-10-31,Ishan Kishan,venue,0,Delhi Capitals,Mumbai Indians,Mumbai Indians,field,Mumbai Indians,runs,13.0,N,,YC Barde,Nitin Menon
+1216544.0,,2020-11-01,PJ Cummins,venue,0,Kolkata Knight Riders,Rajasthan Royals,Rajasthan Royals,field,Kolkata Knight Riders,wickets,8.0,N,,Nitin Menon,RK Illingworth
+1216545.0,Abu Dhabi,2020-11-01,RD Gaikwad,venue,0,Kings XI Punjab,Chennai Super Kings,Chennai Super Kings,field,Chennai Super Kings,wickets,7.0,N,,PG Pathak,VK Sharma
+1216546.0,Abu Dhabi,2020-11-02,A Nortje,venue,0,Royal Challengers Bangalore,Delhi Capitals,Delhi Capitals,field,Delhi Capitals,wickets,5.0,N,,CB Gaffaney,RK Illingworth
+1216547.0,,2020-11-03,S Nadeem,venue,0,Mumbai Indians,Sunrisers Hyderabad,Sunrisers Hyderabad,field,Sunrisers Hyderabad,tie,,Y,,C Shamshuddin,PR Reiffel
+1237177.0,,2020-11-05,JJ Bumrah,venue,0,Mumbai Indians,Delhi Capitals,Delhi Capitals,field,Mumbai Indians,runs,57.0,N,,CB Gaffaney,Nitin Menon
+1237178.0,Abu Dhabi,2020-11-06,KS Williamson,venue,0,Royal Challengers Bangalore,Sunrisers Hyderabad,Sunrisers Hyderabad,field,Sunrisers Hyderabad,wickets,6.0,N,,PR Reiffel,S Ravi
+1237180.0,Abu Dhabi,2020-11-08,MP Stoinis,venue,0,Delhi Capitals,Sunrisers Hyderabad,Delhi Capitals,bat,Delhi Capitals,runs,17.0,N,,PR Reiffel,S Ravi
+1237181.0,,2020-11-10,TA Boult,venue,0,Delhi Capitals,Mumbai Indians,Delhi Capitals,bat,Mumbai Indians,wickets,5.0,N,,CB Gaffaney,Nitin Menon
+,Chennai,2021-04-09,HV Patel,venue,0,Mumbai Indians,Royal Challengers Bangalore,Royal Challengers Bangalore,field,Royal Challengers Bangalore,,,,,KN Ananthapadmanabhan,
+,Mumbai,2021-04-10,S Dhawan,venue,0,Chennai Super Kings,Delhi Capitals,Delhi Capitals,field,Delhi Capitals,,,,,AK Chaudhary,
+,Chennai,2021-04-11,N Rana,venue,0,Kolkata Knight Riders,Sunrisers Hyderabad,Sunrisers Hyderabad,field,Kolkata Knight Riders,,,,,KN Ananthapadmanabhan,
+,Mumbai,2021-04-12,SV Samson,venue,0,Kings XI Punjab,Rajasthan Royals,Rajasthan Royals,field,Kings XI Punjab,,,,,AK Chaudhary,
+,Chennai,2021-04-13,RD Chahar,venue,0,Mumbai Indians,Kolkata Knight Riders,Kolkata Knight Riders,field,Mumbai Indians,,,,,C Shamshuddin,
+,Chennai,2021-04-14,GJ Maxwell,venue,0,Royal Challengers Bangalore,Sunrisers Hyderabad,Sunrisers Hyderabad,field,Royal Challengers Bangalore,,,,,Nitin Menon,
+,Mumbai,2021-04-15,JD Unadkat,venue,0,Delhi Capitals,Rajasthan Royals,Rajasthan Royals,field,Rajasthan Royals,,,,,S Ravi,
+,Mumbai,2021-04-16,DL Chahar,venue,0,Kings XI Punjab,Chennai Super Kings,Chennai Super Kings,field,Chennai Super Kings,,,,,AK Chaudhary,
+,Chennai,2021-04-17,KA Pollard,venue,0,Mumbai Indians,Sunrisers Hyderabad,Mumbai Indians,bat,Mumbai Indians,,,,,CB Gaffaney,
+,Mumbai,2021-04-18,S Dhawan,venue,0,Kings XI Punjab,Delhi Capitals,Delhi Capitals,field,Delhi Capitals,,,,,AK Chaudhary,
+,Chennai,2021-04-18,AB de Villiers,venue,0,Royal Challengers Bangalore,Kolkata Knight Riders,Royal Challengers Bangalore,bat,Royal Challengers Bangalore,,,,,C Shamshuddin,
+,Mumbai,2021-04-19,MM Ali,venue,0,Chennai Super Kings,Rajasthan Royals,Rajasthan Royals,field,Chennai Super Kings,,,,,PR Reiffel,
+,Chennai,2021-04-20,A Mishra,venue,0,Mumbai Indians,Delhi Capitals,Mumbai Indians,bat,Delhi Capitals,,,,,C Shamshuddin,
+,Chennai,2021-04-21,JM Bairstow,venue,0,Kings XI Punjab,Sunrisers Hyderabad,Punjab Kings,bat,Sunrisers Hyderabad,,,,,K Srinivasan,
+,Mumbai,2021-04-21,F du Plessis,venue,0,Chennai Super Kings,Kolkata Knight Riders,Kolkata Knight Riders,field,Chennai Super Kings,,,,,AY Dandekar,
+,Mumbai,2021-04-22,D Padikkal,venue,0,Rajasthan Royals,Royal Challengers Bangalore,Royal Challengers Bangalore,field,Royal Challengers Bangalore,,,,,J Madanagopal,
+,Chennai,2021-04-23,KL Rahul,venue,0,Mumbai Indians,Kings XI Punjab,Punjab Kings,field,Kings XI Punjab,,,,,C Shamshuddin,
+,Mumbai,2021-04-24,CH Morris,venue,0,Kolkata Knight Riders,Rajasthan Royals,Rajasthan Royals,field,Rajasthan Royals,,,,,Navdeep Singh,
+,Chennai,2021-04-25,PP Shaw,venue,0,Delhi Capitals,Sunrisers Hyderabad,Delhi Capitals,bat,,,,,,CB Gaffaney,
+,Mumbai,2021-04-25,RA Jadeja,venue,0,Chennai Super Kings,Royal Challengers Bangalore,Chennai Super Kings,bat,Chennai Super Kings,,,,,AK Chaudhary,
+,Ahmedabad,2021-04-26,EJG Morgan,venue,0,Kings XI Punjab,Kolkata Knight Riders,Kolkata Knight Riders,field,Kolkata Knight Riders,,,,,PR Reiffel,
+,Ahmedabad,2021-04-27,AB de Villiers,venue,0,Royal Challengers Bangalore,Delhi Capitals,Delhi Capitals,field,Royal Challengers Bangalore,,,,,S Ravi,
+,Delhi,2021-04-28,RD Gaikwad,venue,0,Sunrisers Hyderabad,Chennai Super Kings,Sunrisers Hyderabad,bat,Chennai Super Kings,,,,,C Shamshuddin,
+,Delhi,2021-04-29,Q de Kock,venue,0,Rajasthan Royals,Mumbai Indians,Mumbai Indians,field,Mumbai Indians,,,,,CB Gaffaney,
+,Ahmedabad,2021-04-29,PP Shaw,venue,0,Kolkata Knight Riders,Delhi Capitals,Delhi Capitals,field,Delhi Capitals,,,,,AK Chaudhary,
+,Ahmedabad,2021-04-30,Harpreet Brar,venue,0,Kings XI Punjab,Royal Challengers Bangalore,Royal Challengers Bangalore,field,Kings XI Punjab,,,,,S Ravi,
+,Delhi,2021-05-01,KA Pollard,venue,0,Chennai Super Kings,Mumbai Indians,Mumbai Indians,field,Mumbai Indians,,,,,KN Ananthapadmanabhan,
+,Delhi,2021-05-02,JC Buttler,venue,0,Rajasthan Royals,Sunrisers Hyderabad,Sunrisers Hyderabad,field,Rajasthan Royals,,,,,C Shamshuddin,
+,Ahmedabad,2021-05-02,MA Agarwal,venue,0,Kings XI Punjab,Delhi Capitals,Delhi Capitals,field,Delhi Capitals,,,,,AK Chaudhary,
+,Dubai,2021-09-19,RD Gaikwad,venue,0,Chennai Super Kings,Mumbai Indians,Chennai Super Kings,bat,Chennai Super Kings,,,,,Nitin Menon,
+,Abu Dhabi,2021-09-20,CV Varun,venue,0,Royal Challengers Bangalore,Kolkata Knight Riders,Royal Challengers Bangalore,bat,Kolkata Knight Riders,,,,,CB Gaffaney,
+,Dubai,2021-09-21,Kartik Tyagi,venue,0,Rajasthan Royals,Kings XI Punjab,Punjab Kings,field,Rajasthan Royals,,,,,AK Chaudhary,
+,Dubai,2021-09-22,A Nortje,venue,0,Sunrisers Hyderabad,Delhi Capitals,Sunrisers Hyderabad,bat,Delhi Capitals,,,,,KN Ananthapadmanabhan,
+,Abu Dhabi,2021-09-23,SP Narine,venue,0,Mumbai Indians,Kolkata Knight Riders,Kolkata Knight Riders,field,Kolkata Knight Riders,,,,,S Ravi,
+,Sharjah,2021-09-24,DJ Bravo,venue,0,Royal Challengers Bangalore,Chennai Super Kings,Chennai Super Kings,field,Chennai Super Kings,,,,,AK Chaudhary,
+,Sharjah,2021-09-25,JO Holder,venue,0,Kings XI Punjab,Sunrisers Hyderabad,Sunrisers Hyderabad,field,Kings XI Punjab,,,,,RK Illingworth,
+,Abu Dhabi,2021-09-25,SS Iyer,venue,0,Delhi Capitals,Rajasthan Royals,Rajasthan Royals,field,Delhi Capitals,,,,,CB Gaffaney,
+,Dubai,2021-09-26,GJ Maxwell,venue,0,Royal Challengers Bangalore,Mumbai Indians,Mumbai Indians,field,Royal Challengers Bangalore,,,,,AK Chaudhary,
+,Abu Dhabi,2021-09-26,RA Jadeja,venue,0,Kolkata Knight Riders,Chennai Super Kings,Kolkata Knight Riders,bat,Chennai Super Kings,,,,,CB Gaffaney,
+,Dubai,2021-09-27,JJ Roy,venue,0,Rajasthan Royals,Sunrisers Hyderabad,Rajasthan Royals,bat,Sunrisers Hyderabad,,,,,KN Ananthapadmanabhan,
+,Sharjah,2021-09-28,SP Narine,venue,0,Delhi Capitals,Kolkata Knight Riders,Kolkata Knight Riders,field,Kolkata Knight Riders,,,,,Nitin Menon,
+,Abu Dhabi,2021-09-28,KA Pollard,venue,0,Kings XI Punjab,Mumbai Indians,Mumbai Indians,field,Mumbai Indians,,,,,S Ravi,
+,Dubai,2021-09-29,YS Chahal,venue,0,Rajasthan Royals,Royal Challengers Bangalore,Royal Challengers Bangalore,field,Royal Challengers Bangalore,,,,,AY Dandekar,
+,Sharjah,2021-09-30,JR Hazlewood,venue,0,Sunrisers Hyderabad,Chennai Super Kings,Chennai Super Kings,field,Chennai Super Kings,,,,,Nitin Menon,
+,Dubai,2021-10-01,KL Rahul,venue,0,Kolkata Knight Riders,Kings XI Punjab,Punjab Kings,field,Kings XI Punjab,,,,,KN Ananthapadmanabhan,
+,Abu Dhabi,2021-10-02,RD Gaikwad,venue,0,Chennai Super Kings,Rajasthan Royals,Rajasthan Royals,field,Rajasthan Royals,,,,,CB Gaffaney,
+,Sharjah,2021-10-02,AR Patel,venue,0,Mumbai Indians,Delhi Capitals,Delhi Capitals,field,Delhi Capitals,,,,,AK Chaudhary,
+,Sharjah,2021-10-03,GJ Maxwell,venue,0,Royal Challengers Bangalore,Kings XI Punjab,Royal Challengers Bangalore,bat,Royal Challengers Bangalore,,,,,KN Ananthapadmanabhan,
+,Dubai,2021-10-03,Shubman Gill,venue,0,Sunrisers Hyderabad,Kolkata Knight Riders,Sunrisers Hyderabad,bat,Kolkata Knight Riders,,,,,J Madanagopal,
+,Dubai,2021-10-04,AR Patel,venue,0,Chennai Super Kings,Delhi Capitals,Delhi Capitals,field,Delhi Capitals,,,,,AK Chaudhary,
+,Sharjah,2021-10-05,NM Coulter-Nile,venue,0,Rajasthan Royals,Mumbai Indians,Mumbai Indians,field,Mumbai Indians,,,,,AK Chaudhary,
+,Abu Dhabi,2021-10-06,KS Williamson,venue,0,Sunrisers Hyderabad,Royal Challengers Bangalore,Royal Challengers Bangalore,field,Sunrisers Hyderabad,,,,,S Ravi,
+,Dubai,2021-10-07,KL Rahul,venue,0,Chennai Super Kings,Kings XI Punjab,Punjab Kings,field,Kings XI Punjab,,,,,K Srinivasan,
+,Sharjah,2021-10-07,Shivam Mavi,venue,0,Kolkata Knight Riders,Rajasthan Royals,Rajasthan Royals,field,Kolkata Knight Riders,,,,,MA Gough,
+,Dubai,2021-10-08,KS Bharat,venue,0,Delhi Capitals,Royal Challengers Bangalore,Royal Challengers Bangalore,field,Royal Challengers Bangalore,,,,,KN Ananthapadmanabhan,
+,Abu Dhabi,2021-10-08,Ishan Kishan,venue,0,Mumbai Indians,Sunrisers Hyderabad,Mumbai Indians,bat,Mumbai Indians,,,,,Tapan Sharma,
+,Dubai,2021-10-10,RD Gaikwad,venue,0,Delhi Capitals,Chennai Super Kings,Chennai Super Kings,field,Chennai Super Kings,,,,,Nitin Menon,
+,Sharjah,2021-10-11,SP Narine,venue,0,Royal Challengers Bangalore,Kolkata Knight Riders,Royal Challengers Bangalore,bat,Kolkata Knight Riders,,,,,CB Gaffaney,
+,Sharjah,2021-10-13,VR Iyer,venue,0,Delhi Capitals,Kolkata Knight Riders,Kolkata Knight Riders,field,Kolkata Knight Riders,,,,,KN Ananthapadmanabhan,
+,Dubai,2021-10-15,F du Plessis,venue,0,Chennai Super Kings,Kolkata Knight Riders,Kolkata Knight Riders,field,Chennai Super Kings,,,,,Nitin Menon,
+,Mumbai,2022-03-26,UT Yadav,venue,0,Chennai Super Kings,Kolkata Knight Riders,Kolkata Knight Riders,field,Kolkata Knight Riders,,,,,AK Chaudhary,
+,Mumbai,2022-03-27,Kuldeep Yadav,venue,0,Mumbai Indians,Delhi Capitals,Delhi Capitals,field,Delhi Capitals,,,,,RJ Tucker,
+,Mumbai,2022-03-27,OF Smith,venue,0,Royal Challengers Bangalore,Kings XI Punjab,Punjab Kings,field,Kings XI Punjab,,,,,Nitin Menon,
+,Mumbai,2022-03-28,Mohammed Shami,venue,0,Lucknow Super Giants,Gujarat Titans,Gujarat Titans,field,Gujarat Titans,,,,,PG Pathak,
+,Pune,2022-03-29,SV Samson,venue,0,Rajasthan Royals,Sunrisers Hyderabad,Sunrisers Hyderabad,field,Rajasthan Royals,,,,,BNJ Oxenford,
+,Mumbai,2022-03-30,PWH de Silva,venue,0,Kolkata Knight Riders,Royal Challengers Bangalore,Royal Challengers Bangalore,field,Royal Challengers Bangalore,,,,,J Madanagopal,
+,Mumbai,2022-03-31,E Lewis,venue,0,Chennai Super Kings,Lucknow Super Giants,Lucknow Super Giants,field,Lucknow Super Giants,,,,,RJ Tucker,
+,Mumbai,2022-04-01,UT Yadav,venue,0,Kings XI Punjab,Kolkata Knight Riders,Kolkata Knight Riders,field,Kolkata Knight Riders,,,,,AK Chaudhary,
+,Mumbai,2022-04-02,JC Buttler,venue,0,Rajasthan Royals,Mumbai Indians,Mumbai Indians,field,Rajasthan Royals,,,,,Nitin Menon,
+,Pune,2022-04-02,LH Ferguson,venue,0,Gujarat Titans,Delhi Capitals,Delhi Capitals,field,Gujarat Titans,,,,,KN Ananthapadmanabhan,
+,Mumbai,2022-04-03,LS Livingstone,venue,0,Kings XI Punjab,Chennai Super Kings,Chennai Super Kings,field,Kings XI Punjab,,,,,RJ Tucker,
+,Mumbai,2022-04-04,Avesh Khan,venue,0,Lucknow Super Giants,Sunrisers Hyderabad,Sunrisers Hyderabad,field,Lucknow Super Giants,,,,,J Madanagopal,
+,Mumbai,2022-04-05,KD Karthik,venue,0,Rajasthan Royals,Royal Challengers Bangalore,Royal Challengers Bangalore,field,Royal Challengers Bangalore,,,,,AK Chaudhary,
+,Pune,2022-04-06,PJ Cummins,venue,0,Mumbai Indians,Kolkata Knight Riders,Kolkata Knight Riders,field,Kolkata Knight Riders,,,,,BNJ Oxenford,
+,Mumbai,2022-04-07,Q de Kock,venue,0,Delhi Capitals,Lucknow Super Giants,Lucknow Super Giants,field,Lucknow Super Giants,,,,,RJ Tucker,
+,Mumbai,2022-04-08,Shubman Gill,venue,0,Kings XI Punjab,Gujarat Titans,Gujarat Titans,field,Gujarat Titans,,,,,AK Chaudhary,
+,Mumbai,2022-04-09,Abhishek Sharma,venue,0,Chennai Super Kings,Sunrisers Hyderabad,Sunrisers Hyderabad,field,Sunrisers Hyderabad,,,,,Navdeep Singh,
+,Pune,2022-04-09,Anuj Rawat,venue,0,Mumbai Indians,Royal Challengers Bangalore,Royal Challengers Bangalore,field,Royal Challengers Bangalore,,,,,BNJ Oxenford,
+,Mumbai,2022-04-10,Kuldeep Yadav,venue,0,Delhi Capitals,Kolkata Knight Riders,Kolkata Knight Riders,field,Delhi Capitals,,,,,CB Gaffaney,
+,Mumbai,2022-04-10,YS Chahal,venue,0,Rajasthan Royals,Lucknow Super Giants,Lucknow Super Giants,field,Rajasthan Royals,,,,,AK Chaudhary,
+,Mumbai,2022-04-11,KS Williamson,venue,0,Gujarat Titans,Sunrisers Hyderabad,Sunrisers Hyderabad,field,Sunrisers Hyderabad,,,,,Chirra Ravikanthreddy,
+,Mumbai,2022-04-12,S Dube,venue,0,Chennai Super Kings,Royal Challengers Bangalore,Royal Challengers Bangalore,field,Chennai Super Kings,,,,,Nitin Menon,
+,Pune,2022-04-13,MA Agarwal,venue,0,Kings XI Punjab,Mumbai Indians,Mumbai Indians,field,Kings XI Punjab,,,,,BNJ Oxenford,
+,Mumbai,2022-04-14,HH Pandya,venue,0,Gujarat Titans,Rajasthan Royals,Rajasthan Royals,field,Gujarat Titans,,,,,CB Gaffaney,
+,Mumbai,2022-04-15,RA Tripathi,venue,0,Kolkata Knight Riders,Sunrisers Hyderabad,Sunrisers Hyderabad,field,Sunrisers Hyderabad,,,,,GR Sadashiv Iyer,
+,Mumbai,2022-04-16,KL Rahul,venue,0,Lucknow Super Giants,Mumbai Indians,Mumbai Indians,field,Lucknow Super Giants,,,,,AK Chaudhary,
+,Mumbai,2022-04-16,KD Karthik,venue,0,Royal Challengers Bangalore,Delhi Capitals,Delhi Capitals,field,Royal Challengers Bangalore,,,,,Chirra Ravikanthreddy,
+,Mumbai,2022-04-17,Umran Malik,venue,0,Kings XI Punjab,Sunrisers Hyderabad,Sunrisers Hyderabad,field,Sunrisers Hyderabad,,,,,PG Pathak,
+,Pune,2022-04-17,DA Miller,venue,0,Chennai Super Kings,Gujarat Titans,Gujarat Titans,field,Gujarat Titans,,,,,KN Ananthapadmanabhan,
+,Mumbai,2022-04-18,YS Chahal,venue,0,Rajasthan Royals,Kolkata Knight Riders,Kolkata Knight Riders,field,Rajasthan Royals,,,,,GR Sadashiv Iyer,
+,Mumbai,2022-04-19,F du Plessis,venue,0,Royal Challengers Bangalore,Lucknow Super Giants,Lucknow Super Giants,field,Royal Challengers Bangalore,,,,,CB Gaffaney,
+,Mumbai,2022-04-20,Kuldeep Yadav,venue,0,Kings XI Punjab,Delhi Capitals,Delhi Capitals,field,Delhi Capitals,,,,,RJ Tucker,
+,Navi Mumbai,2022-04-21,Mukesh Choudhary,venue,0,Mumbai Indians,Chennai Super Kings,Chennai Super Kings,field,Chennai Super Kings,,,,,BNJ Oxenford,
+,Mumbai,2022-04-22,JC Buttler,venue,0,Rajasthan Royals,Delhi Capitals,Delhi Capitals,field,Rajasthan Royals,,,,,NA Patwardhan,
+,Navi Mumbai,2022-04-23,Rashid Khan,venue,0,Gujarat Titans,Kolkata Knight Riders,Gujarat Titans,bat,Gujarat Titans,,,,,KN Ananthapadmanabhan,
+,Mumbai,2022-04-23,M Jansen,venue,0,Royal Challengers Bangalore,Sunrisers Hyderabad,Sunrisers Hyderabad,field,Sunrisers Hyderabad,,,,,Chirra Ravikanthreddy,
+,Mumbai,2022-04-24,KL Rahul,venue,0,Lucknow Super Giants,Mumbai Indians,Mumbai Indians,field,Lucknow Super Giants,,,,,M Erasmus,
+,Mumbai,2022-04-25,S Dhawan,venue,0,Kings XI Punjab,Chennai Super Kings,Chennai Super Kings,field,Kings XI Punjab,,,,,M Erasmus,
+,Pune,2022-04-26,R Parag,venue,0,Rajasthan Royals,Royal Challengers Bangalore,Royal Challengers Bangalore,field,Rajasthan Royals,,,,,BNJ Oxenford,
+,Mumbai,2022-04-27,Umran Malik,venue,0,Sunrisers Hyderabad,Gujarat Titans,Gujarat Titans,field,Gujarat Titans,,,,,CB Gaffaney,
+,Mumbai,2022-04-28,Kuldeep Yadav,venue,0,Kolkata Knight Riders,Delhi Capitals,Delhi Capitals,field,Delhi Capitals,,,,,AK Chaudhary,
+,Pune,2022-04-29,KH Pandya,venue,0,Lucknow Super Giants,Kings XI Punjab,Punjab Kings,field,Lucknow Super Giants,,,,,MA Gough,
+,Mumbai,2022-04-30,R Tewatia,venue,0,Royal Challengers Bangalore,Gujarat Titans,Royal Challengers Bangalore,bat,Gujarat Titans,,,,,HAS Khalid,
+,Navi Mumbai,2022-04-30,SA Yadav,venue,0,Rajasthan Royals,Mumbai Indians,Mumbai Indians,field,Mumbai Indians,,,,,BNJ Oxenford,
+,Mumbai,2022-05-01,Mohsin Khan (2),venue,0,Lucknow Super Giants,Delhi Capitals,Lucknow Super Giants,bat,Lucknow Super Giants,,,,,Chirra Ravikanthreddy,
+,Pune,2022-05-01,RD Gaikwad,venue,0,Chennai Super Kings,Sunrisers Hyderabad,Sunrisers Hyderabad,field,Chennai Super Kings,,,,,AK Chaudhary,
+,Mumbai,2022-05-02,RK Singh,venue,0,Rajasthan Royals,Kolkata Knight Riders,Kolkata Knight Riders,field,Kolkata Knight Riders,,,,,J Madanagopal,
+,Navi Mumbai,2022-05-03,K Rabada,venue,0,Gujarat Titans,Kings XI Punjab,Gujarat Titans,bat,Kings XI Punjab,,,,,R Pandit,
+,Pune,2022-05-04,HV Patel,venue,0,Royal Challengers Bangalore,Chennai Super Kings,Chennai Super Kings,field,Royal Challengers Bangalore,,,,,KN Ananthapadmanabhan,
+,Mumbai,2022-05-05,DA Warner,venue,0,Delhi Capitals,Sunrisers Hyderabad,Sunrisers Hyderabad,field,Delhi Capitals,,,,,Navdeep Singh,
+,Mumbai,2022-05-06,TH David,venue,0,Mumbai Indians,Gujarat Titans,Gujarat Titans,field,Mumbai Indians,,,,,J Madanagopal,
+,Pune,2022-05-07,Avesh Khan,venue,0,Lucknow Super Giants,Kolkata Knight Riders,Kolkata Knight Riders,field,Lucknow Super Giants,,,,,AK Chaudhary,
+,Mumbai,2022-05-07,YBK Jaiswal,venue,0,Kings XI Punjab,Rajasthan Royals,Punjab Kings,bat,Rajasthan Royals,,,,,Chirra Ravikanthreddy,
+,Mumbai,2022-05-08,PWH de Silva,venue,0,Royal Challengers Bangalore,Sunrisers Hyderabad,Royal Challengers Bangalore,bat,Royal Challengers Bangalore,,,,,BNJ Oxenford,
+,Navi Mumbai,2022-05-08,DP Conway,venue,0,Chennai Super Kings,Delhi Capitals,Delhi Capitals,field,Chennai Super Kings,,,,,Nitin Menon,
+,Navi Mumbai,2022-05-09,JJ Bumrah,venue,0,Kolkata Knight Riders,Mumbai Indians,Mumbai Indians,field,Kolkata Knight Riders,,,,,CB Gaffaney,
+,Pune,2022-05-10,Shubman Gill,venue,0,Gujarat Titans,Lucknow Super Giants,Gujarat Titans,bat,Gujarat Titans,,,,,KN Ananthapadmanabhan,
+,Navi Mumbai,2022-05-11,MR Marsh,venue,0,Rajasthan Royals,Delhi Capitals,Delhi Capitals,field,Delhi Capitals,,,,,NA Patwardhan,
+,Mumbai,2022-05-12,DR Sams,venue,0,Chennai Super Kings,Mumbai Indians,Mumbai Indians,field,Mumbai Indians,,,,,Chirra Ravikanthreddy,
+,Mumbai,2022-05-13,JM Bairstow,venue,0,Kings XI Punjab,Royal Challengers Bangalore,Royal Challengers Bangalore,field,Kings XI Punjab,,,,,J Madanagopal,
+,Pune,2022-05-14,AD Russell,venue,0,Kolkata Knight Riders,Sunrisers Hyderabad,Kolkata Knight Riders,bat,Kolkata Knight Riders,,,,,AK Chaudhary,
+,Mumbai,2022-05-15,WP Saha,venue,0,Chennai Super Kings,Gujarat Titans,Chennai Super Kings,bat,Gujarat Titans,,,,,R Pandit,
+,Mumbai,2022-05-15,TA Boult,venue,0,Rajasthan Royals,Lucknow Super Giants,Rajasthan Royals,bat,Rajasthan Royals,,,,,PG Pathak,
+,Navi Mumbai,2022-05-16,SN Thakur,venue,0,Delhi Capitals,Kings XI Punjab,Punjab Kings,field,Delhi Capitals,,,,,GR Sadashiv Iyer,
+,Mumbai,2022-05-17,RA Tripathi,venue,0,Sunrisers Hyderabad,Mumbai Indians,Mumbai Indians,field,Sunrisers Hyderabad,,,,,CB Gaffaney,
+,Navi Mumbai,2022-05-18,Q de Kock,venue,0,Lucknow Super Giants,Kolkata Knight Riders,Lucknow Super Giants,bat,Lucknow Super Giants,,,,,R Pandit,
+,Mumbai,2022-05-19,V Kohli,venue,0,Gujarat Titans,Royal Challengers Bangalore,Gujarat Titans,bat,Royal Challengers Bangalore,,,,,KN Ananthapadmanabhan,
+,Mumbai,2022-05-20,R Ashwin,venue,0,Chennai Super Kings,Rajasthan Royals,Chennai Super Kings,bat,Rajasthan Royals,,,,,CB Gaffaney,
+,Mumbai,2022-05-21,JJ Bumrah,venue,0,Delhi Capitals,Mumbai Indians,Mumbai Indians,field,Mumbai Indians,,,,,Nitin Menon,
+,Mumbai,2022-05-22,Harpreet Brar,venue,0,Sunrisers Hyderabad,Kings XI Punjab,Sunrisers Hyderabad,bat,Kings XI Punjab,,,,,AK Chaudhary,
+,Kolkata,2022-05-24,DA Miller,venue,0,Rajasthan Royals,Gujarat Titans,Gujarat Titans,field,Gujarat Titans,,,,,BNJ Oxenford,
+,Kolkata,2022-05-25,RM Patidar,venue,0,Royal Challengers Bangalore,Lucknow Super Giants,Lucknow Super Giants,field,Royal Challengers Bangalore,,,,,J Madanagopal,
+,Ahmedabad,2022-05-27,JC Buttler,venue,0,Royal Challengers Bangalore,Rajasthan Royals,Rajasthan Royals,field,Rajasthan Royals,,,,,CB Gaffaney,
+,Ahmedabad,2022-05-29,HH Pandya,venue,0,Rajasthan Royals,Gujarat Titans,Rajasthan Royals,bat,Gujarat Titans,,,,,CB Gaffaney,
+,Ahmedabad,2023-03-31,Rashid Khan,venue,0,Chennai Super Kings,Gujarat Titans,Gujarat Titans,field,Gujarat Titans,,,,,Nitin Menon,
+,Chandigarh,2023-04-01,Arshdeep Singh,venue,0,Kings XI Punjab,Kolkata Knight Riders,Kolkata Knight Riders,field,Kings XI Punjab,,,,,BNJ Oxenford,
+,Lucknow,2023-04-01,MA Wood,venue,0,Lucknow Super Giants,Delhi Capitals,Delhi Capitals,field,Lucknow Super Giants,,,,,AK Chaudhary,
+,Bengaluru,2023-04-02,F du Plessis,venue,0,Mumbai Indians,Royal Challengers Bangalore,Royal Challengers Bangalore,field,Royal Challengers Bangalore,,,,,Nitin Menon,
+,Hyderabad,2023-04-02,JC Buttler,venue,0,Rajasthan Royals,Sunrisers Hyderabad,Sunrisers Hyderabad,field,Rajasthan Royals,,,,,KN Ananthapadmanabhan,
+,Chennai,2023-04-03,MM Ali,venue,0,Chennai Super Kings,Lucknow Super Giants,Lucknow Super Giants,field,Chennai Super Kings,,,,,A Totre,
+,Delhi,2023-04-04,B Sai Sudharsan,venue,0,Delhi Capitals,Gujarat Titans,Gujarat Titans,field,Gujarat Titans,,,,,A Nand Kishore,
+,Guwahati,2023-04-05,NT Ellis,venue,0,Kings XI Punjab,Rajasthan Royals,Rajasthan Royals,field,Kings XI Punjab,,,,,KN Ananthapadmanabhan,
+,Kolkata,2023-04-06,SN Thakur,venue,0,Kolkata Knight Riders,Royal Challengers Bangalore,Royal Challengers Bangalore,field,Kolkata Knight Riders,,,,,Vinod Seshan,
+,Lucknow,2023-04-07,KH Pandya,venue,0,Sunrisers Hyderabad,Lucknow Super Giants,Sunrisers Hyderabad,bat,Lucknow Super Giants,,,,,J Madanagopal,
+,Guwahati,2023-04-08,YBK Jaiswal,venue,0,Rajasthan Royals,Delhi Capitals,Delhi Capitals,field,Rajasthan Royals,,,,,Navdeep Singh,
+,Mumbai,2023-04-08,RA Jadeja,venue,0,Mumbai Indians,Chennai Super Kings,Chennai Super Kings,field,Chennai Super Kings,,,,,CB Gaffaney,
+,Ahmedabad,2023-04-09,RK Singh,venue,0,Gujarat Titans,Kolkata Knight Riders,Gujarat Titans,bat,Kolkata Knight Riders,,,,,Nitin Menon,
+,Hyderabad,2023-04-09,S Dhawan,venue,0,Kings XI Punjab,Sunrisers Hyderabad,Sunrisers Hyderabad,field,Sunrisers Hyderabad,,,,,BNJ Oxenford,
+,Bengaluru,2023-04-10,N Pooran,venue,0,Royal Challengers Bangalore,Lucknow Super Giants,Lucknow Super Giants,field,Lucknow Super Giants,,,,,AK Chaudhary,
+,Delhi,2023-04-11,RG Sharma,venue,0,Delhi Capitals,Mumbai Indians,Mumbai Indians,field,Mumbai Indians,,,,,MA Gough,
+,Chennai,2023-04-12,R Ashwin,venue,0,Rajasthan Royals,Chennai Super Kings,Chennai Super Kings,field,Rajasthan Royals,,,,,Vinod Seshan,
+,Chandigarh,2023-04-13,MM Sharma,venue,0,Kings XI Punjab,Gujarat Titans,Gujarat Titans,field,Gujarat Titans,,,,,A Totre,
+,Kolkata,2023-04-14,HC Brook,venue,0,Sunrisers Hyderabad,Kolkata Knight Riders,Kolkata Knight Riders,field,Sunrisers Hyderabad,,,,,CB Gaffaney,
+,Bengaluru,2023-04-15,V Kohli,venue,0,Royal Challengers Bangalore,Delhi Capitals,Delhi Capitals,field,Royal Challengers Bangalore,,,,,KN Ananthapadmanabhan,
+,Lucknow,2023-04-15,Sikandar Raza,venue,0,Lucknow Super Giants,Kings XI Punjab,Punjab Kings,field,Kings XI Punjab,,,,,HAS Khalid,
+,Mumbai,2023-04-16,VR Iyer,venue,0,Kolkata Knight Riders,Mumbai Indians,Mumbai Indians,field,Mumbai Indians,,,,,BNJ Oxenford,
+,Ahmedabad,2023-04-16,SO Hetmyer,venue,0,Gujarat Titans,Rajasthan Royals,Rajasthan Royals,field,Rajasthan Royals,,,,,AK Chaudhary,
+,Bengaluru,2023-04-17,DP Conway,venue,0,Chennai Super Kings,Royal Challengers Bangalore,Royal Challengers Bangalore,field,Chennai Super Kings,,,,,KN Ananthapadmanabhan,
+,Hyderabad,2023-04-18,C Green,venue,0,Mumbai Indians,Sunrisers Hyderabad,Sunrisers Hyderabad,field,Mumbai Indians,,,,,Nitin Menon,
+,Jaipur,2023-04-19,MP Stoinis,venue,0,Lucknow Super Giants,Rajasthan Royals,Rajasthan Royals,field,Lucknow Super Giants,,,,,J Madanagopal,
+,Chandigarh,2023-04-20,Mohammed Siraj,venue,0,Royal Challengers Bangalore,Kings XI Punjab,Punjab Kings,field,Royal Challengers Bangalore,,,,,AK Chaudhary,
+,Delhi,2023-04-20,I Sharma,venue,0,Kolkata Knight Riders,Delhi Capitals,Delhi Capitals,field,Delhi Capitals,,,,,MA Gough,
+,Chennai,2023-04-21,RA Jadeja,venue,0,Sunrisers Hyderabad,Chennai Super Kings,Chennai Super Kings,field,Chennai Super Kings,,,,,HAS Khalid,
+,Lucknow,2023-04-22,MM Sharma,venue,0,Gujarat Titans,Lucknow Super Giants,Gujarat Titans,bat,Gujarat Titans,,,,,A Totre,
+,Mumbai,2023-04-22,SM Curran,venue,0,Kings XI Punjab,Mumbai Indians,Mumbai Indians,field,Kings XI Punjab,,,,,CB Gaffaney,
+,Kolkata,2023-04-23,AM Rahane,venue,0,Chennai Super Kings,Kolkata Knight Riders,Kolkata Knight Riders,field,Chennai Super Kings,,,,,Nitin Menon,
+,Bengaluru,2023-04-23,GJ Maxwell,venue,0,Royal Challengers Bangalore,Rajasthan Royals,Rajasthan Royals,field,Royal Challengers Bangalore,,,,,MA Gough,
+,Hyderabad,2023-04-24,AR Patel,venue,0,Delhi Capitals,Sunrisers Hyderabad,Delhi Capitals,bat,Delhi Capitals,,,,,J Madanagopal,
+,Ahmedabad,2023-04-25,A Manohar,venue,0,Gujarat Titans,Mumbai Indians,Mumbai Indians,field,Gujarat Titans,,,,,AK Chaudhary,
+,Bengaluru,2023-04-26,CV Varun,venue,0,Kolkata Knight Riders,Royal Challengers Bangalore,Royal Challengers Bangalore,field,Kolkata Knight Riders,,,,,KN Ananthapadmanabhan,
+,Jaipur,2023-04-27,YBK Jaiswal,venue,0,Rajasthan Royals,Chennai Super Kings,Rajasthan Royals,bat,Rajasthan Royals,,,,,A Totre,
+,Chandigarh,2023-04-28,MP Stoinis,venue,0,Lucknow Super Giants,Kings XI Punjab,Punjab Kings,field,Lucknow Super Giants,,,,,Nitin Menon,
+,Kolkata,2023-04-29,J Little,venue,0,Kolkata Knight Riders,Gujarat Titans,Gujarat Titans,field,Gujarat Titans,,,,,NA Patwardhan,
+,Delhi,2023-04-29,MR Marsh,venue,0,Sunrisers Hyderabad,Delhi Capitals,Sunrisers Hyderabad,bat,Sunrisers Hyderabad,,,,,MA Gough,
+,Chennai,2023-04-30,DP Conway,venue,0,Chennai Super Kings,Kings XI Punjab,Chennai Super Kings,bat,Kings XI Punjab,,,,,RJ Tucker,
+,Mumbai,2023-04-30,YBK Jaiswal,venue,0,Rajasthan Royals,Mumbai Indians,Rajasthan Royals,bat,Mumbai Indians,,,,,Vinod Seshan,
+,Lucknow,2023-05-01,F du Plessis,venue,0,Royal Challengers Bangalore,Lucknow Super Giants,Royal Challengers Bangalore,bat,Royal Challengers Bangalore,,,,,AK Chaudhary,
+,Ahmedabad,2023-05-02,Mohammed Shami,venue,0,Delhi Capitals,Gujarat Titans,Delhi Capitals,bat,Delhi Capitals,,,,,MA Gough,
+,Chandigarh,2023-05-03,Ishan Kishan,venue,0,Kings XI Punjab,Mumbai Indians,Mumbai Indians,field,Mumbai Indians,,,,,J Madanagopal,
+,Lucknow,2023-05-03,,venue,0,Lucknow Super Giants,Chennai Super Kings,Chennai Super Kings,field,,,,,,AK Chaudhary,
+,Hyderabad,2023-05-04,CV Varun,venue,0,Kolkata Knight Riders,Sunrisers Hyderabad,Kolkata Knight Riders,bat,Kolkata Knight Riders,,,,,KN Ananthapadmanabhan,
+,Jaipur,2023-05-05,Rashid Khan,venue,0,Rajasthan Royals,Gujarat Titans,Rajasthan Royals,bat,Gujarat Titans,,,,,HAS Khalid,
+,Chennai,2023-05-06,M Pathirana,venue,0,Mumbai Indians,Chennai Super Kings,Chennai Super Kings,field,Chennai Super Kings,,,,,BNJ Oxenford,
+,Delhi,2023-05-06,PD Salt,venue,0,Royal Challengers Bangalore,Delhi Capitals,Royal Challengers Bangalore,bat,Delhi Capitals,,,,,RJ Tucker,
+,Ahmedabad,2023-05-07,Shubman Gill,venue,0,Gujarat Titans,Lucknow Super Giants,Lucknow Super Giants,field,Gujarat Titans,,,,,AK Chaudhary,
+,Jaipur,2023-05-07,GD Phillips,venue,0,Rajasthan Royals,Sunrisers Hyderabad,Rajasthan Royals,bat,Sunrisers Hyderabad,,,,,Nitin Menon,
+,Kolkata,2023-05-08,AD Russell,venue,0,Kings XI Punjab,Kolkata Knight Riders,Punjab Kings,bat,Kolkata Knight Riders,,,,,A Totre,
+,Mumbai,2023-05-09,SA Yadav,venue,0,Royal Challengers Bangalore,Mumbai Indians,Mumbai Indians,field,Mumbai Indians,,,,,HAS Khalid,
+,Chennai,2023-05-10,RA Jadeja,venue,0,Chennai Super Kings,Delhi Capitals,Chennai Super Kings,bat,Chennai Super Kings,,,,,CB Gaffaney,
+,Kolkata,2023-05-11,YBK Jaiswal,venue,0,Kolkata Knight Riders,Rajasthan Royals,Rajasthan Royals,field,Rajasthan Royals,,,,,RJ Tucker,
+,Mumbai,2023-05-12,SA Yadav,venue,0,Mumbai Indians,Gujarat Titans,Gujarat Titans,field,Mumbai Indians,,,,,Nitin Menon,
+,Delhi,2023-05-13,P Simran Singh,venue,0,Kings XI Punjab,Delhi Capitals,Delhi Capitals,field,Kings XI Punjab,,,,,CB Gaffaney,
+,Hyderabad,2023-05-13,PN Mankad,venue,0,Sunrisers Hyderabad,Lucknow Super Giants,Sunrisers Hyderabad,bat,Lucknow Super Giants,,,,,A Totre,
+,Jaipur,2023-05-14,WD Parnell,venue,0,Royal Challengers Bangalore,Rajasthan Royals,Royal Challengers Bangalore,bat,Royal Challengers Bangalore,,,,,KN Ananthapadmanabhan,
+,Chennai,2023-05-14,RK Singh,venue,0,Chennai Super Kings,Kolkata Knight Riders,Chennai Super Kings,bat,Kolkata Knight Riders,,,,,Tapan Sharma,
+,Ahmedabad,2023-05-15,Shubman Gill,venue,0,Gujarat Titans,Sunrisers Hyderabad,Sunrisers Hyderabad,field,Gujarat Titans,,,,,J Madanagopal,
+,Lucknow,2023-05-16,MP Stoinis,venue,0,Lucknow Super Giants,Mumbai Indians,Mumbai Indians,field,Lucknow Super Giants,,,,,AK Chaudhary,
+,Dharamsala,2023-05-17,RR Rossouw,venue,0,Delhi Capitals,Kings XI Punjab,Punjab Kings,field,Delhi Capitals,,,,,KN Ananthapadmanabhan,
+,Hyderabad,2023-05-18,V Kohli,venue,0,Sunrisers Hyderabad,Royal Challengers Bangalore,Royal Challengers Bangalore,field,Royal Challengers Bangalore,,,,,BNJ Oxenford,
+,Dharamsala,2023-05-19,D Padikkal,venue,0,Kings XI Punjab,Rajasthan Royals,Rajasthan Royals,field,Rajasthan Royals,,,,,A Nand Kishore,
+,Delhi,2023-05-20,RD Gaikwad,venue,0,Chennai Super Kings,Delhi Capitals,Chennai Super Kings,bat,Chennai Super Kings,,,,,CB Gaffaney,
+,Kolkata,2023-05-20,N Pooran,venue,0,Lucknow Super Giants,Kolkata Knight Riders,Kolkata Knight Riders,field,Lucknow Super Giants,,,,,J Madanagopal,
+,Mumbai,2023-05-21,C Green,venue,0,Sunrisers Hyderabad,Mumbai Indians,Mumbai Indians,field,Mumbai Indians,,,,,KN Ananthapadmanabhan,
+,Bengaluru,2023-05-21,Shubman Gill,venue,0,Royal Challengers Bangalore,Gujarat Titans,Gujarat Titans,field,Gujarat Titans,,,,,Nitin Menon,
+,Chennai,2023-05-23,RD Gaikwad,venue,0,Chennai Super Kings,Gujarat Titans,Gujarat Titans,field,Chennai Super Kings,,,,,AK Chaudhary,
+,Chennai,2023-05-24,Akash Madhwal,venue,0,Mumbai Indians,Lucknow Super Giants,Mumbai Indians,bat,Mumbai Indians,,,,,BNJ Oxenford,
+,Ahmedabad,2023-05-26,Shubman Gill,venue,0,Gujarat Titans,Mumbai Indians,Mumbai Indians,field,Gujarat Titans,,,,,Nitin Menon,
+,Ahmedabad,2023-05-29,DP Conway,venue,0,Gujarat Titans,Chennai Super Kings,Chennai Super Kings,field,Chennai Super Kings,,,,,Nitin Menon,
